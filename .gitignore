@@ -1,0 +1,7 @@
+# Video original / completo pesado
+vsl_optimizado_full.mp4
+temp_clips/
+
+# Python cache
+__pycache__/
+*.py[cod]

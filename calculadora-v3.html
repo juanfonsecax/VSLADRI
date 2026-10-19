@@ -9,32 +9,142 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <style>
+    :root {
+      /* ===== FTMO PROP FIRM DARK FINTECH PALETTE (OFFICIAL 2025/2026) ===== */
+      --bg-main: #070A12;
+      --bg-Ambient: radial-gradient(ellipse 80% 50% at 50% -10%, rgba(0, 82, 255, 0.24) 0%, rgba(0, 212, 255, 0.06) 45%, #070A12 80%);
+      --bg-ambient: var(--bg-Ambient);
+      --bg-card: linear-gradient(180deg, rgba(20, 27, 45, 0.92) 0%, rgba(12, 17, 29, 0.96) 100%);
+      --bg-card-elevated: #141C2E;
+      --border-subtle: rgba(0, 212, 255, 0.16);
+      --border-focus: #00D4FF;
+      --ftmo-blue-primary: #0052FF;
+      --ftmo-cyan-accent: #00D4FF;
+      --ftmo-gradient: linear-gradient(135deg, #0052FF 0%, #00A3FF 55%, #00D4FF 100%);
+      --ftmo-text-gradient: linear-gradient(90deg, #FFFFFF 0%, #A5F3FC 45%, #00D4FF 100%);
+      --cta-emerald: linear-gradient(135deg, #00E676 0%, #00C853 100%);
+      --cta-emerald-glow: 0 10px 32px -4px rgba(0, 230, 118, 0.42);
+      --danger-shock: #FF3B5C;
+      --text-primary: #F8FAFC;
+      --text-secondary: #94A3B8;
+    }
+    html { background-color: var(--bg-main); }
     body {
       font-family: 'Inter', sans-serif;
-      background-color: #070A12;
-      color: #F8FAFC;
+      background-color: var(--bg-main);
+      background-image: var(--bg-Ambient);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      color: var(--text-primary);
       overflow-x: hidden;
     }
-    .glow-emerald {
-      box-shadow: 0 0 35px -5px rgba(16, 185, 129, 0.4);
-    }
-    .glow-red {
-      box-shadow: 0 0 30px -5px rgba(239, 68, 68, 0.35);
-    }
+    /* Luz cenital azul FTMO */
+    .ambient-bg { position: fixed; inset: 0; z-index: -1; pointer-events: none; background: var(--bg-Ambient); }
+    .bg-ftmo-elevated { background-color: var(--bg-card-elevated); }
+    .border-ftmo-subtle { border: 1px solid var(--border-subtle); }
+    .border-t-ftmo { border-top: 1px solid var(--border-subtle); }
+    .text-profit { color: #00E676; }
+    .text-ftmo-cyan { color: var(--ftmo-cyan-accent); }
+    .text-ftmo-light { color: #A5F3FC; }
+    .text-danger-shock { color: var(--danger-shock); }
+    .topbar-ftmo { background: rgba(0, 82, 255, 0.08); border-bottom: 1px solid var(--border-subtle); }
+    .glow-emerald { box-shadow: var(--cta-emerald-glow); }
+    .glow-red { box-shadow: 0 0 30px -5px rgba(255, 59, 92, 0.45); }
     .glow-card {
-      background: linear-gradient(180deg, rgba(15, 23, 42, 0.9) 0%, rgba(7, 10, 18, 0.98) 100%);
-      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-top: 1px solid rgba(0, 212, 255, 0.35);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.08), 0 12px 32px -8px rgba(0, 0, 0, 0.6);
     }
+    .text-gradient-ftmo {
+      background: var(--ftmo-text-gradient);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      color: transparent;
+    }
+    .btn-cta {
+      background: var(--cta-emerald);
+      color: #04130B;
+      font-weight: 800;
+      border: 2px solid rgba(0, 230, 118, 0.4);
+      box-shadow: var(--cta-emerald-glow);
+      transition: transform 0.18s ease, filter 0.18s ease, box-shadow 0.18s ease;
+    }
+    .btn-cta:hover { filter: brightness(1.07); box-shadow: 0 12px 38px rgba(0, 230, 118, 0.5); }
+    .btn-cta:active { filter: brightness(0.98); }
+    .btn-secondary {
+      background: rgba(0, 82, 255, 0.12);
+      border: 1px solid var(--border-subtle);
+      color: #A5F3FC;
+      transition: all 0.18s ease;
+    }
+    .btn-secondary:hover { background: rgba(0, 82, 255, 0.22); border-color: var(--border-focus); }
+    .banner-qualified { background: rgba(0, 230, 118, 0.07); border: 1px solid rgba(0, 230, 118, 0.3); }
+    .data-shock { border: 1px solid rgba(255, 59, 92, 0.55); background: rgba(255, 59, 92, 0.08); color: var(--danger-shock); }
+    /* Selectores de cuenta estilo FTMO */
+    .acc-btn {
+      background: var(--bg-card-elevated);
+      border: 1px solid rgba(148, 163, 184, 0.15);
+      color: var(--text-secondary);
+      font-weight: 700;
+      transition: all 0.18s ease;
+    }
+    .acc-btn:hover { border-color: var(--border-focus); color: #FFFFFF; }
+    .acc-btn.is-active {
+      background: var(--ftmo-gradient);
+      border-color: transparent;
+      color: #FFFFFF;
+      font-weight: 800;
+      box-shadow: 0 4px 15px rgba(0, 82, 255, 0.35);
+    }
+    .preset-btn { background: var(--bg-card-elevated); border: 1px solid rgba(148, 163, 184, 0.15); transition: all 0.18s ease; }
+    .preset-btn:hover { border-color: var(--border-focus); background: rgba(0, 82, 255, 0.12); }
+    .preset-btn.is-active { background: var(--ftmo-gradient); border-color: transparent; box-shadow: 0 4px 15px rgba(0, 82, 255, 0.35); }
+    .preset-title { color: #E2E8F0; font-weight: 700; }
+    .preset-btn.is-active .preset-title { color: #FFFFFF; }
+    .preset-sub { color: var(--text-secondary); }
+    .preset-btn.is-active .preset-sub, .preset-btn.is-active .preset-sub strong { color: rgba(255, 255, 255, 0.9); }
+    .preset-state {
+      color: var(--text-secondary);
+      font-weight: 700;
+      padding: 2px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(148, 163, 184, 0.25);
+      white-space: nowrap;
+    }
+    .preset-btn.is-active .preset-state { color: #04130B; font-weight: 800; background: #FFFFFF; border-color: #FFFFFF; }
+    .risk-badge { font-weight: 800; }
+    .risk-badge.is-safe { background: rgba(0, 230, 118, 0.15); border: 1px solid rgba(0, 230, 118, 0.35); color: #00E676; }
+    .risk-badge.is-danger { background: rgba(255, 59, 92, 0.15); border: 1px solid rgba(255, 59, 92, 0.5); color: var(--danger-shock); }
+    .trap-box.is-safe { border-color: rgba(0, 230, 118, 0.35); background: rgba(0, 230, 118, 0.07); color: #D6FFE9; }
+    .trap-box.is-danger { border-color: rgba(255, 59, 92, 0.55); background: rgba(255, 59, 92, 0.09); color: #FFB8C5; }
+    .kpi-card { border-left: 4px solid var(--border-subtle); }
+    .kpi-card.accent-profit { border-left-color: #00E676; }
+    .kpi-card.accent-cyan { border-left-color: var(--ftmo-cyan-accent); }
+    .kpi-card.is-safe { border-left-color: #00E676; }
+    .kpi-card.is-danger { border-left-color: var(--danger-shock); }
+    .kpi-value.is-safe { color: #00E676; }
+    .kpi-value.is-danger { color: var(--danger-shock); }
+    .canvas-frame { background: rgba(7, 10, 18, 0.94); border: 1px solid var(--border-subtle); }
+    .swatch { display: inline-block; width: 14px; height: 4px; border-radius: 999px; }
+    .swatch-profit { background: #00E676; }
+    .swatch-cyan { background: rgba(0, 212, 255, 0.55); }
+    .swatch-danger { background: var(--danger-shock); }
     input[type="range"] {
-      accent-color: #10B981;
+      accent-color: var(--ftmo-cyan-accent);
     }
   </style>
 </head>
 <body class="min-h-screen flex flex-col justify-between selection:bg-emerald-500 selection:text-black">
 
+  <div class="ambient-bg" aria-hidden="true"></div>
+
   <!-- TOP STATUS BAR -->
-  <div class="w-full bg-slate-900/95 border-b border-slate-800 py-2.5 px-4 text-center">
-    <p id="topBannerText" class="text-xs sm:text-sm font-semibold text-emerald-400 tracking-wide">
+  <div class="w-full topbar-ftmo py-2.5 px-4 text-center">
+    <p id="topBannerText" class="text-xs sm:text-sm font-semibold text-ftmo-light tracking-wide">
       🔓 HERRAMIENTA INSTITUCIONAL DESBLOQUEADA · TRADING PROFESIONAL (ADRIANA FONSECA)
     </p>
   </div>
@@ -42,7 +152,7 @@
   <main class="flex-grow w-full max-w-6xl mx-auto px-4 pt-6 pb-14">
 
     <!-- PRE-CALL CONFIRMATION BANNER (Se adapta según si viene de agendar llamada) -->
-    <div id="qualifiedBanner" class="mb-7 rounded-2xl bg-emerald-950/30 border border-emerald-500/40 p-4 sm:p-6 glow-emerald">
+    <div id="qualifiedBanner" class="mb-7 rounded-2xl banner-qualified p-4 sm:p-6 glow-emerald">
       <div class="flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
         <div>
           <span class="inline-block px-2.5 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-xs font-bold mb-1.5">
@@ -57,7 +167,7 @@
         </div>
         <a 
           href="#checklistSection" 
-          class="shrink-0 px-4 py-2.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-extrabold text-xs sm:text-sm transition"
+          class="btn-cta shrink-0 px-4 py-2.5 rounded-xl text-xs sm:text-sm"
         >
           Ver Pasos para mi Llamada ↓
         </a>
@@ -67,7 +177,7 @@
     <!-- HEADER -->
     <div class="text-center max-w-3xl mx-auto mb-8">
       <h1 class="text-2xl sm:text-4xl font-black tracking-tight text-white mb-2">
-        Calculadora de Consistencia y <span class="text-emerald-400">Simulación Monte Carlo</span>
+        Calculadora de Consistencia y <span class="text-gradient-ftmo">Simulación Monte Carlo</span>
       </h1>
       <p class="text-xs sm:text-base text-slate-400">
         Descubre por qué arriesgar el "1% nominal" en una Prop Firm quema tu cuenta, y cómo la matemática institucional multiplica tu capital sin sobreapalancarte.
@@ -86,20 +196,28 @@
             1. Tamaño Nominal de tu Cuenta (Prop Firm / FTMO)
           </label>
           <div class="grid grid-cols-5 gap-1.5" id="accountSizeButtons">
-            <button onclick="setAccountSize(10000)" data-size="10000" class="acc-btn py-2.5 rounded-lg border border-slate-700 bg-slate-900 text-xs font-bold text-slate-300 hover:border-emerald-500">$10k</button>
-            <button onclick="setAccountSize(25000)" data-size="25000" class="acc-btn py-2.5 rounded-lg border border-slate-700 bg-slate-900 text-xs font-bold text-slate-300 hover:border-emerald-500">$25k</button>
-            <button onclick="setAccountSize(50000)" data-size="50000" class="acc-btn py-2.5 rounded-lg border border-slate-700 bg-slate-900 text-xs font-bold text-slate-300 hover:border-emerald-500">$50k</button>
-            <button onclick="setAccountSize(100000)" data-size="100000" class="acc-btn py-2.5 rounded-lg border border-emerald-500 bg-emerald-500/20 text-xs font-extrabold text-emerald-300">$100k</button>
-            <button onclick="setAccountSize(200000)" data-size="200000" class="acc-btn py-2.5 rounded-lg border border-slate-700 bg-slate-900 text-xs font-bold text-slate-300 hover:border-emerald-500">$200k</button>
+            <button onclick="setAccountSize(10000)" data-size="10000" class="acc-btn py-2.5 rounded-lg text-xs">$10k</button>
+            <button onclick="setAccountSize(25000)" data-size="25000" class="acc-btn py-2.5 rounded-lg text-xs">$25k</button>
+            <button onclick="setAccountSize(50000)" data-size="50000" class="acc-btn py-2.5 rounded-lg text-xs">$50k</button>
+            <button onclick="setAccountSize(100000)" data-size="100000" class="acc-btn is-active py-2.5 rounded-lg text-xs">$100k</button>
+            <button onclick="setAccountSize(200000)" data-size="200000" class="acc-btn py-2.5 rounded-lg text-xs">$200k</button>
           </div>
 
           <!-- REVELACIÓN DEL MARGEN REAL -->
-          <div class="mt-3 p-3 rounded-xl bg-slate-900/90 border border-slate-800 flex items-center justify-between">
+          <div class="bg-ftmo-elevated border-ftmo-subtle mt-3 p-3 rounded-xl flex items-center justify-between">
             <div>
               <div class="text-[11px] text-slate-400">Pérdida Máxima Permitida (10% Drawdown)</div>
               <div class="text-xs text-slate-300 font-medium">Este es el <strong class="text-white">verdadero tamaño</strong> de tu cuenta:</div>
             </div>
-            <div id="realCapitalDisplay" class="text-lg sm:text-xl font-black text-emerald-400">$10,000</div>
+            <div id="realCapitalDisplay" class="text-lg sm:text-xl font-black text-ftmo-cyan">$10,000</div>
+          </div>
+
+          <!-- DATA-SHOCK (Estilo China CRO): La trampa del 10% real -->
+          <div class="mt-3 p-3 rounded-xl data-shock">
+            <div class="text-[11px] font-black tracking-wide mb-1">⛔ DATA-SHOCK: LA TRAMPA DEL RIESGO REAL</div>
+            <p class="text-[11px] leading-relaxed text-slate-300">
+              Arriesgar <strong class="text-danger-shock">$1,000</strong> en una cuenta de <strong class="text-slate-100">$100,000</strong> parece un inofensivo "1% nominal"... pero tu drawdown máximo es de <strong class="text-slate-100">$10,000</strong>: estás arriesgando el <strong class="text-danger-shock">10% real</strong> por operación. Una racha normal de 10 pérdidas seguidas = <strong class="text-danger-shock">cuenta quemada</strong>.
+            </p>
           </div>
         </div>
 
@@ -109,23 +227,23 @@
             <label class="text-xs font-bold uppercase tracking-wider text-slate-400">
               2. Riesgo por Trade (Sobre tu Margen Real)
             </label>
-            <span id="riskPercentBadge" class="px-2 py-0.5 rounded text-xs font-extrabold bg-emerald-500/20 text-emerald-300">
+            <span id="riskPercentBadge" class="risk-badge is-safe px-2 py-0.5 rounded text-xs">
               2.0% Real ($200/trade)
             </span>
           </div>
           <input 
             type="range" id="realRiskSlider" min="0.5" max="10" step="0.5" value="2.0" 
             oninput="updateSimulation()"
-            class="w-full h-2 bg-slate-800 rounded-lg cursor-pointer"
+            class="w-full h-2 bg-ftmo-elevated rounded-lg cursor-pointer"
           />
           <div class="flex justify-between text-[10px] text-slate-500 mt-1">
             <span>0.5% (Conservador)</span>
             <span>2.0% (Óptimo Institucional)</span>
-            <span class="text-red-400 font-semibold">10% (Trampa del 1% Nominal)</span>
+            <span class="text-danger-shock font-semibold">10% (Trampa del 1% Nominal)</span>
           </div>
 
           <!-- CAJA DE ALERTA DE TRAMPA -->
-          <div id="trapWarningBox" class="mt-2.5 p-3 rounded-xl border text-xs leading-relaxed"></div>
+          <div id="trapWarningBox" class="trap-box is-safe mt-2.5 p-3 rounded-xl text-xs leading-relaxed"></div>
         </div>
 
         <!-- 3. PERFIL ESTADÍSTICO (PRESETS REALES DEL VSL) -->
@@ -134,43 +252,43 @@
             3. Escenario Estadístico (Win Rate + Riesgo:Beneficio)
           </label>
           <div class="grid grid-cols-1 gap-2 mb-3">
-            <button onclick="setPreset(60, 2.0, 'estandar')" id="preset_estandar" class="preset-btn text-left p-2.5 rounded-xl border border-emerald-500 bg-emerald-500/15 text-xs flex justify-between items-center">
+            <button onclick="setPreset(60, 2.0, 'estandar')" id="preset_estandar" class="preset-btn is-active text-left p-2.5 rounded-xl text-xs flex justify-between items-center gap-2">
               <div>
-                <div class="font-bold text-white">📊 Promedio del Estudio (+40R en 50 Trades · 20 de 20 en Positivo)</div>
-                <div class="text-slate-400 text-[11px]">60% Win Rate · 2.0R Beneficio = <strong class="text-emerald-300">+40R cada 50 trades</strong></div>
+                <div class="preset-title">📊 Promedio del Estudio (+40R en 50 Trades · 20 de 20 en Positivo)</div>
+                <div class="preset-sub text-[11px]">60% Win Rate · 2.0R Beneficio = <strong>+40R cada 50 trades</strong></div>
               </div>
-              <span class="text-emerald-400 font-bold">Activo</span>
+              <span class="preset-state">Activo</span>
             </button>
-            <button onclick="setPreset(65, 2.0, 'steve')" id="preset_steve" class="preset-btn text-left p-2.5 rounded-xl border border-slate-800 bg-slate-900/70 text-xs flex justify-between items-center hover:border-slate-700">
+            <button onclick="setPreset(65, 2.0, 'steve')" id="preset_steve" class="preset-btn text-left p-2.5 rounded-xl text-xs flex justify-between items-center gap-2">
               <div>
-                <div class="font-bold text-slate-200">⚡ Caso Steve (Scalping en FTMO 50k · ~3,300 USD)</div>
-                <div class="text-slate-400 text-[11px]">65% Win Rate · 2.0R Beneficio</div>
+                <div class="preset-title">⚡ Caso Steve (Scalping en FTMO 50k · ~3,300 USD)</div>
+                <div class="preset-sub text-[11px]">65% Win Rate · 2.0R Beneficio</div>
               </div>
-              <span class="text-slate-500">Probar</span>
+              <span class="preset-state">Probar</span>
             </button>
-            <button onclick="setPreset(74, 2.32, 'abigail')" id="preset_abigail" class="preset-btn text-left p-2.5 rounded-xl border border-slate-800 bg-slate-900/70 text-xs flex justify-between items-center hover:border-slate-700">
+            <button onclick="setPreset(74, 2.32, 'abigail')" id="preset_abigail" class="preset-btn text-left p-2.5 rounded-xl text-xs flex justify-between items-center gap-2">
               <div>
-                <div class="font-bold text-slate-200">🔥 Caso Abigail / Top Performers (74% Win Rate · 2.32R · Hasta +110R)</div>
-                <div class="text-slate-400 text-[11px]">74% Win Rate · 2.32R Beneficio</div>
+                <div class="preset-title">🔥 Caso Abigail / Top Performers (74% Win Rate · 2.32R · Hasta +110R)</div>
+                <div class="preset-sub text-[11px]">74% Win Rate · 2.32R Beneficio</div>
               </div>
-              <span class="text-slate-500">Probar</span>
+              <span class="preset-state">Probar</span>
             </button>
           </div>
 
           <div class="grid grid-cols-2 gap-3 pt-1">
-            <div class="p-2.5 rounded-xl bg-slate-900 border border-slate-800">
+            <div class="bg-ftmo-elevated border-ftmo-subtle p-2.5 rounded-xl">
               <div class="flex justify-between text-xs mb-1">
                 <span class="text-slate-400">Win Rate:</span>
-                <strong id="winRateLabel" class="text-emerald-400">60%</strong>
+                <strong id="winRateLabel" class="text-profit">60%</strong>
               </div>
-              <input type="range" id="winRateSlider" min="40" max="80" step="1" value="60" oninput="updateSimulation()" class="w-full h-1.5 bg-slate-800 rounded-lg cursor-pointer" />
+              <input type="range" id="winRateSlider" min="40" max="80" step="1" value="60" oninput="updateSimulation()" class="w-full h-1.5 bg-ftmo-elevated rounded-lg cursor-pointer" />
             </div>
-            <div class="p-2.5 rounded-xl bg-slate-900 border border-slate-800">
+            <div class="bg-ftmo-elevated border-ftmo-subtle p-2.5 rounded-xl">
               <div class="flex justify-between text-xs mb-1">
                 <span class="text-slate-400">Ratio R:R:</span>
-                <strong id="rrLabel" class="text-emerald-400">1 : 2.0</strong>
+                <strong id="rrLabel" class="text-profit">1 : 2.0</strong>
               </div>
-              <input type="range" id="rrSlider" min="1.2" max="3.0" step="0.1" value="2.0" oninput="updateSimulation()" class="w-full h-1.5 bg-slate-800 rounded-lg cursor-pointer" />
+              <input type="range" id="rrSlider" min="1.2" max="3.0" step="0.1" value="2.0" oninput="updateSimulation()" class="w-full h-1.5 bg-ftmo-elevated rounded-lg cursor-pointer" />
             </div>
           </div>
         </div>
@@ -183,7 +301,7 @@
             </label>
             <span id="tradesPerWeekLabel" class="text-xs font-bold text-white">4 trades / semana (~50 en 3 meses)</span>
           </div>
-          <input type="range" id="tradesWeekSlider" min="2" max="15" step="1" value="4" oninput="updateSimulation()" class="w-full h-2 bg-slate-800 rounded-lg cursor-pointer" />
+          <input type="range" id="tradesWeekSlider" min="2" max="15" step="1" value="4" oninput="updateSimulation()" class="w-full h-2 bg-ftmo-elevated rounded-lg cursor-pointer" />
         </div>
 
       </div>
@@ -193,21 +311,21 @@
 
         <!-- KPI CARDS -->
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-3.5">
-          <div class="glow-card rounded-2xl p-4 border-l-4 border-l-emerald-500">
+          <div class="glow-card kpi-card accent-profit rounded-2xl p-4">
             <div class="text-[11px] font-semibold uppercase text-slate-400">Expectativa por cada 50 Trades</div>
             <div id="kpiRDisplay" class="text-2xl sm:text-3xl font-black text-white mt-1">+40.0 R</div>
-            <div id="kpiUsd50Display" class="text-xs font-bold text-emerald-400 mt-0.5">+$8,000 USD acumulados</div>
+            <div id="kpiUsd50Display" class="text-profit text-xs font-bold mt-0.5">+$8,000 USD acumulados</div>
           </div>
 
-          <div class="glow-card rounded-2xl p-4 border-l-4 border-l-teal-400">
+          <div class="glow-card kpi-card accent-cyan rounded-2xl p-4">
             <div class="text-[11px] font-semibold uppercase text-slate-400">Ingreso Mensual Proyectado</div>
-            <div id="kpiMonthlyUsd" class="text-2xl sm:text-3xl font-black text-emerald-400 mt-1">+$2,773 USD</div>
+            <div id="kpiMonthlyUsd" class="text-profit text-2xl sm:text-3xl font-black mt-1">+$2,773 USD</div>
             <div id="kpiTimeNeeded" class="text-xs text-slate-400 mt-0.5">Operando 2-3 sesiones/sem</div>
           </div>
 
-          <div id="ruinCard" class="glow-card rounded-2xl p-4 border-l-4 border-l-emerald-500">
+          <div id="ruinCard" class="glow-card kpi-card is-safe rounded-2xl p-4">
             <div class="text-[11px] font-semibold uppercase text-slate-400">Riesgo de Quemar Cuenta (300 Trades)</div>
-            <div id="kpiRuinProb" class="text-2xl sm:text-3xl font-black text-emerald-400 mt-1">0.0%</div>
+            <div id="kpiRuinProb" class="kpi-value is-safe text-2xl sm:text-3xl font-black mt-1">0.0%</div>
             <div id="kpiMaxDD" class="text-xs text-slate-400 mt-0.5">Racha máx esperada: -14% del margen</div>
           </div>
         </div>
@@ -218,31 +336,35 @@
             <div>
               <h3 class="text-sm sm:text-base font-extrabold text-white flex items-center gap-2">
                 <span>Simulación Monte Carlo en Vivo (50 Trades)</span>
-                <span class="px-2 py-0.5 text-[10px] rounded bg-slate-800 text-emerald-400 font-semibold">15 Escenarios Aleatorios</span>
+                <span class="bg-ftmo-elevated text-ftmo-cyan px-2 py-0.5 text-[10px] rounded font-semibold">15 Escenarios Aleatorios</span>
               </h3>
               <p class="text-xs text-slate-400">
-                Compara la curva de capital usando el <strong class="text-emerald-400">Método Institucional de Adriana</strong> vs. la <strong class="text-red-400">Trampa del 10% del Margen Real</strong>.
+                Compara la curva de capital usando el <strong class="text-profit">Método Institucional de Adriana</strong> vs. la <strong class="text-danger-shock">Trampa del 10% del Margen Real</strong>.
               </p>
             </div>
             <button 
               onclick="updateSimulation()" 
-              class="self-start sm:self-auto px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 border border-slate-700 text-xs font-bold text-emerald-300 transition"
+              class="btn-secondary self-start sm:self-auto px-3 py-1.5 rounded-lg text-xs font-bold"
             >
               🔄 Re-Simular Rachas
             </button>
           </div>
 
-          <div class="relative w-full h-64 sm:h-72 bg-slate-950/90 rounded-xl border border-slate-800/90 p-2 overflow-hidden">
+          <div class="canvas-frame relative w-full h-64 sm:h-72 rounded-xl p-2 overflow-hidden">
             <canvas id="monteCarloCanvas" class="w-full h-full"></canvas>
           </div>
 
           <div class="mt-3 flex flex-wrap items-center justify-between gap-2 text-[11px] text-slate-400">
             <div class="flex items-center gap-2">
-              <span class="inline-block w-3 h-1 bg-emerald-400 rounded"></span>
-              <span>Curvas Verdes: Tu cuenta aplicando Gestión Profesional</span>
+              <span class="swatch swatch-profit"></span>
+              <span>Curva Verde Promedio: Método Institucional de Adriana (+40R)</span>
             </div>
             <div class="flex items-center gap-2">
-              <span class="inline-block w-3 h-1 bg-red-500 rounded"></span>
+              <span class="swatch swatch-cyan"></span>
+              <span>14 Escenarios Cian: Monte Carlo aleatorio</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="swatch swatch-danger"></span>
               <span>Línea Roja Punteada: Trader que arriesga $1,000 (10% del margen real) y quema la cuenta</span>
             </div>
           </div>
@@ -254,19 +376,19 @@
             📋 Tu Hoja de Ruta para la Sesión de Diagnóstico con Adriana
           </h3>
           <p class="text-xs sm:text-sm text-slate-300 mb-4">
-            Como viste arriba, con una cuenta de <strong id="summaryAcc" class="text-white">$100,000</strong> y arriesgando solo <strong id="summaryRisk" class="text-emerald-400">$200 por operación</strong>, el sistema estadístico proyecta <strong id="summaryProfit" class="text-emerald-400">+$8,000 USD cada 50 operaciones</strong> sin poner en riesgo tu cuenta de fondeo.
+            Como viste arriba, con una cuenta de <strong id="summaryAcc" class="text-white">$100,000</strong> y arriesgando solo <strong id="summaryRisk" class="text-profit">$200 por operación</strong>, el sistema estadístico proyecta <strong id="summaryProfit" class="text-profit">+$8,000 USD cada 50 operaciones</strong> sin poner en riesgo tu cuenta de fondeo.
           </p>
           <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
-            <div class="p-3 rounded-xl bg-slate-900/90 border border-slate-800">
-              <div class="font-bold text-emerald-400 mb-1">1. Confirma en WhatsApp</div>
+            <div class="bg-ftmo-elevated border-ftmo-subtle p-3 rounded-xl">
+              <div class="font-bold text-profit mb-1">1. Confirma en WhatsApp</div>
               <p class="text-slate-400">Revisa el mensaje que te enviamos para dejar bloqueado tu cupo en la agenda de Adriana.</p>
             </div>
-            <div class="p-3 rounded-xl bg-slate-900/90 border border-slate-800">
-              <div class="font-bold text-emerald-400 mb-1">2. Guarda tu Proyección</div>
+            <div class="bg-ftmo-elevated border-ftmo-subtle p-3 rounded-xl">
+              <div class="font-bold text-profit mb-1">2. Guarda tu Proyección</div>
               <p class="text-slate-400">Toma una captura de pantalla de estos números para que Adriana diseñe tu plan de fondeo en la llamada.</p>
             </div>
-            <div class="p-3 rounded-xl bg-slate-900/90 border border-slate-800">
-              <div class="font-bold text-emerald-400 mb-1">3. Puntualidad Institucional</div>
+            <div class="bg-ftmo-elevated border-ftmo-subtle p-3 rounded-xl">
+              <div class="font-bold text-profit mb-1">3. Puntualidad Institucional</div>
               <p class="text-slate-400">Conéctate en un lugar silencioso y sin distracciones. No reprogramamos sesiones perdidas.</p>
             </div>
           </div>
@@ -277,7 +399,7 @@
 
   </main>
 
-  <footer class="w-full border-t border-slate-900 py-6 text-center text-xs text-slate-600 px-4">
+  <footer class="w-full border-t-ftmo py-6 text-center text-xs text-slate-500 px-4">
     <p>© 2026 Adriana Fonseca · Trading Profesional · Calculadora basada en Simulación Estadística Monte Carlo.</p>
   </footer>
 
@@ -288,11 +410,7 @@
     function setAccountSize(size) {
       nominalAccount = size;
       document.querySelectorAll('.acc-btn').forEach(btn => {
-        if (parseInt(btn.dataset.size) === size) {
-          btn.className = "acc-btn py-2.5 rounded-lg border border-emerald-500 bg-emerald-500/20 text-xs font-extrabold text-emerald-300";
-        } else {
-          btn.className = "acc-btn py-2.5 rounded-lg border border-slate-700 bg-slate-900 text-xs font-bold text-slate-300 hover:border-emerald-500";
-        }
+        btn.classList.toggle('is-active', parseInt(btn.dataset.size) === size);
       });
       updateSimulation();
     }
@@ -301,16 +419,11 @@
       document.getElementById('winRateSlider').value = winRate;
       document.getElementById('rrSlider').value = rr;
       document.querySelectorAll('.preset-btn').forEach(btn => {
-        btn.className = "preset-btn text-left p-2.5 rounded-xl border border-slate-800 bg-slate-900/70 text-xs flex justify-between items-center hover:border-slate-700";
-        btn.querySelector('span').textContent = "Probar";
-        btn.querySelector('span').className = "text-slate-500";
+        const isActive = btn.id === 'preset_' + presetKey;
+        btn.classList.toggle('is-active', isActive);
+        const stateEl = btn.querySelector('.preset-state');
+        if (stateEl) stateEl.textContent = isActive ? 'Activo' : 'Probar';
       });
-      const activeBtn = document.getElementById('preset_' + presetKey);
-      if (activeBtn) {
-        activeBtn.className = "preset-btn text-left p-2.5 rounded-xl border border-emerald-500 bg-emerald-500/15 text-xs flex justify-between items-center";
-        activeBtn.querySelector('span').textContent = "Activo";
-        activeBtn.querySelector('span').className = "text-emerald-400 font-bold";
-      }
       updateSimulation();
     }
 
@@ -374,21 +487,25 @@
       const ruinProb = (ruinCount / iterations) * 100;
       const cappedDD = Math.min(100, Math.round(realRiskPct * 8.5)); // Aproximación estable de racha en 300 trades
 
-      if (realRiskPct >= 5.0) {
-        riskBadge.className = "px-2 py-0.5 rounded text-xs font-extrabold bg-red-500/20 text-red-300";
-        trapBox.className = "mt-2.5 p-3 rounded-xl border border-red-500/40 bg-red-950/30 text-red-200 text-xs leading-relaxed";
-        trapBox.innerHTML = `⚠️ <strong>¡ESTÁS EN LA TRAMPA DE LAS PROP FIRMS!</strong> Arriesgar $${Math.round(riskUsdPerTrade)} parece el "${nominalRiskPct.toFixed(2)}%" de $${nominalAccount.toLocaleString()}, pero en realidad estás arriesgando el <strong>${realRiskPct}% de tus $${realCapital.toLocaleString()} de pérdida máxima</strong>. En 300 trades una racha normal quemará tu cuenta.`;
-        ruinCard.className = "glow-card rounded-2xl p-4 border-l-4 border-l-red-500 glow-red";
-        document.getElementById('kpiRuinProb').className = "text-2xl sm:text-3xl font-black text-red-400 mt-1";
-        document.getElementById('kpiRuinProb').textContent = Math.max(ruinProb, realRiskPct >= 8 ? 88 : 42).toFixed(0) + '% PELIGRO';
+      const isTrapZone = realRiskPct >= 5.0;
+      const ruinValueEl = document.getElementById('kpiRuinProb');
+
+      riskBadge.classList.toggle('is-danger', isTrapZone);
+      riskBadge.classList.toggle('is-safe', !isTrapZone);
+      trapBox.classList.toggle('is-danger', isTrapZone);
+      trapBox.classList.toggle('is-safe', !isTrapZone);
+      ruinCard.classList.toggle('is-danger', isTrapZone);
+      ruinCard.classList.toggle('is-safe', !isTrapZone);
+      ruinValueEl.classList.toggle('is-danger', isTrapZone);
+      ruinValueEl.classList.toggle('is-safe', !isTrapZone);
+
+      if (isTrapZone) {
+        trapBox.innerHTML = `⚠️ <strong class="text-danger-shock">¡ESTÁS EN LA TRAMPA DE LAS PROP FIRMS!</strong> Arriesgar <strong class="text-danger-shock">$${Math.round(riskUsdPerTrade)}</strong> parece el "${nominalRiskPct.toFixed(2)}%" de $${nominalAccount.toLocaleString()}, pero en realidad estás arriesgando el <strong class="text-danger-shock">${realRiskPct}% de tus $${realCapital.toLocaleString()} de pérdida máxima</strong>. En 300 trades una racha normal quemará tu cuenta.`;
+        ruinValueEl.textContent = Math.max(ruinProb, realRiskPct >= 8 ? 88 : 42).toFixed(0) + '% PELIGRO';
         document.getElementById('kpiMaxDD').textContent = `Racha esperada: -${Math.min(150, Math.round(realRiskPct * 14))}% (Cuenta Quemada)`;
       } else {
-        riskBadge.className = "px-2 py-0.5 rounded text-xs font-extrabold bg-emerald-500/20 text-emerald-300";
-        trapBox.className = "mt-2.5 p-3 rounded-xl border border-emerald-500/30 bg-emerald-950/20 text-emerald-200 text-xs leading-relaxed";
-        trapBox.innerHTML = `✅ <strong>ZONA INSTITUCIONAL SEGURA:</strong> Estás calculando tu posición sobre tu pérdida máxima real ($${realCapital.toLocaleString()}). Con <strong>${realRiskPct}% real ($${Math.round(riskUsdPerTrade)}/trade)</strong>, puedes soportar cualquier racha estadística sin quemar la cuenta.`;
-        ruinCard.className = "glow-card rounded-2xl p-4 border-l-4 border-l-emerald-500";
-        document.getElementById('kpiRuinProb').className = "text-2xl sm:text-3xl font-black text-emerald-400 mt-1";
-        document.getElementById('kpiRuinProb').textContent = ruinProb < 2 ? '< 0.5% (Blindada)' : ruinProb.toFixed(1) + '%';
+        trapBox.innerHTML = `✅ <strong class="text-profit">ZONA INSTITUCIONAL SEGURA:</strong> Estás calculando tu posición sobre tu pérdida máxima real ($${realCapital.toLocaleString()}). Con <strong class="text-profit">${realRiskPct}% real ($${Math.round(riskUsdPerTrade)}/trade)</strong>, puedes soportar cualquier racha estadística sin quemar la cuenta.`;
+        ruinValueEl.textContent = ruinProb < 2 ? '< 0.5% (Blindada)' : ruinProb.toFixed(1) + '%';
         document.getElementById('kpiMaxDD').textContent = `Drawdown máx esperado: -${cappedDD}% de tu margen`;
       }
 
@@ -459,48 +576,85 @@
         return height - 25 - ((val - minVal) / range) * (height - 45);
       };
 
+      // Cuadrícula institucional sutil (fondo tipo terminal FTMO)
+      ctx.strokeStyle = 'rgba(148, 163, 184, 0.08)';
+      ctx.lineWidth = 1;
+      for (let g = 1; g <= 4; g++) {
+        const gy = mapY(minVal + ((maxVal - minVal) * g) / 5);
+        ctx.beginPath();
+        ctx.moveTo(45, gy);
+        ctx.lineTo(width - 15, gy);
+        ctx.stroke();
+      }
+      for (let g = 1; g < 5; g++) {
+        const gx = mapX((numTrades * g) / 5);
+        ctx.beginPath();
+        ctx.moveTo(gx, 12);
+        ctx.lineTo(gx, height - 25);
+        ctx.stroke();
+      }
+
       // Línea Cero (Break-even)
       const zeroY = mapY(0);
-      ctx.strokeStyle = 'rgba(148, 163, 184, 0.25)';
+      ctx.strokeStyle = 'rgba(148, 163, 184, 0.28)';
       ctx.lineWidth = 1;
       ctx.beginPath();
       ctx.moveTo(45, zeroY);
       ctx.lineTo(width - 15, zeroY);
       ctx.stroke();
 
-      ctx.fillStyle = '#94A3B8';
+      ctx.fillStyle = 'rgba(148, 163, 184, 0.85)';
       ctx.font = '10px Inter';
       ctx.fillText('$0', 12, zeroY + 3);
 
-      // Línea de Cuenta Quemada (-$10,000 / Drawdown máximo)
+      // Línea límite de pérdida / Drawdown máximo (-$10,000)
       const blownY = mapY(-realCapital);
-      ctx.strokeStyle = 'rgba(239, 68, 68, 0.5)';
-      ctx.setLineDash([4, 4]);
+      ctx.strokeStyle = '#FF3B5C';
+      ctx.setLineDash([6, 4]);
       ctx.beginPath();
       ctx.moveTo(45, blownY);
       ctx.lineTo(width - 15, blownY);
       ctx.stroke();
       ctx.setLineDash([]);
-      ctx.fillStyle = '#EF4444';
-      ctx.fillText('QUEMADA', 48, blownY - 5);
+      ctx.fillStyle = '#FF3B5C';
+      ctx.font = 'bold 10px Inter';
+      ctx.fillText('LÍMITE DE PÉRDIDA · CUENTA QUEMADA', 48, blownY - 5);
 
-      // Dibujar curvas Monte Carlo del usuario
-      allCurves.forEach((curve, idx) => {
+      // Dibujar curvas Monte Carlo del usuario (Cian FTMO translúcido) + curva promedio destacada
+      const avgCurve = new Array(numTrades + 1).fill(0);
+      allCurves.forEach((curve) => {
         ctx.beginPath();
-        ctx.strokeStyle = idx === 0 ? '#10B981' : 'rgba(16, 185, 129, 0.28)';
-        ctx.lineWidth = idx === 0 ? 2.5 : 1.2;
+        ctx.strokeStyle = 'rgba(0, 194, 255, 0.28)';
+        ctx.lineWidth = 1.2;
         curve.forEach((val, t) => {
           const x = mapX(t);
           const y = mapY(val);
           if (t === 0) ctx.moveTo(x, y);
           else ctx.lineTo(x, y);
+          avgCurve[t] += val / allCurves.length;
         });
         ctx.stroke();
       });
 
-      // Dibujar curva Roja de la Trampa del 10%
+      // Curva promedio (ventaja estadística) en Verde Esmeralda brillante
       ctx.beginPath();
-      ctx.strokeStyle = '#EF4444';
+      ctx.strokeStyle = '#00E676';
+      ctx.lineWidth = 3;
+      ctx.shadowColor = 'rgba(0, 230, 118, 0.55)';
+      ctx.shadowBlur = 10;
+      avgCurve.forEach((val, t) => {
+        const x = mapX(t);
+        const y = mapY(val);
+        if (t === 0) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+      });
+      ctx.stroke();
+      ctx.shadowBlur = 0;
+      ctx.shadowColor = 'transparent';
+
+      // Dibujar curva Roja de la Trampa del 10% (Data-Shock)
+      ctx.beginPath();
+      ctx.strokeStyle = 'rgba(255, 59, 92, 0.9)';
       ctx.lineWidth = 2.2;
       ctx.setLineDash([3, 3]);
       trapCurve.forEach((val, t) => {
@@ -513,8 +667,39 @@
       ctx.setLineDash([]);
     }
 
+    function checkQualifiedStatus() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const isQualified = urlParams.get('qualified');
+      if (isQualified === 'false') {
+        const banner = document.getElementById('qualifiedBanner');
+        if (banner) {
+          banner.className = "mb-7 rounded-2xl p-4 sm:p-6 bg-slate-900/90 border border-slate-700/60";
+          banner.innerHTML = `
+            <div>
+              <span class="inline-block px-2.5 py-0.5 rounded-full bg-cyan-500/20 text-cyan-300 text-xs font-bold mb-1.5">
+                🔓 MODO ESTUDIO LIBRE · CALCULADORA DE CONSISTENCIA
+              </span>
+              <h2 class="text-lg sm:text-2xl font-extrabold text-white">
+                Simula el crecimiento real de una cuenta de fondeo evitando la trampa del 10%
+              </h2>
+              <p class="text-xs sm:text-sm text-slate-300 mt-1">
+                Explora cómo cambia tu curva de capital aplicando la gestión institucional (+40R promedio cada 50 trades). Cuando reúnas tu capital base de inversión ($320+ USD), podrás postular nuevamente a una sesión 1 a 1 con Adriana.
+              </p>
+            </div>
+          `;
+        }
+        const checklist = document.getElementById('checklistSection');
+        if (checklist) {
+          checklist.classList.add('hidden');
+        }
+      }
+    }
+
     window.addEventListener('resize', updateSimulation);
-    window.addEventListener('DOMContentLoaded', updateSimulation);
+    window.addEventListener('DOMContentLoaded', () => {
+      checkQualifiedStatus();
+      updateSimulation();
+    });
   </script>
 </body>
 </html>

@@ -9,37 +9,130 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <style>
+    :root {
+      /* ===== FTMO PROP FIRM DARK FINTECH PALETTE (OFFICIAL 2025/2026) ===== */
+      --bg-main: #070A12;
+      --bg-Ambient: radial-gradient(ellipse 80% 50% at 50% -10%, rgba(0, 82, 255, 0.24) 0%, rgba(0, 212, 255, 0.06) 45%, #070A12 80%);
+      --bg-ambient: var(--bg-Ambient);
+      --bg-card: linear-gradient(180deg, rgba(20, 27, 45, 0.92) 0%, rgba(12, 17, 29, 0.96) 100%);
+      --bg-card-elevated: #141C2E;
+      --border-subtle: rgba(0, 212, 255, 0.16);
+      --border-focus: #00D4FF;
+      --ftmo-blue-primary: #0052FF;
+      --ftmo-cyan-accent: #00D4FF;
+      --ftmo-gradient: linear-gradient(135deg, #0052FF 0%, #00A3FF 55%, #00D4FF 100%);
+      --ftmo-text-gradient: linear-gradient(90deg, #FFFFFF 0%, #A5F3FC 45%, #00D4FF 100%);
+      --cta-emerald: linear-gradient(135deg, #00E676 0%, #00C853 100%);
+      --cta-emerald-glow: 0 10px 32px -4px rgba(0, 230, 118, 0.42);
+      --danger-shock: #FF3B5C;
+      --text-primary: #F8FAFC;
+      --text-secondary: #94A3B8;
+    }
+    html { background-color: var(--bg-main); }
     body {
       font-family: 'Inter', sans-serif;
-      background-color: #070A12;
-      color: #F8FAFC;
+      background-color: var(--bg-main);
+      background-image: var(--bg-Ambient);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      color: var(--text-primary);
       overflow-x: hidden;
     }
-    .glow-emerald {
-      box-shadow: 0 0 35px -5px rgba(16, 185, 129, 0.45);
+    /* Luz cenital azul FTMO (detrás del H1 y del VSL) */
+    .ambient-bg { position: fixed; inset: 0; z-index: -1; pointer-events: none; background: var(--bg-Ambient); }
+    .bg-ftmo-main { background-color: var(--bg-main); }
+    .bg-ftmo-elevated { background-color: var(--bg-card-elevated); }
+    .border-ftmo-subtle { border: 1px solid var(--border-subtle); }
+    .border-t-ftmo { border-top: 1px solid var(--border-subtle); }
+    .text-profit { color: #00E676; }
+    .text-ftmo-cyan { color: var(--ftmo-cyan-accent); }
+    .text-ftmo-light { color: #A5F3FC; }
+    .text-danger-shock { color: var(--danger-shock); }
+    .topbar-ftmo { background: rgba(0, 82, 255, 0.08); border-bottom: 1px solid var(--border-subtle); }
+    .live-dot { background-color: var(--ftmo-cyan-accent); }
+    .ftmo-badge { background: rgba(0, 82, 255, 0.12); border: 1px solid rgba(0, 212, 255, 0.35); color: #A5F3FC; }
+    .data-pill { background: rgba(0, 230, 118, 0.12); color: #00E676; box-shadow: inset 0 0 0 1px rgba(0, 230, 118, 0.35); }
+    .text-gradient-ftmo {
+      background: var(--ftmo-text-gradient);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      color: transparent;
     }
+    .glow-emerald { box-shadow: var(--cta-emerald-glow); }
     .glow-card {
-      background: linear-gradient(180deg, rgba(15, 23, 42, 0.88) 0%, rgba(7, 10, 18, 0.96) 100%);
-      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-top: 1px solid rgba(0, 212, 255, 0.35);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.08), 0 12px 32px -8px rgba(0, 0, 0, 0.6);
     }
+    .vsl-frame { border: 1px solid rgba(0, 212, 255, 0.25); box-shadow: 0 20px 50px rgba(0, 82, 255, 0.18); }
+    .ftmo-bar-track { background: rgba(7, 10, 18, 0.94); }
+    .ftmo-progress { background: var(--ftmo-gradient); box-shadow: 0 0 12px rgba(0, 212, 255, 0.6); }
+    .btn-cta {
+      background: var(--cta-emerald);
+      color: #04130B;
+      font-weight: 800;
+      border: 2px solid rgba(0, 230, 118, 0.4);
+      box-shadow: var(--cta-emerald-glow);
+      transition: transform 0.18s ease, filter 0.18s ease, box-shadow 0.18s ease;
+    }
+    .btn-cta:hover { filter: brightness(1.07); box-shadow: 0 12px 38px rgba(0, 230, 118, 0.5); }
+    .btn-cta:active { filter: brightness(0.98); }
+    .btn-secondary {
+      background: rgba(0, 82, 255, 0.12);
+      border: 1px solid var(--border-subtle);
+      color: #A5F3FC;
+      transition: all 0.18s ease;
+    }
+    .btn-secondary:hover { background: rgba(0, 82, 255, 0.22); border-color: var(--border-focus); }
     .option-btn {
+      background: var(--bg-card-elevated);
+      border: 1px solid rgba(148, 163, 184, 0.15);
+      color: var(--text-primary);
       transition: all 0.18s cubic-bezier(0.4, 0, 0.2, 1);
     }
     .option-btn:hover {
-      border-color: #10B981;
-      background-color: rgba(16, 185, 129, 0.12);
+      border-color: var(--border-focus);
+      background-color: rgba(0, 82, 255, 0.15);
       transform: translateY(-1px);
+      box-shadow: 0 4px 15px rgba(0, 82, 255, 0.2);
     }
     .option-btn:active {
       transform: scale(0.99);
+      border-color: var(--border-focus);
+      background-color: rgba(0, 82, 255, 0.15);
     }
-    @keyframes pulse-border {
-      0%, 100% { border-color: rgba(16, 185, 129, 0.5); }
-      50% { border-color: rgba(16, 185, 129, 1); }
+    .modal-overlay { background: rgba(7, 10, 18, 0.84); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }
+    .modal-panel {
+      background: var(--bg-card);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid var(--border-subtle);
+      border-top: 1px solid rgba(0, 212, 255, 0.4);
+      box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.08), 0 25px 60px rgba(0, 0, 0, 0.7), 0 0 40px rgba(0, 82, 255, 0.18);
     }
-    .pulse-cta {
-      animation: pulse-border 2s infinite;
+    .ftmo-input {
+      background-color: var(--bg-card-elevated);
+      border: 1px solid rgba(148, 163, 184, 0.15);
+      color: var(--text-primary);
     }
+    .ftmo-input:focus { outline: none; border-color: var(--border-focus); box-shadow: 0 0 0 3px rgba(0, 212, 255, 0.15); }
+    .cred-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-top: 1px solid rgba(0, 212, 255, 0.35);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.08), 0 12px 32px -8px rgba(0, 0, 0, 0.6);
+    }
+    @keyframes pulse-cta {
+      0%, 100% { box-shadow: var(--cta-emerald-glow); }
+      50% { box-shadow: 0 12px 42px rgba(0, 230, 118, 0.6); }
+    }
+    .pulse-cta { animation: pulse-cta 2s infinite; }
   </style>
 
   <!-- META PIXEL BASE CODE (Reemplazar TU_PIXEL_ID) -->
@@ -58,11 +151,13 @@
 </head>
 <body class="min-h-screen flex flex-col justify-between selection:bg-emerald-500 selection:text-black">
 
+  <div class="ambient-bg" aria-hidden="true"></div>
+
   <!-- TOP AUTHORITY BAR -->
-  <div class="w-full bg-slate-900/95 border-b border-slate-800 py-2 px-3 text-center">
+  <div class="w-full topbar-ftmo py-2 px-3 text-center">
     <p class="text-xs sm:text-sm font-medium text-slate-300 tracking-wide flex items-center justify-center gap-2">
-      <span class="inline-block w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-      <span>CLASE CONFIDENCIAL DE TRADING INSTITUCIONAL · <strong class="text-emerald-400">ADRIANA FONSECA</strong></span>
+      <span class="live-dot inline-block w-2 h-2 rounded-full animate-ping"></span>
+      <span>CLASE CONFIDENCIAL DE TRADING INSTITUCIONAL · <strong class="text-ftmo-light">ADRIANA FONSECA</strong></span>
     </p>
   </div>
 
@@ -71,17 +166,17 @@
 
     <!-- HEADLINE SECTION (OPTIMIZADO PARA VIEWPORT MÓVIL: REGLA DE 3 LÍNEAS ABOVE-THE-FOLD) -->
     <div class="text-center max-w-3xl mx-auto mb-3.5 sm:mb-5">
-      <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-[11px] sm:text-xs font-semibold mb-2">
-        <span>🏛️ Trading Floor (EE. UU.) · Destacada en Bloomberg y Rankia</span>
+      <div class="ftmo-badge inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] sm:text-xs font-semibold mb-2">
+        <span>🏛️ Destacada en Bloomberg • FTMO • Trading Floor EE. UU.</span>
       </div>
 
       <h1 class="text-xl sm:text-3xl md:text-4xl font-extrabold leading-[1.18] tracking-tight text-white">
-        Por qué el 90% quema sus Cuentas de Fondeo y el Sistema Institucional con el que <span class="bg-emerald-500/20 text-emerald-300 px-1.5 rounded">20 de 20 Traders</span> lograron <span class="text-emerald-400 underline decoration-emerald-500/40">+40R en 50 Trades</span>
+        Por qué el 90% quema sus Cuentas de Fondeo y <span class="text-gradient-ftmo">el Sistema Institucional con el que</span> <span class="data-pill px-1.5 py-0.5 rounded font-bold">20 de 20 Traders</span> lograron <span class="text-profit font-extrabold underline decoration-[#00E676]/40">+40R en 50 Trades</span>
       </h1>
     </div>
 
     <!-- VIDEO PLAYER WRAPPER (SMART VSL PLAYER) -->
-    <div class="relative w-full max-w-3xl mx-auto rounded-2xl overflow-hidden glow-card shadow-2xl border border-slate-800 mb-4 bg-black aspect-video group">
+    <div class="relative w-full max-w-3xl mx-auto rounded-2xl overflow-hidden vsl-frame bg-ftmo-main mb-4 aspect-video group">
       
       <video 
         id="vslVideo" 
@@ -102,13 +197,14 @@
         onclick="activateSound()"
         class="absolute inset-0 bg-black/60 backdrop-blur-[2px] flex flex-col items-center justify-center cursor-pointer z-20 transition-opacity duration-300"
       >
-        <div class="bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-extrabold px-6 py-4 rounded-xl shadow-2xl flex items-center gap-3 transform transition hover:scale-105 glow-emerald">
-          <svg class="w-7 h-7 animate-bounce" fill="currentColor" viewBox="0 0 24 24">
+        <div class="btn-cta px-6 py-4 rounded-xl flex items-center gap-3 transform transition hover:scale-105 border border-white/25">
+          <svg class="w-7 h-7 animate-bounce shrink-0" fill="currentColor" viewBox="0 0 24 24">
             <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/>
           </svg>
           <div class="text-left">
-            <div class="text-base sm:text-lg leading-tight">EL VIDEO YA COMENZÓ</div>
+            <div class="text-base sm:text-lg leading-tight font-black">EL VIDEO YA COMENZÓ</div>
             <div class="text-xs font-semibold opacity-90">Haz clic aquí para escuchar con sonido</div>
+            <div class="text-[11px] font-extrabold text-slate-950/80 mt-0.5">⚡ Resumen Ejecutivo (12 min)</div>
           </div>
         </div>
       </div>
@@ -121,15 +217,15 @@
       >
         <div class="bg-white/10 border border-white/20 backdrop-blur-md px-6 py-4 rounded-xl text-center">
           <p class="text-white font-bold text-lg mb-1">⏸️ No pierdas el hilo matemático</p>
-          <p class="text-emerald-400 text-xs font-medium">Haz clic para continuar viendo la clase</p>
+          <p class="text-ftmo-cyan text-xs font-medium">Haz clic para continuar viendo la clase</p>
         </div>
       </div>
 
       <!-- SMART PROGRESS BAR (Dopamine Fast-Start Curve) -->
-      <div class="absolute bottom-0 left-0 right-0 h-2.5 bg-slate-900/90 z-30">
+      <div class="ftmo-bar-track absolute bottom-0 left-0 right-0 h-2.5 z-30">
         <div 
           id="smartProgressBar" 
-          class="h-full bg-gradient-to-r from-emerald-500 to-teal-300 transition-all duration-200"
+          class="ftmo-progress h-full transition-all duration-200"
           style="width: 0%;"
         ></div>
       </div>
@@ -139,7 +235,7 @@
     <div class="max-w-xl mx-auto text-center">
       <button 
         onclick="openQuizModal()"
-        class="w-full py-4 sm:py-5 px-6 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black text-base sm:text-xl tracking-tight glow-emerald transition transform hover:-translate-y-0.5 active:translate-y-0 flex items-center justify-center gap-2 border-2 border-emerald-300 pulse-cta"
+        class="btn-cta pulse-cta w-full py-4 sm:py-5 px-6 rounded-xl text-base sm:text-xl tracking-tight transition transform hover:-translate-y-0.5 active:translate-y-0 flex items-center justify-center gap-2"
       >
         <span>EVALUAR SI CALIFICO Y VER DISPONIBILIDAD</span>
         <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
@@ -151,22 +247,27 @@
         <span>🎁 <strong class="text-slate-200">Regalo al completar tu evaluación (45 seg):</strong> Desbloquea gratis la Calculadora Monte Carlo de Consistencia Profesional.</span>
       </p>
 
+      <div class="mt-2 inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-ftmo-elevated border-ftmo-subtle text-[11px] text-slate-300">
+        <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+        <span>Diagnóstico válido tanto si operas hace años como si inicias desde cero</span>
+      </div>
+
       <!-- CREDIBILITY STRIP (TODA LA ARTILLERÍA COMPLETA SIN RECORTES) -->
-      <div class="mt-7 pt-6 border-t border-slate-800/80 grid grid-cols-2 sm:grid-cols-4 gap-2 text-center">
-        <div class="p-2.5 rounded-lg bg-slate-900/40 border border-slate-800/60">
-          <div class="text-emerald-400 font-extrabold text-sm sm:text-base">Bloomberg & Rankia</div>
+      <div class="mt-7 pt-6 border-t-ftmo grid grid-cols-2 sm:grid-cols-4 gap-2 text-center">
+        <div class="cred-card p-2.5 rounded-lg">
+          <div class="text-profit font-extrabold text-sm sm:text-base">Bloomberg & Rankia</div>
           <div class="text-[11px] text-slate-400">Entrevistada en EE. UU. y México</div>
         </div>
-        <div class="p-2.5 rounded-lg bg-slate-900/40 border border-slate-800/60">
-          <div class="text-emerald-400 font-extrabold text-sm sm:text-base">+40R / 50 Trades</div>
+        <div class="cred-card p-2.5 rounded-lg">
+          <div class="text-profit font-extrabold text-sm sm:text-base">+40R / 50 Trades</div>
           <div class="text-[11px] text-slate-400">20 de 20 en positivo (Hasta 110R)</div>
         </div>
-        <div class="p-2.5 rounded-lg bg-slate-900/40 border border-slate-800/60">
-          <div class="text-emerald-400 font-extrabold text-sm sm:text-base">Trading Floor EE.UU.</div>
+        <div class="cred-card p-2.5 rounded-lg">
+          <div class="text-profit font-extrabold text-sm sm:text-base">Trading Floor EE.UU.</div>
           <div class="text-[11px] text-slate-400">Capital Corporativo y FTMO</div>
         </div>
-        <div class="p-2.5 rounded-lg bg-slate-900/40 border border-slate-800/60">
-          <div class="text-emerald-400 font-extrabold text-sm sm:text-base">+1,600 Trades</div>
+        <div class="cred-card p-2.5 rounded-lg">
+          <div class="text-profit font-extrabold text-sm sm:text-base">+1,600 Trades</div>
           <div class="text-[11px] text-slate-400">Comprobados · +250 Alumnos</div>
         </div>
       </div>
@@ -175,7 +276,7 @@
   </main>
 
   <!-- FOOTER -->
-  <footer class="w-full border-t border-slate-900 py-6 text-center text-xs text-slate-600 px-4">
+  <footer class="w-full border-t-ftmo py-6 text-center text-xs text-slate-500 px-4">
     <p>© 2026 Adriana Fonseca · Trading Profesional™. Todos los derechos reservados.</p>
     <p class="mt-1 max-w-xl mx-auto">Operar en los mercados financieros conlleva riesgo. Los resultados de nuestro estudio (+40R promedio, 20 de 20 en positivo entre 16R y 110R) están respaldados por estadísticas reales documentadas.</p>
   </footer>
@@ -185,9 +286,9 @@
   <!-- =================================================================== -->
   <div 
     id="quizModal" 
-    class="fixed inset-0 z-50 hidden bg-black/80 backdrop-blur-md flex items-center justify-center p-3 sm:p-4"
+    class="modal-overlay fixed inset-0 z-50 hidden flex items-center justify-center p-3 sm:p-4"
   >
-    <div class="w-full max-w-lg rounded-2xl glow-card border border-slate-700/80 p-5 sm:p-7 relative shadow-2xl">
+    <div class="modal-panel w-full max-w-lg rounded-2xl p-5 sm:p-7 relative">
       
       <button onclick="closeQuizModal()" class="absolute top-4 right-4 text-slate-400 hover:text-white text-sm px-2 py-1">
         ✕
@@ -195,12 +296,12 @@
 
       <!-- Progress Header -->
       <div class="mb-5">
-        <div class="flex justify-between items-center text-xs font-semibold text-emerald-400 mb-1.5">
+        <div class="flex justify-between items-center text-xs font-semibold text-ftmo-cyan mb-1.5">
           <span id="stepLabel">PASO 1 DE 6 · DIAGNÓSTICO DE PERFIL</span>
           <span id="stepPercent">20%</span>
         </div>
-        <div class="w-full h-2 bg-slate-800 rounded-full overflow-hidden">
-          <div id="quizProgressBar" class="h-full bg-emerald-500 transition-all duration-300" style="width: 20%;"></div>
+        <div class="w-full h-2 bg-ftmo-elevated rounded-full overflow-hidden">
+          <div id="quizProgressBar" class="ftmo-progress h-full transition-all duration-300" style="width: 20%;"></div>
         </div>
       </div>
 
@@ -338,10 +439,10 @@
         let optionsHtml = step.options.map((opt) => `
           <button 
             onclick="selectOption('${step.id}', '${opt.value}', ${opt.qualified})"
-            class="option-btn w-full text-left p-3.5 sm:p-4 rounded-xl bg-slate-900/90 border border-slate-700/80 text-white font-semibold text-sm sm:text-base flex items-center justify-between gap-3"
+            class="option-btn w-full text-left p-3.5 sm:p-4 rounded-xl font-semibold text-sm sm:text-base flex items-center justify-between gap-3"
           >
             <span>${opt.text}</span>
-            <span class="text-emerald-400 text-lg">→</span>
+            <span class="text-ftmo-cyan text-lg">→</span>
           </button>
         `).join('');
 
@@ -365,10 +466,10 @@
             <p class="text-xs text-slate-400">
               Ingresa tu WhatsApp real para recibir tus herramientas gratuitas y confirmar tu diagnóstico.
             </p>
-            <input type="text" id="leadName" required placeholder="Tu Nombre y Apellido" class="w-full p-3.5 rounded-xl bg-slate-900 border border-slate-700 text-white text-sm focus:border-emerald-400 focus:outline-none" />
-            <input type="email" id="leadEmail" required placeholder="Tu Mejor Correo Electrónico" class="w-full p-3.5 rounded-xl bg-slate-900 border border-slate-700 text-white text-sm focus:border-emerald-400 focus:outline-none" />
-            <input type="tel" id="leadPhone" required placeholder="WhatsApp con código de país (Ej: +57 300...)" class="w-full p-3.5 rounded-xl bg-slate-900 border border-slate-700 text-white text-sm focus:border-emerald-400 focus:outline-none" />
-            <button type="submit" class="w-full py-4 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black text-base glow-emerald transition">
+            <input type="text" id="leadName" required placeholder="Tu Nombre y Apellido" class="ftmo-input w-full p-3.5 rounded-xl text-sm" />
+            <input type="email" id="leadEmail" required placeholder="Tu Mejor Correo Electrónico" class="ftmo-input w-full p-3.5 rounded-xl text-sm" />
+            <input type="tel" id="leadPhone" required placeholder="WhatsApp con código de país (Ej: +57 300...)" class="ftmo-input w-full p-3.5 rounded-xl text-sm" />
+            <button type="submit" class="btn-cta w-full py-4 rounded-xl text-base">
               VER DISPONIBILIDAD Y DESBLOQUEAR CALCULADORA »
             </button>
           </form>
@@ -404,14 +505,14 @@
             </div>
             <h3 class="text-xl font-extrabold text-white">¡Felicidades, ${userAnswers.name.split(' ')[0]}! Calificas para tu Diagnóstico</h3>
             <p class="text-xs sm:text-sm text-slate-300">
-              Paso 1: Selecciona abajo tu día y hora con <strong class="text-emerald-400">Adriana Fonseca</strong>.<br/>
+              Paso 1: Selecciona abajo tu día y hora con <strong class="text-ftmo-cyan">Adriana Fonseca</strong>.<br/>
               Paso 2: Abre tu Calculadora Monte Carlo para simular tus ganancias antes de la llamada.
             </p>
-            <div class="w-full bg-slate-900 rounded-xl border border-slate-700 p-4 space-y-3">
-              <a href="https://calendly.com/" target="_blank" class="block w-full py-3.5 rounded-xl bg-emerald-500 text-slate-950 font-black text-sm hover:bg-emerald-400 transition glow-emerald">
+            <div class="bg-ftmo-elevated border-ftmo-subtle w-full rounded-xl p-4 space-y-3">
+              <a href="https://calendly.com/" target="_blank" class="btn-cta block w-full py-3.5 rounded-xl text-sm">
                 1. SELECCIONAR MI HORA CON ADRIANA »
               </a>
-              <a href="calculadora-v3.html?qualified=true" class="block w-full py-3 rounded-xl bg-slate-800 text-emerald-300 font-bold text-xs hover:bg-slate-700 transition border border-emerald-500/30">
+              <a href="calculadora-v3.html?qualified=true" class="btn-secondary block w-full py-3 rounded-xl font-bold text-xs">
                 2. ABRIR MI CALCULADORA MONTE CARLO (+40R) »
               </a>
             </div>
@@ -430,7 +531,7 @@
             <p class="text-xs sm:text-sm text-slate-300 leading-relaxed">
               Sin embargo, para ayudarte a avanzar desde hoy, aquí tienes desbloqueada gratis la <strong>Calculadora de Consistencia y Simulación Monte Carlo</strong>:
             </p>
-            <a href="calculadora-v3.html?qualified=false" class="block w-full py-3.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black text-sm transition">
+            <a href="calculadora-v3.html?qualified=false" class="btn-cta block w-full py-3.5 rounded-xl text-sm">
               ABRIR CALCULADORA DE CONSISTENCIA GRATIS »
             </a>
           </div>

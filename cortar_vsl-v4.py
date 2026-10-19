@@ -18,8 +18,8 @@ OUTPUT_VIDEO = "vsl_optimizado.mp4"
 SPEED_FACTOR = 1.08  # Ritmo ágil de VSL de alta conversión (reduce de 13m41s a 12m40s)
 
 SEGMENTOS_VSL = [
-    # 1. Hook Central + Casi 10 años de experiencia + Trading Floor (47.6s)
-    ("00:00:00.000", "00:00:47.600", "01_hook_10_anios_trading_floor"),
+    # 1. Hook Central + Casi 10 años de experiencia + Trading Floor (42.8s)
+    ("00:00:04.800", "00:00:47.600", "01_hook_10_anios_trading_floor"),
     
     # 2. Autoridad Total: 2017, Institucionales, FTMO 2020, Trading Floor 2022, Capital Corporativo 2023, Bloomberg, Rankia y Universidades (55.7s)
     ("00:05:38.439", "00:06:34.100", "02_autoridad_bloomberg_rankia_ftmo"),
