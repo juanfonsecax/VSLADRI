@@ -1,0 +1,5092 @@
+1
+00:00:00,000 --> 00:00:05,440
+Estoy muy feliz de estar aquí el día de hoy con ustedes mi nombre es Adriana Fonseca y en la clase de
+
+2
+00:00:05,440 --> 00:00:12,240
+hoy te voy a mostrar los tres errores que se paran al 90% de los traders que no logran hacer dinero
+
+3
+00:00:12,240 --> 00:00:18,879
+del 10% que logra la rentabilidad y el crecimiento financiero en esta profesión. En esta clase
+
+4
+00:00:18,879 --> 00:00:25,160
+convenceré casi 10 años de experiencia en trading para que tú veas cómo pasar al igual que yo de
+
+5
+00:00:25,160 --> 00:00:30,640
+la confusión del exceso de información de probar muchas estrategias que no dan resultados
+
+6
+00:00:30,640 --> 00:00:36,520
+consistentes a convertirme en una trader profesional que gestiona capital corporativo que ha trabajado
+
+7
+00:00:36,520 --> 00:00:41,119
+en un trading floor y que lleva más de cinco años trabajando exitosamente para firmas de
+
+8
+00:00:41,119 --> 00:00:47,600
+trading y lo más importante te voy a enseñar a hacerlo para que tú también puedas lograrlo porque
+
+9
+00:00:47,600 --> 00:00:54,240
+ser un trader puede ser algo maravilloso pero también puede convertirse en un proceso estresante
+
+10
+00:00:54,479 --> 00:01:01,399
+desgastante y bastante frustrante y cómo sé esto bueno porque yo también estuve en esa parte del
+
+11
+00:01:01,399 --> 00:01:07,920
+proceso buscando constantemente por nueva información probando nuevas estrategias y a pesar de mi
+
+12
+00:01:07,920 --> 00:01:15,120
+esfuerzo y de mi dedicación mes tras mes y año tras año no tenía resultados consistentes con
+
+13
+00:01:15,120 --> 00:01:21,519
+trading lo que ganaba lo terminaba perdiendo y vivía con esa inseguridad constante de si
+
+14
+00:01:21,519 --> 00:01:28,480
+realmente iba a ser capaz de generar dinero de forma consistente algún día o si tal vez estaba perdiendo
+
+15
+00:01:28,480 --> 00:01:36,000
+mi tiempo y si sientes que estás pasando por algo parecido esta clase la hice especialmente para
+
+16
+00:01:36,000 --> 00:01:42,239
+ti si lo que más quieres es convertirte en un trader rentable si estás cansado de operar día
+
+17
+00:01:42,239 --> 00:01:48,640
+tras día mes tras mes sin resultados constantes o si tal vez eres un trader que ya ha tenido
+
+18
+00:01:48,640 --> 00:01:56,359
+resultados con trading anteriormente pero eventualmente ha perdido su consistencia y lo más importante si
+
+19
+00:01:56,359 --> 00:02:03,040
+trading genuinamente es algo que te interesa y es algo que te gustaría que se convirtiera en una
+
+20
+00:02:03,040 --> 00:02:10,000
+fuente de ingresos constante que crece año tras año en tu vida esta clase es para ti querido trader
+
+21
+00:02:10,000 --> 00:02:16,000
+y no importa si llevas cinco años intentándolo lo que vas a aprender hoy va a transformar tu manera
+
+22
+00:02:16,000 --> 00:02:22,680
+de ver trading para siempre para que salgas del estancamiento de una vez por todas y finalmente
+
+23
+00:02:22,680 --> 00:02:29,240
+tengas estadísticas y resultados positivos para que puedas operar con confianza con tranquilidad para
+
+24
+00:02:29,240 --> 00:02:36,360
+que puedas crecer tu cuenta de trading y desbloquear tu potencial escalar y finalmente vivir la vida que
+
+25
+00:02:36,360 --> 00:02:41,800
+realmente quieres vivir haciendo trading como profesional y la razón por la que voy a
+
+26
+00:02:41,800 --> 00:02:47,520
+compartir esta información contigo es porque es algo que he querido hacer desde hace un tiempo porque
+
+27
+00:02:47,520 --> 00:02:55,280
+veo como cientos y cientos de traders con buenas intenciones personas trabajadoras comprometidas
+
+28
+00:02:55,280 --> 00:03:02,280
+dispuestos realmente a aprender y que se esfuerzan literalmente por años sin resultados y esto es
+
+29
+00:03:02,280 --> 00:03:09,840
+una pena porque lamentablemente hay demasiadas empresas vende humo y supuestos educadores sin
+
+30
+00:03:09,879 --> 00:03:15,319
+experiencia real que promueven el trading como algo que no es y eso hace pues que muchas personas
+
+31
+00:03:15,319 --> 00:03:22,439
+estén cien rumbo sin resultados por mucho tiempo y bueno para ayudarte a ver resultados positivos y
+
+32
+00:03:22,439 --> 00:03:28,599
+consistentes en tu trading es que decidí hacer esta clase totalmente gratis para que finalmente puedas
+
+33
+00:03:28,599 --> 00:03:34,439
+hacer trading de una manera segura rentable y escalable así que esta es la agenda para el
+
+34
+00:03:34,439 --> 00:03:41,199
+día de hoy primero te revelaré los tres errores silenciosos de los que nadie te habla que separan
+
+35
+00:03:41,199 --> 00:03:46,080
+a los traders que permanecen estancados a quienes realmente ganan dinero de manera
+
+36
+00:03:46,080 --> 00:03:51,759
+consistente en esta industria te enseñaré cómo corregir estos errores paso a paso para que
+
+37
+00:03:51,759 --> 00:03:57,800
+finalmente veas resultados reales y constantes en esta profesión también te revelaré la
+
+38
+00:03:57,800 --> 00:04:03,759
+verdad del trading profesional te destaparé mito por mito para que rompas todas esas cadenas
+
+39
+00:04:03,759 --> 00:04:09,800
+mentales que están creando resistencia en tu proceso y por último como bonus te enseñaré el
+
+40
+00:04:09,800 --> 00:04:15,840
+proceso de ocho pasos que me ha permitido ser una trade rentable por más de cinco años consecutivos
+
+41
+00:04:15,840 --> 00:04:22,160
+y gestionar capital de empresas de manera éxitos y algo muy importante todo lo que vas a aprender
+
+42
+00:04:22,160 --> 00:04:28,639
+hoy está basado en datos en estadísticas y en procesos comprobados todo está respaldado por
+
+43
+00:04:28,639 --> 00:04:35,420
+números reales y por cierto al final de esta clase te voy a dar dos obsequios exclusivos diseñados
+
+44
+00:04:35,420 --> 00:04:42,120
+para acelerar tus resultados en trading totalmente gratis primero la guía de evolución del trader
+
+45
+00:04:42,120 --> 00:04:48,399
+profesional esta es una guía para que sepas exactamente cómo convertirte en un trader
+
+46
+00:04:48,399 --> 00:04:55,639
+consistente y exitoso paso a paso y número dos va a compartir contigo la calculadora de trading
+
+47
+00:04:55,639 --> 00:05:02,879
+profesional para que veas cómo crecer tus cuentas con una proyección realista según tu caso específico
+
+48
+00:05:02,879 --> 00:05:08,959
+y también voy a hacer una sesión de preguntas y respuestas para responder todas sus preguntas al
+
+49
+00:05:08,959 --> 00:05:15,439
+final de esta clase y no importa si ya tienes años de experiencia en trading o si has probado
+
+50
+00:05:15,439 --> 00:05:21,040
+muchas cosas diferentes y te sientes estancado sin importar cuál sea tu caso lo que aprenderás
+
+51
+00:05:21,079 --> 00:05:26,800
+hoy te va a dar una perspectiva nueva que puede cambiar por completo tu manera de hacer trading
+
+52
+00:05:26,800 --> 00:05:32,439
+y transformar tus resultados de una vez por todas y yo también quiero dar constancia de esto tal
+
+53
+00:05:32,439 --> 00:05:38,439
+vez me conoce eso tal vez no mi nombre es Adriana y quiero contarte brevemente mi recorrido en el
+
+54
+00:05:38,439 --> 00:05:44,240
+mundo del trading para que sepas de que te estoy hablando comencé en el trading en el 2017
+
+55
+00:05:44,240 --> 00:05:50,639
+aprendiendo directamente de traders institucionales gestores de fondos de capital y dueños de
+
+56
+00:05:50,639 --> 00:05:57,439
+trading floors en el 2020 comencé a gestionar capital para firmas como ftmo en el 2022 tuve la
+
+57
+00:05:57,439 --> 00:06:02,759
+oportunidad de operar en un trading floor junto a traders profesionales y desde el 2023 he estado
+
+58
+00:06:02,759 --> 00:06:09,120
+trabajando con capital corporativo y también ha tenido un rol activo en investigación en gestión
+
+59
+00:06:09,120 --> 00:06:14,759
+de riesgo análisis cuantitativo y psicología aplicada al trading de alto rendimiento también he
+
+60
+00:06:14,759 --> 00:06:19,879
+sido entrevistada por medios como bloomberg aquí en estados unidos ranquilla en méxico también
+
+61
+00:06:19,879 --> 00:06:24,360
+he tenido el honor de hacer presentaciones para universidades en centroamérica y suramérica
+
+62
+00:06:24,360 --> 00:06:29,959
+donde he compartido sobre el trading desde una perspectiva más profesional para que realmente
+
+63
+00:06:29,959 --> 00:06:36,800
+entendamos qué es hacer dinero en esta profesión y cómo se logra realmente y aunque esta es mi
+
+64
+00:06:36,800 --> 00:06:44,079
+realidad actualmente déjame decirte algo muy importante mis comienzos en trading fueron muy
+
+65
+00:06:44,079 --> 00:06:51,839
+duros o sea realmente fueron muy duros comencé al igual que la mayoría pensando que el trading
+
+66
+00:06:51,839 --> 00:06:57,279
+va a ser dinero fácil y rápido perdí todos mis ahorros en un fraude que me prometieron
+
+67
+00:06:57,279 --> 00:07:03,920
+que iban a hacer dinero con mi dinero también perdí mucho tiempo tratando de aprender trading
+
+68
+00:07:03,920 --> 00:07:10,000
+por mi cuenta viendo videos de youtube comprando un montón de libros y llenándome de información
+
+69
+00:07:10,000 --> 00:07:16,480
+que realmente no me estaba llevando para ningún lado en ese tiempo recuerdo que me sentía bastante
+
+70
+00:07:16,480 --> 00:07:24,600
+frustrada estresada y realmente saturada información y siendo honesta contigo vivía realmente preocupada
+
+71
+00:07:24,600 --> 00:07:31,040
+preocupada porque no quería perder mi dinero en algo que no era seguro y también vivía
+
+72
+00:07:31,040 --> 00:07:37,480
+como con esa inseguridad constante de no saber si algún día iba a tener los resultados que
+
+73
+00:07:37,480 --> 00:07:43,800
+estaba buscando como pueden ver por mi cabello los primeros años fueron una temporada bastante dura
+
+74
+00:07:43,800 --> 00:07:51,160
+en mi trading pero fue justamente por eso porque vivía el proceso desde cero y sé perfectamente
+
+75
+00:07:51,160 --> 00:07:58,319
+qué es sentirse perdido sentirse estancado y 100 resultados y por eso es que decidí compartir
+
+76
+00:07:58,319 --> 00:08:03,040
+contigo lo que vas a aprender el día de hoy porque estoy absolutamente convencida de que
+
+77
+00:08:03,040 --> 00:08:09,319
+si aplicas lo que te va a enseñar tus resultados en trading van a mejorar dramáticamente al igual
+
+78
+00:08:09,319 --> 00:08:15,160
+que sucedió conmigo y con muchos de mis estudiantes como por ejemplo jeffette jeffette llevaba
+
+79
+00:08:15,160 --> 00:08:21,959
+aproximadamente cinco años en este mundo de los mercados financieros intentó varios mercados aprendió
+
+80
+00:08:21,959 --> 00:08:28,160
+por sí mismo también tomó varios cursos siguió a muchas personas y probó diferentes
+
+81
+00:08:28,160 --> 00:08:36,240
+estrategias pero a pesar de su esfuerzo y de su conocimiento no tenía resultados así que él decidió
+
+82
+00:08:36,240 --> 00:08:41,679
+aprender el método que compartiré contigo más adelante en esta clase y ahora tiene resultados
+
+83
+00:08:41,679 --> 00:08:48,120
+positivos y consistentes y el día de hoy te voy a enseñar el mismo método que ha hecho consistente
+
+84
+00:08:48,120 --> 00:08:54,080
+a afet así que sin importar si eres un trader con mucho conocimiento pero 100 resultados o sea
+
+85
+00:08:54,080 --> 00:09:01,159
+al contrario eres un trader que ha tenido resultados en el pasado pero perdió su rentabilidad y lleva
+
+86
+00:09:01,159 --> 00:09:07,039
+tiempo sin poder recuperarla esta clase es para ti y el día de hoy vas a aprender algo verdaderamente
+
+87
+00:09:07,039 --> 00:09:14,120
+valioso y lo sé porque yo personalmente también he pasado por todas esas pasas del proceso como
+
+88
+00:09:14,120 --> 00:09:20,240
+estés de cero sin saber que era trading sin saber que uno realmente podías decir desde casa
+
+89
+00:09:20,240 --> 00:09:26,000
+sin tener idea de que habían personas que podían vivir sin necesidad de trabajar 8 horas al día de
+
+90
+00:09:26,000 --> 00:09:31,840
+lunes a viernes después de que me gradué la universidad tuve varios trabajos en empresas en
+
+91
+00:09:31,840 --> 00:09:39,080
+colombia y en méxico pero rápido me di cuenta que no había realmente como una oportunidad de
+
+92
+00:09:39,080 --> 00:09:45,799
+crecimiento trabajando para estas multinacionales este gráfico nos demuestra como el trabajo que
+
+93
+00:09:45,799 --> 00:09:51,799
+las personas colocan un trabajo normal el nivel de productividad esfuerzo y de sacrificio no refleja
+
+94
+00:09:51,799 --> 00:09:58,559
+el salario en la línea roja que vemos en este gráfico podemos ver el nivel de productividad que
+
+95
+00:09:58,559 --> 00:10:05,759
+un trabajador en promedio le refleja a la empresa y la línea azul de la parte de abajo nos muestra
+
+96
+00:10:05,759 --> 00:10:12,320
+el promedio del salario que está recibiendo ese trabajador hay una gran diferencia cuando me
+
+97
+00:10:12,320 --> 00:10:18,679
+di cuenta de esto vi como mi jefe trabajaba 10 horas al día a veces dos fines de semana tenía
+
+98
+00:10:18,679 --> 00:10:24,559
+mucho sacrificio frente a su trabajo para ganar solamente un poquito más que lo que ganábamos
+
+99
+00:10:24,559 --> 00:10:30,600
+a nosotros que estábamos debajo de su dirección y para llegar a ese puesto de jefe ella tuvo
+
+100
+00:10:30,600 --> 00:10:36,879
+que pasar 8 años trabajando a ese nivel para la compañía y realmente no reflejaba el nivel de
+
+101
+00:10:36,879 --> 00:10:43,919
+educación de experiencia y de compromiso que ella tenía frente a la empresa así que decidí probar
+
+102
+00:10:43,919 --> 00:10:50,000
+algo totalmente diferente y terminé mudándome a los estados unidos con la intención de aprender
+
+103
+00:10:50,000 --> 00:10:56,559
+inglés y de comenzar a ganar en dólares pero con el paso de los meses me di cuenta de que no me
+
+104
+00:10:56,559 --> 00:11:01,960
+estaba quedando mucho dinero extra porque de igual manera que uno ganó en dólares pues todo es
+
+105
+00:11:02,039 --> 00:11:08,519
+mucho más costoso y me tocaba trabajar mucho más porque me pagaban por hora literalmente estaba
+
+106
+00:11:08,519 --> 00:11:14,840
+trabajando 10 horas al día 6 días a la semana sólo que ahora lejos de mi familia y gastándome
+
+107
+00:11:14,840 --> 00:11:22,919
+casi todo en mis gastos diarios y un día en camino al trabajo tuve un colapso me pregunté si
+
+108
+00:11:22,919 --> 00:11:29,159
+ese era el sentido de la vida trabajar todo el día en algo que no me gustaba pagar gasos pagar
+
+109
+00:11:29,240 --> 00:11:38,600
+bills dormir y repetir mes tras mes y año tras año y en ese proceso me dije tengo que encontrar algo
+
+110
+00:11:38,600 --> 00:11:45,549
+diferente tengo que encontrar una manera de hacer más dinero y bueno para empeorar las cosas esa
+
+111
+00:11:45,549 --> 00:11:51,230
+necesidad de querer hacer más dinero para salir de mi situación actual me llevó a caer en un
+
+112
+00:11:51,230 --> 00:11:56,730
+fraude entre con una empresa que me prometía rentabilidad como el 50 por ciento al mes
+
+113
+00:11:56,769 --> 00:12:03,570
+invertía mi dinero con ellos en los mercados financieros y bueno por ingenua y por desesperada
+
+114
+00:12:03,570 --> 00:12:09,929
+terminé perdiendo mis ahorros y una noche después de llegar de trabajar me puse a
+
+115
+00:12:09,929 --> 00:12:16,169
+investigar cómo podía hacer dinero de los mercados financieros y comencé a ver cómo
+
+116
+00:12:16,169 --> 00:12:20,870
+vean personas de diferentes ciudades de diferentes nacionalidades de diferentes
+
+117
+00:12:20,870 --> 00:12:28,629
+backgrounds que estaban haciendo 10 mil 15 mil hasta 50 mil dólares al mes con esta habilidad
+
+118
+00:12:28,629 --> 00:12:36,190
+una habilidad que se podía hacer desde internet y dije wow esto es lo que voy a hacer así que
+
+119
+00:12:36,190 --> 00:12:40,830
+comencé a aprender por mi misma con libros vídeos de youtube aprendiendo cosas por
+
+120
+00:12:40,830 --> 00:12:46,230
+lado aprendiendo cosas por el otro y estuve haciendo esto por un año completo hasta que
+
+121
+00:12:46,230 --> 00:12:53,360
+al final dije no estoy yendo para ningún lado así que dije voy a dejarte su estimar esto
+
+122
+00:12:53,360 --> 00:12:57,759
+porque realmente es algo que me gusta o sea realmente me llama la atención me parece
+
+123
+00:12:57,759 --> 00:13:04,320
+interesante y aparte me vas tardando la libertad que estoy buscando así que comencé a buscar
+
+124
+00:13:04,320 --> 00:13:10,200
+de quién iba a aprender y bueno al final de hacer una búsqueda exhaustiva fui a
+
+125
+00:13:10,240 --> 00:13:16,039
+seminarios conferencias hice muchas llamadas busqué varias opciones también por internet
+
+126
+00:13:16,039 --> 00:13:22,559
+después de buscar por varios meses conocí a mis mentores un gestor de capital de un fondo
+
+127
+00:13:22,559 --> 00:13:28,000
+de inversión en new york estaba en miami para ese entonces una trader profesional con
+
+128
+00:13:28,000 --> 00:13:32,799
+décadas de experiencia y el dueño de un trading floor aquí en los estados de lloza y
+
+129
+00:13:32,799 --> 00:13:38,440
+eventualmente al invertir tiempo y dinero en ellos logré convertirme en una trader
+
+130
+00:13:38,440 --> 00:13:44,639
+consistente pase mi cuenta de fondo logré hacer siete mil dólares en cuatro meses y
+
+131
+00:13:44,639 --> 00:13:52,159
+aunque si no es mucho dinero fue algo grande para mí porque me mostré a mi misma que era
+
+132
+00:13:52,159 --> 00:13:57,679
+posible que yo era capaz de hacer dinero con esto comencé a trabajar con más capital
+
+133
+00:13:57,679 --> 00:14:02,279
+tuve la oportunidad de trabajar para un trading floor eventualmente de ser la trader
+
+134
+00:14:02,279 --> 00:14:05,960
+encargada en el área de investigación de mercados de una corporación aquí en
+
+135
+00:14:05,960 --> 00:14:11,799
+estados fríos y después con todo lo que aprendí de estas personas y mi experiencia y la
+
+136
+00:14:11,799 --> 00:14:17,320
+experiencia de mi equipo de traders terminamos creando método paso a paso que genera
+
+137
+00:14:17,320 --> 00:14:22,360
+rentabilidad de forma consistente este mismo método también ha permitido que la
+
+138
+00:14:22,360 --> 00:14:27,399
+mayoría de mis estudiantes hoy por hoy vea resultados consistentes en trading
+
+139
+00:14:27,399 --> 00:14:32,039
+como por ejemplo yonel uno de mis estudiantes que después de años de
+
+140
+00:14:32,080 --> 00:14:38,240
+inconsistencia y de perder muchísimo dinero con trading finalmente se convirtió en un
+
+141
+00:14:38,240 --> 00:14:44,600
+trader rentable y cambió totalmente su economía superó sus bloqueos emocionales y
+
+142
+00:14:44,600 --> 00:14:49,559
+ahora hace trading de manera consistente o como va a abrir la que lleva retirando
+
+143
+00:14:49,559 --> 00:14:54,600
+consistentemente con su cuenta fundadora siguiendo nuestro método y aprendió a
+
+144
+00:14:54,600 --> 00:15:00,320
+recuperarse rápidamente cuando cometía errores para mantenerse consistente
+
+145
+00:15:00,399 --> 00:15:07,120
+con capital real o jennifer una mujer con una vida ocupada que logró adaptar trading
+
+146
+00:15:07,120 --> 00:15:13,080
+a su estilo de vida operando en las noches antes de dormir dos días a la semana y
+
+147
+00:15:13,080 --> 00:15:18,360
+ahora ha tenido resultados consistentes mes tras mes gracias al método que te
+
+148
+00:15:18,360 --> 00:15:23,929
+voy a enseñar en esta clase así que antes de comenzar asegúrate de que
+
+149
+00:15:23,929 --> 00:15:28,250
+dejas el celular a un lado y que tal vez tienes un cuaderno donde puedes
+
+150
+00:15:28,289 --> 00:15:33,809
+tomar notas para sacarle el mayor provecho a esta clase y recuerda que al final de
+
+151
+00:15:33,809 --> 00:15:39,450
+esta clase te daré dos obsequios exclusivos primero la guía de evolución del
+
+152
+00:15:39,450 --> 00:15:44,289
+trader profesional para que sepas exactamente el siguiente paso que tienes
+
+153
+00:15:44,289 --> 00:15:50,490
+que dar para acelerar tus resultados y tu consistencia en trading esta guía te va
+
+154
+00:15:50,490 --> 00:15:54,610
+a abrir tus ojos totalmente para que conozcas el proceso que utilizamos
+
+155
+00:15:54,649 --> 00:15:58,730
+en trading profesional y número dos te voy a dar la calculadora de trading
+
+156
+00:15:58,730 --> 00:16:03,649
+profesional para que veas cómo crecer tus cuentas con una proyección realista
+
+157
+00:16:03,649 --> 00:16:09,169
+según tu caso específico así que antes de comenzar quiero asegurarte de que
+
+158
+00:16:09,169 --> 00:16:14,649
+esta no es una clase más con conceptos generales ni de relleno sino al
+
+159
+00:16:14,649 --> 00:16:18,370
+contrario vamos a ir directo al punto y estoy segura de que vas a aprender
+
+160
+00:16:18,370 --> 00:16:24,129
+hoy cómo mejorar tus resultados completamente en trading y estoy
+
+161
+00:16:24,129 --> 00:16:28,649
+segura de esto porque esto fue lo que personalmente transformó mi trading y
+
+162
+00:16:28,649 --> 00:16:34,809
+ha hecho ver resultados consistentes a cientos de personas y porque sé que esto
+
+163
+00:16:34,809 --> 00:16:38,250
+realmente generará un cambio en tu trading quiero que por este tiempo que
+
+164
+00:16:38,250 --> 00:16:45,559
+estaremos juntos quiero que dejes todas esas ideas que tienes de lo que es
+
+165
+00:16:45,559 --> 00:16:50,799
+realmente hacer trading y que mantengas una mente abierta si estás pensando
+
+166
+00:16:50,799 --> 00:16:55,779
+cosas como esta clase va a ser bien complicada o esta va a ser una de esas
+
+167
+00:16:55,779 --> 00:17:00,759
+clases que he visto en youtube o no tengo tiempo para aprender cosas nuevas o
+
+168
+00:17:00,759 --> 00:17:05,519
+será que esto si es de verdad o será puro o en de humo por favor quiero que
+
+169
+00:17:05,519 --> 00:17:10,880
+coloques esas ideas en pausa y a la solamente por esta clase y ya que
+
+170
+00:17:10,880 --> 00:17:15,279
+acabé la clase puedes volver a poner esas ideas en tu cabeza pero quiero
+
+171
+00:17:15,279 --> 00:17:19,559
+que mantengas la mente abierta por este periodo porque lo que te voy a
+
+172
+00:17:19,559 --> 00:17:24,440
+enseñar en esta clase te permitirá ver algo que no estás viendo actualmente y
+
+173
+00:17:24,440 --> 00:17:29,640
+también va a desbloquear la falta de resultados en trading porque vas a
+
+174
+00:17:29,640 --> 00:17:34,440
+aprender algo que no has visto anteriormente estoy segura de eso bueno
+
+175
+00:17:34,440 --> 00:17:39,480
+comencemos cuáles son los tres errores que estancan al 90 por ciento de los
+
+176
+00:17:39,480 --> 00:17:44,759
+traders y cómo superarlos para comenzar a ver resultados consistentes con un
+
+177
+00:17:44,759 --> 00:17:50,559
+trader profesional error número 1 la mayoría de los traders piensan que
+
+178
+00:17:50,559 --> 00:17:57,079
+saben manejar su riesgo pero la realidad es que están operando con los números
+
+179
+00:17:57,079 --> 00:18:03,079
+equivocados la mayoría de los traders piensan que saber leer el gráfico o tener
+
+180
+00:18:03,079 --> 00:18:08,079
+una estrategia es suficiente para hacer dinero en esta profesión pero la
+
+181
+00:18:08,079 --> 00:18:14,200
+realidad es que sin una clara y precisa gestión del riesgo la cuenta de trading
+
+182
+00:18:14,200 --> 00:18:19,400
+se va a quemar o a terminar en cero tarde o temprano sin una clara gestión del
+
+183
+00:18:19,400 --> 00:18:25,799
+riesgo tarde o temprano se va a perder la cuenta sea una cuenta fundada o una
+
+184
+00:18:25,799 --> 00:18:31,440
+cuenta personal necesitas tener los números claros para dejarte perder tu
+
+185
+00:18:31,440 --> 00:18:36,960
+tiempo y tu dinero en trading y para que este deje de ser un problema en tu
+
+186
+00:18:36,960 --> 00:18:41,559
+vida voy a comenzar primero explicándote cómo se debe trabajar
+
+187
+00:18:41,559 --> 00:18:46,640
+corona profe para poder retirar dinero de manera consistente y dejar de quemar
+
+188
+00:18:46,640 --> 00:18:51,319
+esas cuentas fundadas y si no sabes que es una profe te lo voy a explicar super
+
+189
+00:18:51,319 --> 00:18:56,119
+rápido una profe es una empresa que te permite operar con su capital a cambio
+
+190
+00:18:56,119 --> 00:19:01,079
+de compartir parte de las ganas en otras palabras nosotros ponemos la habilidad
+
+191
+00:19:01,079 --> 00:19:06,559
+como traders y ellos ponen el dinero suena bien cierto sin embargo las
+
+192
+00:19:06,559 --> 00:19:12,119
+profe utilizan trucos psicológicos y pequeñas trampas que hacen que la
+
+193
+00:19:12,119 --> 00:19:16,920
+mayoría de los traders que no se den cuenta de eso terminen quemando sus
+
+194
+00:19:16,920 --> 00:19:21,880
+cuentas tarde o temprano por eso vamos a empezar por ahí para que entiendas
+
+195
+00:19:21,880 --> 00:19:27,640
+exactamente cómo funcionan esas trampas psicológicas te lo voy a explicar con un
+
+196
+00:19:27,640 --> 00:19:32,200
+simple ejemplo digamos que este trader se llama andrés él ha estado
+
+197
+00:19:32,200 --> 00:19:36,539
+estudiando trading por un tiempo se siente bien con su trading y decide
+
+198
+00:19:36,539 --> 00:19:41,299
+dar el siguiente paso abrir una cuenta fundada para apagar su habilidad y
+
+199
+00:19:41,299 --> 00:19:46,279
+comenzar a ganar buen dinero con trading así que andrés dice voy a abrirme una
+
+200
+00:19:46,279 --> 00:19:50,940
+cuenta de 100.000 dólares con una de las empresas más conocidas de fundeo para
+
+201
+00:19:50,940 --> 00:19:55,900
+este ejemplo usaremos ftm aunque lo que te voy a mostrar lo puedes hacer con
+
+202
+00:19:55,900 --> 00:20:01,380
+cualquier profe porque todas las profe tiene reglas similares y todas las
+
+203
+00:20:01,420 --> 00:20:07,500
+profe utilizan este mismo truco psicológico ok entonces dijimos que andrés
+
+204
+00:20:07,500 --> 00:20:12,140
+va a optar por la cuenta de 100.000 dólares con esta empresa estas son las
+
+205
+00:20:12,140 --> 00:20:16,940
+condiciones que tiene que seguir andrés tiene un capital simulado de 100.000
+
+206
+00:20:16,940 --> 00:20:24,140
+dólares la pérdida máxima del día es de 5.000 dólares la pérdida máxima total
+
+207
+00:20:24,140 --> 00:20:28,819
+que él puede perder con esta cuenta son 10.000 dólares el objetivo de la
+
+208
+00:20:28,819 --> 00:20:32,700
+primera fase o el challenge como le llaman muchas de estas empresas es de
+
+209
+00:20:32,700 --> 00:20:38,900
+10.000 dólares y la segunda fase o la fase de verificación es de 5.000 dólares
+
+210
+00:20:38,900 --> 00:20:44,140
+una vez completadas estas dos fases el challenge y la verificación o la fase
+
+211
+00:20:44,140 --> 00:20:49,059
+1 y la fase 2 la empresa le va a otorgar a andrés una cuenta de la que él
+
+212
+00:20:49,059 --> 00:20:56,220
+puede comenzar a retirar dinero super todo claro hasta acá cierto ahora este
+
+213
+00:20:56,220 --> 00:21:01,539
+trader que va a comenzar con su cuenta dice voy a ser una persona responsable
+
+214
+00:21:01,539 --> 00:21:05,779
+voy a arriesgar solamente el 1 por ciento del tamaño de esta cuenta porque
+
+215
+00:21:05,779 --> 00:21:10,500
+bueno eso es lo que dicen todos los libros y los expertos cierto así que como
+
+216
+00:21:10,500 --> 00:21:16,059
+esta cuenta que él compró es de 100.000 dólares él dice bueno 1 por ciento de
+
+217
+00:21:16,059 --> 00:21:21,539
+100.000 voy a arriesgar mil dólares por trade cierto es el 1 por ciento sin
+
+218
+00:21:21,539 --> 00:21:28,339
+embargo este trader está cometiendo un grave error está calculando su posición
+
+219
+00:21:28,339 --> 00:21:34,339
+según un número imaginario que le está dando la pro firm no el número real del
+
+220
+00:21:34,339 --> 00:21:39,660
+margen de su cuenta porque él solo puede perder 10.000 dólares en la pérdida
+
+221
+00:21:39,660 --> 00:21:46,059
+máxima si él pierde 10.000 dólares la cuenta se quemó recuerdas esos 10.000
+
+222
+00:21:46,059 --> 00:21:51,519
+dólares son el verdadero tamaño de la cuenta y si este trader va a utilizar
+
+223
+00:21:51,519 --> 00:21:57,130
+mil dólares por trade pensando que está utilizando el 1 por ciento en realidad
+
+224
+00:21:57,130 --> 00:22:01,390
+este trader está utilizando el 10 por ciento de su margen total en cada trade
+
+225
+00:22:01,390 --> 00:22:06,730
+porque esta cuenta no es de 100.000 dólares esta cuenta es de 10.000 dólares
+
+226
+00:22:06,730 --> 00:22:11,869
+déjame explicarte porque casi todos los traders que usan pro firms están
+
+227
+00:22:11,869 --> 00:22:17,230
+destinados a fracasar con números lo que ves aquí en la pantalla se llama una
+
+228
+00:22:17,230 --> 00:22:22,549
+simulación Monte Carlo y esta simulación me demuestra que nos muestra de
+
+229
+00:22:22,549 --> 00:22:28,579
+300 trades es decir un año de operativa más o menos esta tabla nos dice o nos
+
+230
+00:22:28,579 --> 00:22:33,140
+demuestra cuál es la pérdida máxima que va a tener el trader según su
+
+231
+00:22:33,140 --> 00:22:37,180
+porcentaje de ganancia utilizando un tamaño del 10 por ciento de la pérdida
+
+232
+00:22:37,180 --> 00:22:41,660
+máxima por trade esta simulación Monte Carlo nos comprueba con números
+
+233
+00:22:41,660 --> 00:22:47,059
+reales que incluso un trader que gane el 70 por ciento de sus trades
+
+234
+00:22:47,059 --> 00:22:52,819
+eventualmente va a quemar su cuenta con la pro firm porque tarde o temprano caerán
+
+235
+00:22:52,819 --> 00:22:58,099
+una racha de menos 150 por ciento es decir este trader va a quemar su cuenta
+
+236
+00:22:58,099 --> 00:23:02,900
+fundada tarde o temprano sólo porque no hizo los números correctos desde el
+
+237
+00:23:02,900 --> 00:23:07,539
+principio no porque no sea una persona disciplinada o porque sea su
+
+238
+00:23:07,539 --> 00:23:11,619
+psicología de trading ni siquiera porque no tenga una estrategia rentable
+
+239
+00:23:11,619 --> 00:23:16,140
+esta persona va a quemar su cuenta porque está operando con los números
+
+240
+00:23:16,140 --> 00:23:22,339
+equivocados y claro ahora que lo entiendes dices con razón obviamente iba a
+
+241
+00:23:22,339 --> 00:23:27,779
+quemar la cuenta ahora tal vez entiendes por qué seguías quemando tus cuentas de
+
+242
+00:23:27,779 --> 00:23:32,740
+trading aún cuando hacías todo bien y seguías sin quedarte mal porque pensabas
+
+243
+00:23:32,740 --> 00:23:37,140
+que eras tú y que eran tus emociones pero ese no era el problema el problema
+
+244
+00:23:37,220 --> 00:23:42,059
+era que estabas operando con unas matemáticas que estaban en tu contra
+
+245
+00:23:42,059 --> 00:23:47,339
+desde el principio pero ahora sabes la verdad y ese es el primer paso para
+
+246
+00:23:47,339 --> 00:23:51,740
+convertirte en un trader profesional rentable con cuentas fundadas la
+
+247
+00:23:51,740 --> 00:23:56,859
+solución calcula tu posición según el capital de pérdida máxima que te da la
+
+248
+00:23:56,859 --> 00:24:02,099
+pro firm e ignora por completo ese número imaginario que te están vendiendo
+
+249
+00:24:02,140 --> 00:24:07,460
+porque el tamaño máximo de pérdida es el verdadero tamaño de tu cuenta
+
+250
+00:24:07,460 --> 00:24:13,539
+ahora pasemos a la cuenta de capital real con un broker todos hemos visto esas
+
+251
+00:24:13,539 --> 00:24:18,380
+promesas tentadoras que dicen pasar una cuenta de 100 dólares a una cuenta de
+
+252
+00:24:18,380 --> 00:24:23,299
+un millón de dólares suena increíble bastante tentador bastante interesante
+
+253
+00:24:23,299 --> 00:24:28,819
+verdad pero lo que esas personas están haciendo es exactamente lo mismo que
+
+254
+00:24:28,819 --> 00:24:33,940
+hacen las pro firm se crean la ilusión de que realmente tienes más dinero de lo
+
+255
+00:24:33,940 --> 00:24:38,539
+que tienes en la cuenta y también te vas a llevar tarde o temprano a perderlo
+
+256
+00:24:38,539 --> 00:24:45,440
+todo porque te estás sobre a palancán si es posible pasar una cuenta de 100
+
+257
+00:24:45,440 --> 00:24:50,200
+dólares 500 dólares claro que sí en un mes pero es algo que puedes hacer
+
+258
+00:24:50,200 --> 00:24:55,440
+mes tras mes es algo que puedes hacer de manera consistente claro que no y
+
+259
+00:24:55,440 --> 00:25:00,839
+eso no lo digo yo lo dicen los números lo dicen la estadística y no me mal
+
+260
+00:25:00,839 --> 00:25:06,279
+entiendas los brokers y las pro firms son herramientas maravillosos para hacer
+
+261
+00:25:06,279 --> 00:25:11,319
+dinero con trading yo lo he hecho de manera constante pero la razón por la
+
+262
+00:25:11,319 --> 00:25:16,440
+que he podido hacerlo año tras año es porque entendí la realidad los números
+
+263
+00:25:16,440 --> 00:25:22,400
+pero el 90 por ciento de los traders en cambio se dejan seducir por las
+
+264
+00:25:22,400 --> 00:25:27,240
+palabras bonitas y los números grandes y las fotos de volvete rico un día para
+
+265
+00:25:27,240 --> 00:25:32,480
+otro y lamentablemente esa es la razón por la que hay tantos traders que aún
+
+266
+00:25:32,480 --> 00:25:36,759
+siguen estancados después de meses y después de años de operativa de
+
+267
+00:25:36,759 --> 00:25:42,839
+estudiar y esforzarse pero ahora tú estás un paso más cerca convertirte en un
+
+268
+00:25:42,839 --> 00:25:48,079
+trader consistente y rentable gracias a lo que acabas de aprender en esta clase
+
+269
+00:25:48,119 --> 00:25:53,960
+créeme cuando yo entendí lo que acabo de enseñarte fue que de quemar cuentas de
+
+270
+00:25:53,960 --> 00:25:59,920
+trading y por fin comencé a acumular profits porque la primera regla para
+
+271
+00:25:59,920 --> 00:26:07,400
+ganar en trading es no quemar tu cuenta de trading así de simple listo ahora
+
+272
+00:26:07,400 --> 00:26:12,000
+pasemos al error número dos el error número dos es que la mayoría de los
+
+273
+00:26:12,000 --> 00:26:16,000
+traders hacen trading sin una estrategia comprobada que tenga
+
+274
+00:26:16,000 --> 00:26:21,400
+estadísticas rentables y si yo también cometí ese error al principio el
+
+275
+00:26:21,400 --> 00:26:25,480
+primer año estuve viendo playlist de youtube leyendo libros de análisis
+
+276
+00:26:25,480 --> 00:26:30,440
+técnicos tratando un indicado tratando otra cosa y tratando de hacer un
+
+277
+00:26:30,440 --> 00:26:35,380
+Frankenstein de estrategia y cuando me di cuenta que no estaba yendo por
+
+278
+00:26:35,380 --> 00:26:40,279
+ningún lado fue que si invertir en educación de alta calidad porque no
+
+279
+00:26:40,279 --> 00:26:44,160
+se trata de aprender más sino de aprender algo que verdaderamente
+
+280
+00:26:44,240 --> 00:26:48,720
+funciona el primer paso es tener una estrategia completa
+
+281
+00:26:48,720 --> 00:26:54,400
+respaldada por estadísticas y números reales necesitamos data que compruebe que
+
+282
+00:26:54,400 --> 00:26:58,839
+lo que estamos haciendo funciona no sabes cuántos traders se ha conocido que
+
+283
+00:26:58,839 --> 00:27:03,720
+me dicen yo se leer el mercado y llevan 10 años sin hacer dinero si no hay
+
+284
+00:27:03,720 --> 00:27:09,000
+números que respalden el éxito de tu método no tienes una ventaja
+
+285
+00:27:09,000 --> 00:27:14,200
+competitiva real en el mercado operar con esperanza y con
+
+286
+00:27:14,200 --> 00:27:20,119
+corazonadas se llama apostar y operar con números y estadísticas es hacer
+
+287
+00:27:20,119 --> 00:27:24,160
+trading profesional y bueno ahora tal vez te preguntas bueno adrena y
+
+288
+00:27:24,160 --> 00:27:29,640
+cuáles son esas estadísticas rentables te voy a explicar hay dos
+
+289
+00:27:29,640 --> 00:27:33,160
+números claves que te dicen si una estrategia puede generar dinero de
+
+290
+00:27:33,160 --> 00:27:37,960
+manera consistente ok número uno es el porcentaje de ganancia que es
+
+291
+00:27:37,960 --> 00:27:43,480
+básicamente tu porcentaje de acierto un porcentaje que demuestre que ganas más
+
+292
+00:27:43,480 --> 00:27:48,759
+veces de las que pierdes y número dos el riesgo recompensa que es básicamente un
+
+293
+00:27:48,759 --> 00:27:54,000
+número que demuestra cuánto ganas en promedio cuando ganas versus cuánto
+
+294
+00:27:54,000 --> 00:27:58,799
+pierdes en promedio cuando pierdes por ejemplo imagina que cada vez que pierdes
+
+295
+00:27:58,799 --> 00:28:04,920
+pierdes un esfero y cada vez que ganas ganas dos escritos si repites esto una
+
+296
+00:28:04,920 --> 00:28:10,269
+y otra y otra vez que crees que va a pasar exacto actualmente terminarás con más
+
+297
+00:28:10,269 --> 00:28:16,549
+esferos así pierdas un esfero aquí y allá ok lo ideal es tener un
+
+298
+00:28:16,549 --> 00:28:21,750
+anteporcentaje de acierto y un alto riesgo recompensa porque si ganas más de las
+
+299
+00:28:21,750 --> 00:28:27,230
+veces que pierdes y además cuando ganas ganas el doble de lo que pierdes en
+
+300
+00:28:27,230 --> 00:28:32,549
+promedio tienes una estrategia ganadora por ejemplo la estrategia que
+
+301
+00:28:32,549 --> 00:28:37,829
+utilizamos en trading profesional está comprobada por miles y miles de trades en
+
+302
+00:28:37,829 --> 00:28:44,549
+real y por decenas de trades rentables que aplican exactamente el mismo proceso te
+
+303
+00:28:44,549 --> 00:28:50,029
+voy a mostrar esto para que veas a qué me refiero estas son estadísticas reales
+
+304
+00:28:50,029 --> 00:28:54,710
+publicadas directamente por nuestros estudiantes en trading profesional en
+
+305
+00:28:54,710 --> 00:28:59,430
+nuestra comunidad de discord y estas estadísticas nos muestran un
+
+306
+00:28:59,430 --> 00:29:03,109
+porcentaje de ganancia positivo lo que ves aquí es un porcentaje de ganancia
+
+307
+00:29:03,109 --> 00:29:08,549
+positivo que es donde dice win rate que siempre se mantiene por encima del 50
+
+308
+00:29:08,549 --> 00:29:14,670
+por ciento y donde dice reward al lado derecho nos muestra el riesgo recompensa
+
+309
+00:29:14,670 --> 00:29:20,750
+que siempre se mantiene alrededor o por encima del dos es decir que aquí podemos
+
+310
+00:29:20,750 --> 00:29:26,990
+ver la prueba real con números reales de estudiantes reales que ganan el doble
+
+311
+00:29:26,990 --> 00:29:32,710
+en promedio cuando ganan y ganan más de las veces que pierden aquí te estoy
+
+312
+00:29:32,710 --> 00:29:37,309
+mostrando varias estadísticas para que también veas que este es un proceso que
+
+313
+00:29:37,309 --> 00:29:42,950
+ya está comprobado que funciona que tiene números que lo respaldan y que es
+
+314
+00:29:42,950 --> 00:29:48,869
+replicable esto es muy importante porque no es algo aleatorio que les sirve
+
+315
+00:29:48,869 --> 00:29:52,990
+solamente a una persona o que simplemente funcionó por una semana y
+
+316
+00:29:52,990 --> 00:29:57,670
+ya es más estas estadísticas que estás viendo que te estoy mostrando de nuestra
+
+317
+00:29:57,670 --> 00:30:04,390
+comunidad son estadísticas rentables y positivas por meses consecutivos porque
+
+318
+00:30:04,390 --> 00:30:09,789
+para tener la certeza de que vamos a hacer dinero con trading necesitamos tener
+
+319
+00:30:09,789 --> 00:30:15,829
+data necesitamos tener estadísticas rentables por varios meses consecutivos
+
+320
+00:30:15,829 --> 00:30:20,769
+esto es lo que nos va a dar la claridad y la luz verde para invertir
+
+321
+00:30:20,769 --> 00:30:26,599
+nuestro dinero saber que lo que estamos haciendo verdaderamente funciona de hecho
+
+322
+00:30:26,599 --> 00:30:31,039
+hicimos un estudio con los últimos 20 estudiantes se completaron el proceso de
+
+323
+00:30:31,039 --> 00:30:35,480
+comprobación y aunque algunos traders tuvieron una rentabilidad más alta
+
+324
+00:30:35,480 --> 00:30:42,720
+que otros el promedio general fue de 40 r por cada 53 esto significa que de cada
+
+325
+00:30:42,720 --> 00:30:50,640
+53 que tomas siguiendo el método paso a paso estarás haciendo 40 veces lo que
+
+326
+00:30:50,640 --> 00:30:55,960
+arriesgas por cada trade es decir que si por ejemplo arriesgas 100 dólares por
+
+327
+00:30:55,960 --> 00:31:02,160
+operación en 50 trades vas a acumular en promedio una ganancia de 4 mil dólares y
+
+328
+00:31:02,160 --> 00:31:07,200
+ojo esto lo significa que tu cuentas de 100 dólares que la vas a volver de 4 mil o
+
+329
+00:31:07,200 --> 00:31:12,039
+que esto ya hablamos en el error número 1 cuando tú tienes un método
+
+330
+00:31:12,039 --> 00:31:16,640
+respaldado por estadísticas rentables y tienes una gestión del riesgo que
+
+331
+00:31:16,640 --> 00:31:21,920
+se asegura de que tú no quemes la cuenta vas a sobrevivir y vas a hacer dinero
+
+332
+00:31:21,920 --> 00:31:27,759
+con trading así que la solución es simple primero necesitas una estrategia
+
+333
+00:31:27,759 --> 00:31:32,119
+respaldada por estadísticas reales que demuestren que lo que estás haciendo
+
+334
+00:31:32,119 --> 00:31:36,920
+funciona y segundo tienes que comprobar la estrategia por ti mismo tienes que
+
+335
+00:31:36,920 --> 00:31:42,319
+comprobar la estrategia por ti misma antes de invertir dinero real antes de
+
+336
+00:31:42,319 --> 00:31:47,680
+comprar un challenge antes de fundear tu cuenta con un broker necesitas tener
+
+337
+00:31:47,680 --> 00:31:53,680
+estadísticas positivas consistentes que comprueben que estás listo para
+
+338
+00:31:53,680 --> 00:31:58,440
+invertir dejas de adivinar dejas de operar desde el miedo o desde la
+
+339
+00:31:58,440 --> 00:32:03,880
+euforia y empiezas a confiar en algo más grande que tus emociones un sistema
+
+340
+00:32:03,880 --> 00:32:09,359
+comprobado por ti mismo porque tú tienes que comprobar el sistema tienes que
+
+341
+00:32:09,359 --> 00:32:14,440
+hacer un muestreo por varios meses donde sigues el método y tienes la prueba
+
+342
+00:32:14,440 --> 00:32:19,559
+numérica la prueba estadística que respaldan que sabes lo que estás haciendo
+
+343
+00:32:19,559 --> 00:32:25,039
+que eres rentable que eres consistente y que estás listo para invertir y nos
+
+344
+00:32:25,039 --> 00:32:29,920
+queda el último error que hace que la gente se estanque y no tenga resultados
+
+345
+00:32:29,920 --> 00:32:35,720
+positivos y consistentes con trade. ¿Estás listo? Error número tres el 90% pierde
+
+346
+00:32:35,720 --> 00:32:41,279
+dinero porque no sabe cómo adaptarse a los cambios que tiene el mercado el
+
+347
+00:32:41,279 --> 00:32:46,880
+mercado se mueve en ciclos y cada fase del ciclo ofrece oportunidades distintas
+
+348
+00:32:46,880 --> 00:32:52,119
+la clave para mantener la rentabilidad en trading año tras año está
+
+349
+00:32:52,119 --> 00:32:57,720
+directamente correlacionada en cómo nos adaptamos cómo se adapta nuestro
+
+350
+00:32:57,720 --> 00:33:02,599
+método a estos cambios déjame explicarte no les ha pasado a algunos de
+
+351
+00:33:02,599 --> 00:33:06,559
+ustedes a las personas que tienen experiencia con trading que tal vez en
+
+352
+00:33:06,559 --> 00:33:10,819
+algún momento de su carrera tuvieron una estrategia que les funcionó por un
+
+353
+00:33:10,819 --> 00:33:16,559
+tiempo tal vez por un mes tal vez por dos meses pero eventualmente esa estrategia
+
+354
+00:33:16,559 --> 00:33:22,200
+dejó de funcionar o si tal vez eres un trader más nuevo probablemente has
+
+355
+00:33:22,200 --> 00:33:27,279
+leído esa frase que se repite en muchos libros de trading que las estrategias
+
+356
+00:33:27,279 --> 00:33:32,519
+eventualmente dejan de funcionar bueno esto es parcialmente cierto porque
+
+357
+00:33:32,559 --> 00:33:37,880
+el mercado cambia y los mercados financieros funcionan en ciclos existen
+
+358
+00:33:37,880 --> 00:33:43,359
+etapas de expansión existen etapas de contracción y existen etapas de
+
+359
+00:33:43,359 --> 00:33:49,799
+estancamiento y también existen etapas de manipulación hay diferentes etapas y si
+
+360
+00:33:49,799 --> 00:33:55,839
+yo no tengo una estrategia completa que me permita adaptarme a esos cambios
+
+361
+00:33:55,839 --> 00:34:00,720
+bueno eventualmente cuando el mercado no esté alineado con mi estrategia
+
+362
+00:34:00,839 --> 00:34:07,160
+mi estrategia no va a funcionar así que cómo podemos solucionar este problema si
+
+363
+00:34:07,160 --> 00:34:11,960
+aprendes a identificar con el mercado está cambiando vas a poder operar de una
+
+364
+00:34:11,960 --> 00:34:17,639
+manera consistente mes tras mes y año tras año sin el miedo de que tal vez
+
+365
+00:34:17,639 --> 00:34:22,400
+su estrategia vaya a dejar de funcionar por ejemplo en nuestra estrategia de
+
+366
+00:34:22,400 --> 00:34:26,880
+trading nuestro método comprobado utilizamos el ciclo de las tendencias
+
+367
+00:34:26,880 --> 00:34:32,440
+para saber dónde estamos y para dónde vamos este ciclo de las tendencias es como
+
+368
+00:34:32,440 --> 00:34:38,400
+una brújula que nos permite adaptarnos fácilmente a los cambios que hay de una
+
+369
+00:34:38,400 --> 00:34:43,239
+sesión a otra sesión los cambios que suceden de un día a otro día o incluso
+
+370
+00:34:43,239 --> 00:34:49,599
+los cambios que suceden de un mes a otro mes esta es una gran herramienta que
+
+371
+00:34:49,599 --> 00:34:54,519
+nos permite mantenernos consistentes a lo largo de los años porque mi
+
+372
+00:34:54,559 --> 00:34:59,639
+objetivo como trader no es hacer dinero una semana o incluso no es hacer dinero un
+
+373
+00:34:59,639 --> 00:35:05,159
+mes para después de volverlo todo mi objetivo es mantener mi consistente
+
+374
+00:35:05,159 --> 00:35:10,039
+año tras año porque sólo esa consistencia sostenida es lo que me va a
+
+375
+00:35:10,039 --> 00:35:15,039
+permitir crecer mi cuenta es lo que me va a permitir tener libertad de tiempo
+
+376
+00:35:15,039 --> 00:35:19,960
+sólo esa consistencia es lo que me va a permitir hacer trading de forma
+
+377
+00:35:19,960 --> 00:35:25,840
+segura manteniendo mi dinero a salvo ok y para que veas el poder real de la
+
+378
+00:35:25,840 --> 00:35:30,280
+consistencia te voy a enviar completamente gratis mi calculadora de
+
+379
+00:35:30,280 --> 00:35:35,440
+consistencia de trading profesional esta es la misma herramienta que usamos dentro
+
+380
+00:35:35,440 --> 00:35:40,719
+de trading profesional para proyectar nuestras ganancias reales sostenibles de
+
+381
+00:35:40,719 --> 00:35:46,599
+manera segura y en ella vas a poder ver exactamente el futuro de tu cuenta de
+
+382
+00:35:46,599 --> 00:35:53,159
+trading según tu nivel actual ahora si te das cuenta todo lo que aprendimos hoy se
+
+383
+00:35:53,159 --> 00:35:58,679
+resumen en tres pilares primero haz tus cuentas correctamente porque el primer
+
+384
+00:35:58,679 --> 00:36:03,920
+paso para ganar dinero con trading es aprender a no perder en este primer
+
+385
+00:36:03,920 --> 00:36:09,840
+paso te ayude a romper completamente la ilusión de dinero rápido y fácil que
+
+386
+00:36:09,840 --> 00:36:14,000
+nos presentan las profrans y los brokers para que dejes de quemar cuentas
+
+387
+00:36:14,119 --> 00:36:20,510
+aplicando la simulación monta y carlo para proteger tu dinero el segundo pilar es la
+
+388
+00:36:20,510 --> 00:36:25,550
+comprensión estadística porque el segundo paso para hacer dinero con trading es
+
+389
+00:36:25,550 --> 00:36:31,710
+tener un método comprobado por estadísticas y datos reales te enseñé el paso
+
+390
+00:36:31,710 --> 00:36:36,869
+clave para superar la psicología del trading que es comprobando tu método
+
+391
+00:36:36,869 --> 00:36:41,670
+con estadísticas propias que te demuestran a ti mismo que saben lo
+
+392
+00:36:41,670 --> 00:36:46,630
+que estás haciendo que te den la claridad y la confianza de que lo que estás
+
+393
+00:36:46,630 --> 00:36:51,670
+haciendo realmente da resultados consistentes ok antes de invertir nuestro
+
+394
+00:36:51,670 --> 00:36:57,110
+capital y número tres el tercer paso para ganar dinero con trading es la
+
+395
+00:36:57,110 --> 00:37:02,829
+adaptación al cambio del mercado porque el tercer pilar es convertirte en un
+
+396
+00:37:02,829 --> 00:37:09,230
+trader consistente que puede generar retornos mes tras mes y año tras año
+
+397
+00:37:09,230 --> 00:37:15,429
+porque trading es un hobby no es un juego trading es una profesión seria donde
+
+398
+00:37:15,429 --> 00:37:20,190
+estamos invirtiendo tiempo y estamos invirtiendo dinero y para mantenernos
+
+399
+00:37:20,190 --> 00:37:25,909
+consistentes año tras año tenemos que ajustarnos a los cambios que suceden en
+
+400
+00:37:25,909 --> 00:37:30,829
+el mercado te mostré el ciclo de las tendencias también el gráfico la
+
+401
+00:37:30,829 --> 00:37:34,670
+brúgula que utilizamos nosotros en trading profesional para mantenerlo
+
+402
+00:37:34,670 --> 00:37:40,550
+siempre en sincronía con el mercado este método funciona en las diferentes partes
+
+403
+00:37:40,550 --> 00:37:44,469
+del ciclo así que no tengo que tener muchas estrategias si no es un método
+
+404
+00:37:44,469 --> 00:37:48,750
+que se adapta a las diferentes partes o a los diferentes cambios que tiene el
+
+405
+00:37:48,750 --> 00:37:54,389
+mercado ok y también tendría la calculadora de consistencia la misma
+
+406
+00:37:54,389 --> 00:37:58,349
+herramienta que utilizamos dentro del programa de trading profesional para
+
+407
+00:37:58,349 --> 00:38:04,150
+proyectar ganas y reales sostenibles y de manera segura y al final de esta
+
+408
+00:38:04,150 --> 00:38:08,670
+clase también te enviaré la guía de evolución del trader profesional esta es
+
+409
+00:38:08,670 --> 00:38:13,190
+una guía paso a paso que te va a mostrar los diferentes niveles desde el
+
+410
+00:38:13,190 --> 00:38:17,670
+principiante hasta el trader que está manejando múltiples cuentas y vas a
+
+411
+00:38:17,670 --> 00:38:22,150
+diagnosticar en qué nivel te encuentras para saber exactamente cuál es el
+
+412
+00:38:22,150 --> 00:38:26,030
+obstáculo cuál es el cuello de botella que no te está permitiendo pasar
+
+413
+00:38:26,030 --> 00:38:30,909
+al siguiente nivel y bueno ahora la pregunta es cuál es el siguiente paso
+
+414
+00:38:31,269 --> 00:38:37,429
+en este punto hay dos caminos y una decisión el primer camino es cerrar esta
+
+415
+00:38:37,429 --> 00:38:42,610
+clase ahora tomar toda esta información e intentar hacerlo todo por tu cuenta pero
+
+416
+00:38:42,610 --> 00:38:46,989
+sabes lo que eso implica cierto recopilación de datos miles de horas
+
+417
+00:38:46,989 --> 00:38:52,510
+de optimización este es el camino que ya conoces hay otro camino al principio
+
+418
+00:38:52,510 --> 00:38:56,710
+de esta clase te dije que te iba a explicar cómo puedo llevarte de la
+
+419
+00:38:56,710 --> 00:39:02,630
+mano paso a paso y guiarte para que finalmente puedas lograr los objetivos
+
+420
+00:39:02,630 --> 00:39:08,849
+que buscabas desde el principio en esta profesión si quieres dejar de perder el
+
+421
+00:39:08,849 --> 00:39:13,789
+tiempo y la energía tratando de descubrir todo esto por tu cuenta si quieres
+
+422
+00:39:13,789 --> 00:39:19,030
+aprender trading con método paso a paso comprobado y usado por firmas y
+
+423
+00:39:19,030 --> 00:39:24,110
+trades profesionales reales este programa es para ti en los últimos cinco
+
+424
+00:39:24,110 --> 00:39:29,590
+años hemos construido y refinado trading profesional un programa de alto
+
+425
+00:39:29,590 --> 00:39:34,590
+nivel creado para enseñarte el paso a paso para convertirte en un trader
+
+426
+00:39:34,590 --> 00:39:40,710
+rentable y consistente de forma segura aquí aprenderás el mismo método que
+
+427
+00:39:40,710 --> 00:39:46,110
+utilizamos los tres profesionales probado por data real y herramientas que
+
+428
+00:39:46,110 --> 00:39:50,829
+utilizamos nosotros en el trading floor para reducir nuestro margen de error y
+
+429
+00:39:50,829 --> 00:39:56,110
+para crecer nuestras cuentas además también contarás con mi guía y la de mi
+
+430
+00:39:56,110 --> 00:40:01,789
+equipo en cada parte de tu proceso para que haces con claridad y sin perder el
+
+431
+00:40:01,789 --> 00:40:07,389
+tiempo y lo más importante vas a entregar también tu mente para que puedas
+
+432
+00:40:07,389 --> 00:40:13,150
+operar con disciplina con enfoque y con un alto control emocional no sólo quiero
+
+433
+00:40:13,150 --> 00:40:17,789
+que aprendas trading tienes que aprender a pensar y ejecutar como un
+
+434
+00:40:17,869 --> 00:40:22,070
+trader profesional de verdad y para que eso sea una realidad también
+
+435
+00:40:22,070 --> 00:40:27,510
+compartiré contigo unos ejercicios diseñados especialmente para traders
+
+436
+00:40:27,510 --> 00:40:32,190
+para que puedas reprogramar tu mente subconsciente y elimines todos esos
+
+437
+00:40:32,190 --> 00:40:37,429
+bloqueos mentales que hacen el proceso más difícil de lo que debería ser si
+
+438
+00:40:37,429 --> 00:40:40,989
+quieres aprender el método que utilizamos en el trading floor y el
+
+439
+00:40:40,989 --> 00:40:44,670
+mismo método que utilizan los traders profesionales con los cuales me
+
+440
+00:40:44,670 --> 00:40:49,829
+he rodeado en los últimos ocho años todo explicado de una forma clara
+
+441
+00:40:49,829 --> 00:40:55,710
+práctica y paso a paso quiero invitarte a unirte a nuestro programa de trading
+
+442
+00:40:55,710 --> 00:41:01,230
+profesional este es un programa diseñado especialmente por años para
+
+443
+00:41:01,230 --> 00:41:06,190
+guiarte paso a paso con una estrategia comprobada de rentable con una
+
+444
+00:41:06,190 --> 00:41:10,869
+gestión de riesgo de alto nivel y un entrenamiento mental para que tú
+
+445
+00:41:10,869 --> 00:41:15,869
+también puedas ver resultados positivos consistentes y seguros en tu trading y
+
+446
+00:41:15,869 --> 00:41:20,949
+dentro del programa vas a escoger tu estilo de trading porque es muy importante
+
+447
+00:41:20,949 --> 00:41:26,150
+que hagas trading de una manera que se adapte a tu estilo de vida también vas
+
+448
+00:41:26,150 --> 00:41:30,510
+a aprender el método paso a paso comprobado con estadísticas miles de
+
+449
+00:41:30,510 --> 00:41:34,150
+trades y decenas de personas que estamos viviendo de trading gracias a este
+
+450
+00:41:34,150 --> 00:41:37,789
+método también vas a aprender a ejecutar tus operaciones de una forma
+
+451
+00:41:37,789 --> 00:41:43,789
+práctica y semi automatizada para tener más libertad de tiempo y no desgastarte
+
+452
+00:41:43,789 --> 00:41:48,590
+todo el día frente a la pantalla también vas a aprender a operar con el tamaño de
+
+453
+00:41:48,590 --> 00:41:54,590
+cuenta y posición ideal para ti según tus estadísticas para que puedas
+
+454
+00:41:54,590 --> 00:41:59,510
+maximizar tus ganancias y al mismo tiempo hacerlo de una manera segura
+
+455
+00:41:59,510 --> 00:42:03,590
+vas a aprender a analizar tus resultados de una manera simple y
+
+456
+00:42:03,590 --> 00:42:07,909
+eficiente para que puedas mejorar constantemente porque todos queremos
+
+457
+00:42:07,909 --> 00:42:12,550
+volvernos mejores traders también aprenderás a adaptarte a los diferentes
+
+458
+00:42:12,550 --> 00:42:17,150
+ciclos del mercado algo súper importante para mantener tu rentabilidad al
+
+459
+00:42:17,150 --> 00:42:21,869
+largo de los meses y a lo largo de los años también aprenderás a gestionar tus
+
+460
+00:42:21,869 --> 00:42:26,429
+emociones para que puedas operar con tranquilidad con confianza y con
+
+461
+00:42:26,429 --> 00:42:30,949
+disciplina aprenderás a diseñar tu propio plan de trading hecho
+
+462
+00:42:30,949 --> 00:42:36,110
+específicamente para ti y por ti un plan de cuatro pasos para que siempre
+
+463
+00:42:36,110 --> 00:42:41,670
+operes a un alto nivel y aprenderás a gestionar mejor tu dinero y tus cuentas
+
+464
+00:42:41,670 --> 00:42:46,670
+de trading para que puedas escalar tus cuentas sin necesidad de trabajar más
+
+465
+00:42:46,670 --> 00:42:52,909
+horas y sin necesidad de tomar mucho riesgo ok así que este no es un curso
+
+466
+00:42:52,909 --> 00:42:57,630
+más es una formación completa que te lleva del estancamiento a los resultados
+
+467
+00:42:57,630 --> 00:43:02,269
+positivos te lleva de la inconsistencia y la frustración a la
+
+468
+00:43:02,269 --> 00:43:06,829
+consistencia y a la confianza de que sabes lo que estás haciendo y sabes que
+
+469
+00:43:06,829 --> 00:43:12,389
+funciona te lleva del miedo de operar el miedo de cometer errores que yo los
+
+470
+00:43:12,389 --> 00:43:17,190
+sentí por mucho tiempo a la rentabilidad en trading para que logres y
+
+471
+00:43:17,190 --> 00:43:23,110
+superes los objetivos por los que tanto has trabajado como trader ok y bueno
+
+472
+00:43:23,150 --> 00:43:27,789
+todo este proceso será diez veces más rápido y fácil porque durante el
+
+473
+00:43:27,789 --> 00:43:33,190
+programa vas a tener acceso a nuestro software de estudio acelerado una
+
+474
+00:43:33,190 --> 00:43:38,670
+herramienta que desarrollamos exclusivamente para ayudarte a aprender
+
+475
+00:43:38,670 --> 00:43:43,349
+más rápido el método de trading profesional y acelerar tu proceso y
+
+476
+00:43:43,349 --> 00:43:48,429
+otra razón por la que este programa es diferente al resto es porque cada
+
+477
+00:43:48,469 --> 00:43:54,190
+módulo incluye una clase y un ejercicio de reprogramación mental diseñada
+
+478
+00:43:54,190 --> 00:44:00,510
+estratégicamente para traders para que nada pueda frenar nuestros resultados
+
+479
+00:44:00,510 --> 00:44:06,510
+ni siquiera nosotros mismos ok porque es también es muy importante porque no se
+
+480
+00:44:06,510 --> 00:44:11,829
+trata solamente de aprender una estrategia se trata de convertirnos en
+
+481
+00:44:11,829 --> 00:44:18,309
+la persona que puede sostener y multiplicar ese éxito yo he aprendido
+
+482
+00:44:18,309 --> 00:44:23,469
+personalmente directamente de especialistas en el alto rendimiento a
+
+483
+00:44:23,469 --> 00:44:28,909
+reprogramar mi mente para alcanzar más altos niveles de consistencia y de éxito
+
+484
+00:44:28,909 --> 00:44:36,380
+y en este programa voy a compartirte los mismos ejercicios que cambiaron mi vida
+
+485
+00:44:36,380 --> 00:44:42,500
+los mismos ejercicios que me han permitido crecer año tras año y
+
+486
+00:44:42,500 --> 00:44:48,219
+mantener mi consistencia emocional mental y mi consistencia en trading porque
+
+487
+00:44:48,260 --> 00:44:54,539
+si tu mente no está alineada con tus metas vas a cargar corona desventaja
+
+488
+00:44:54,539 --> 00:45:02,099
+enorme esas creencias limitantes esos miedos esos bloqueos esas cosas que nos
+
+489
+00:45:02,099 --> 00:45:08,059
+roban el enfoque y nos roban nuestros resultados por eso es que decidimos
+
+490
+00:45:08,059 --> 00:45:12,699
+integrar este entrenamiento mental directamente en el programa de trading
+
+491
+00:45:12,699 --> 00:45:16,820
+profesional porque no quiero que solamente aprendas a hacer trading
+
+492
+00:45:16,820 --> 00:45:21,219
+quiero que tengas todas las herramientas para ser exitoso en esta
+
+493
+00:45:21,219 --> 00:45:26,619
+profesión y tener un éxito constante a lo largo de los años que puedas crecer y
+
+494
+00:45:26,619 --> 00:45:31,860
+hay otra razón por la cual este programa es completamente diferente al resto
+
+495
+00:45:31,860 --> 00:45:37,300
+aquí vas a tener una guía y un soporte personalizado dentro de nuestra
+
+496
+00:45:37,300 --> 00:45:41,980
+comunidad privada de discord no es una comunidad abierta ni un grupo donde
+
+497
+00:45:41,980 --> 00:45:47,579
+entra cualquiera aquí somos o estamos solamente traders serios personas que
+
+498
+00:45:47,579 --> 00:45:52,340
+vemos esto como una profesión que usamos el mismo método y que estamos
+
+499
+00:45:52,340 --> 00:45:57,460
+comprometidos con la excelencia en nuestro trabajo en esta comunidad vas a
+
+500
+00:45:57,460 --> 00:46:02,619
+poder compartir tus análisis tus ideas sus resultados y recibir un feedback
+
+501
+00:46:02,619 --> 00:46:08,219
+personalizado en cada parte de tu proceso porque cuando estás rodado de
+
+502
+00:46:08,219 --> 00:46:14,139
+personas que piensan como tú que quieren las mismas cosas que tú quieres que
+
+503
+00:46:14,139 --> 00:46:18,340
+están teniendo éxito y que están utilizando el mismo método bueno todo
+
+504
+00:46:18,340 --> 00:46:24,659
+cambia el proceso se vuelve más rápido más claro y mucho más fácil e inspirador
+
+505
+00:46:24,659 --> 00:46:30,219
+ahora déjame mostrarte el proceso paso a paso de cómo está organizado el
+
+506
+00:46:30,219 --> 00:46:36,219
+programa en el módulo 1 aprenderás las bases del éxito en trading en este
+
+507
+00:46:36,219 --> 00:46:41,739
+primer módulo aprenderás los principios fundamentales para convertir el trading
+
+508
+00:46:41,739 --> 00:46:47,860
+en un negocio seguro rentable y exitoso en tu vida en este módulo aprenderás las
+
+509
+00:46:47,860 --> 00:46:52,860
+bases del trading como profesión para que entiendas desde el principio cómo
+
+510
+00:46:52,860 --> 00:46:57,699
+crear un negocio rentable y sostenible con trading también aprenderás las bases
+
+511
+00:46:57,699 --> 00:47:02,380
+de la estrategia de trading las estadísticas de trading la mentalidad del
+
+512
+00:47:02,380 --> 00:47:08,380
+trading exitoso la gestión del riesgo y el escalamiento diseñaremos tu próximo
+
+513
+00:47:08,380 --> 00:47:14,739
+capítulo por medio de un ejercicio profundo de introspección para que alinees tu
+
+514
+00:47:14,739 --> 00:47:21,059
+versión actual con tu siguiente nivel de una manera subconsciente en el módulo 2
+
+515
+00:47:21,059 --> 00:47:25,699
+aprenderás el análisis de mercado escogerás tu estilo de trading pasa
+
+516
+00:47:25,699 --> 00:47:30,019
+a identificar el estilo que mejor se adapta a tu estilo de vida y a tu
+
+517
+00:47:30,059 --> 00:47:34,980
+tiempo y a tu personalidad porque nuestro método está comprobado para hacer su
+
+518
+00:47:34,980 --> 00:47:40,460
+trading de trading y scalping para que tú puedas elegir el estilo de trading y los
+
+519
+00:47:40,460 --> 00:47:45,739
+horarios que te van a permitir ser constante en esta profesión también
+
+520
+00:47:45,739 --> 00:47:50,739
+seleccionarás el mejor mercado para ti nuestro método funciona en forex índices
+
+521
+00:47:50,739 --> 00:47:56,019
+futuros y oro con resultados positivos y estadísticamente comprobado así que
+
+522
+00:47:56,019 --> 00:48:01,860
+vas a poder operar el mercado que más adapte a ti también aprenderás cuando
+
+523
+00:48:01,860 --> 00:48:06,940
+no operar aprenderás a reconocer cuando el mercado está manipulado o errático para
+
+524
+00:48:06,940 --> 00:48:11,860
+que protejas tu cuenta y evites perdidas innecesarias y de nuevo todo
+
+525
+00:48:11,860 --> 00:48:16,500
+esto está respaldado por data real también aprenderás a utilizar las
+
+526
+00:48:16,500 --> 00:48:20,300
+plataformas de trading como todo un profesional aquí aprenderás cómo
+
+527
+00:48:20,300 --> 00:48:25,980
+analizar el mercado de forma simple y eficiente nada de cosas extra que nunca
+
+528
+00:48:25,980 --> 00:48:30,539
+vas a utilizar y en nuestro entrenamiento de mentalidad de este módulo
+
+529
+00:48:30,539 --> 00:48:36,059
+removerás los cuatro mayores obstáculos para el éxito en trading en el módulo
+
+530
+00:48:36,059 --> 00:48:41,659
+3 aprenderás la estrategia maestra en este módulo vas a aprender el método
+
+531
+00:48:41,659 --> 00:48:47,340
+comprobado paso a paso que te permitirá entender lo que va a ser el mercado para
+
+532
+00:48:47,340 --> 00:48:51,940
+que puedas tomar buenos trades las lecciones de este módulo serán la
+
+533
+00:48:51,940 --> 00:48:57,179
+estrategia maestra las 12 tendencias las órdenes bancarias las condiciones del
+
+534
+00:48:57,179 --> 00:49:02,780
+mercado el ciclo de las tendencias para que sepas cómo adaptarte al mercado y
+
+535
+00:49:02,780 --> 00:49:08,219
+que mantengas tu consistencia año tras año también aprenderás el análisis y la
+
+536
+00:49:08,219 --> 00:49:13,780
+planeación de un trade paso a paso y en el entrenamiento mental aprenderás a
+
+537
+00:49:13,780 --> 00:49:19,780
+operar con confianza y sin miedo en el módulo 4 aprenderás la ejecución y
+
+538
+00:49:19,780 --> 00:49:24,519
+el manejo aprenderás cuáles son los tres tipos de trades que utilizamos con
+
+539
+00:49:24,519 --> 00:49:28,539
+nuestro método para adaptarnos a los cambios del mercado en este módulo
+
+540
+00:49:28,539 --> 00:49:32,980
+también aprenderás a ejecutar con entradas de mercado te enseñaré cómo
+
+541
+00:49:32,980 --> 00:49:38,539
+ejecutar cada trade con pasos claros y objetivos nada de subjetividad en la
+
+542
+00:49:38,539 --> 00:49:42,340
+ejecución aprenderás cómo utilizar las órdenes de entrada
+
+543
+00:49:42,340 --> 00:49:46,539
+te enseñaré cómo tomar buenos trades sin necesidad de estar en la
+
+544
+00:49:46,539 --> 00:49:51,460
+pantalla todo el tiempo también te daré los formatos de trading profesional que
+
+545
+00:49:51,460 --> 00:49:56,460
+utilizamos nosotros en nuestra empresa para que puedas mejorar tus estadísticas de
+
+546
+00:49:56,460 --> 00:50:01,579
+manera simple fácil y rápida y en el submódulo te enseñaré cómo aprender
+
+547
+00:50:01,579 --> 00:50:07,400
+todo esto fácilmente en el módulo 5 verás la estrategia en acción me verás
+
+548
+00:50:07,400 --> 00:50:12,099
+operando en diferentes estilos de trading scalping day trading y swing
+
+549
+00:50:12,219 --> 00:50:17,739
+para que veas cómo la estrategia funciona y se adapta a cada horario y estilo de
+
+550
+00:50:17,739 --> 00:50:22,179
+trading me verás operando en londres en nueva york en tokyo en este módulo
+
+551
+00:50:22,179 --> 00:50:28,019
+también vas a comprobar la estrategia por ti mismo antes de invertir en real
+
+552
+00:50:28,019 --> 00:50:32,820
+para que en el momento en el que tengas estadísticas rentables des el
+
+553
+00:50:32,820 --> 00:50:38,139
+siguiente paso con total claridad y total confianza de que sabes lo que estás
+
+554
+00:50:39,019 --> 00:50:43,659
+haciendo también aprenderás a refinar tu ejecución en vivo y te enseñaré los
+
+555
+00:50:43,659 --> 00:50:49,019
+trucos para hacer trading de forma más fácil con una herramienta que aprendí en
+
+556
+00:50:49,019 --> 00:50:53,739
+el trading floor y en el segmento de mentalidad superará sus bloqueos mentales
+
+557
+00:50:53,739 --> 00:50:58,300
+con el dinero en el módulo 6 entraremos en profundidad en la gestión del
+
+558
+00:50:58,300 --> 00:51:03,659
+riesgo aprenderás todo lo necesario para mantenerte rentable y consistente a
+
+559
+00:51:03,659 --> 00:51:07,739
+lo largo de los años aplicando la misma gestión que utilizan los traders
+
+560
+00:51:07,739 --> 00:51:11,940
+institucionales y los fondos de inversión lo que aprenderás en este módulo
+
+561
+00:51:11,940 --> 00:51:18,260
+por sí solo vale el precio del programa porque esto realmente es lo que permite a
+
+562
+00:51:18,260 --> 00:51:23,699
+los traders profesionales multiplicar su capital de manera constante dentro de
+
+563
+00:51:23,699 --> 00:51:28,420
+este módulo vas a aprender cómo usar la palancamiento de forma inteligente
+
+564
+00:51:28,420 --> 00:51:33,059
+cómo proteger tu cuenta para que crezca consistentemente cuáles son las
+
+565
+00:51:33,059 --> 00:51:37,940
+expectativas y proyecciones que deberías tener según tus números también
+
+566
+00:51:37,940 --> 00:51:44,099
+aprenderás a operar en mercados riesgosos y en mercados seguros o conocido risk on
+
+567
+00:51:44,099 --> 00:51:49,659
+risk off y en el sumódulo tendrás un entrenamiento mental para que comiences a
+
+568
+00:51:49,659 --> 00:51:56,099
+operar sin ninguna resistencia o complicación mental el módulo 7 será de
+
+569
+00:51:56,099 --> 00:52:01,940
+la mentalidad del trader exitoso en este módulo entrenaremos tu mente para
+
+570
+00:52:01,940 --> 00:52:07,019
+que pienses como un trader profesional te enseñaré cómo operar bajo presión y
+
+571
+00:52:07,019 --> 00:52:12,179
+mantener la calma para que pueda rendir año tras año como lo hacen los
+
+572
+00:52:12,179 --> 00:52:17,300
+traders profesionales y los gestores de capital exitosos dentro de este módulo
+
+573
+00:52:17,300 --> 00:52:22,260
+verás ejercicios como cómo operar con seguridad cómo mantener la
+
+574
+00:52:22,260 --> 00:52:26,300
+consistencia cómo superar el estancamiento cómo gestionar mis
+
+575
+00:52:26,300 --> 00:52:31,780
+emociones fácilmente cómo elevar mi nivel de trading y también diseñaremos
+
+576
+00:52:31,780 --> 00:52:38,539
+tu planta de trading personalizado y en el último módulo el módulo 8 aprenderás
+
+577
+00:52:38,539 --> 00:52:43,860
+a escalar tus cuentas de trading en este módulo aprenderás a multiplicar tus
+
+578
+00:52:43,860 --> 00:52:49,460
+resultados sin necesidad de multiplicar tu esfuerzo y escalar nuestro capital de
+
+579
+00:52:49,460 --> 00:52:53,699
+manera segura en este módulo verá lecciones como planificación de
+
+580
+00:52:53,699 --> 00:52:57,260
+finanzas mentalidad para operar con grandes cuentas
+
+581
+00:52:57,340 --> 00:53:02,260
+estadísticas de rendimiento gestión de portafoglio y lo mejor de todo es que
+
+582
+00:53:02,260 --> 00:53:07,219
+también vas a recibir un soporte personalizado en las sesiones en vivo que
+
+583
+00:53:07,219 --> 00:53:12,739
+tendrás conmigo dudes y incluir este seguimiento porque mi programa uno a uno
+
+584
+00:53:12,739 --> 00:53:18,139
+tiene un valor mínimo de dos mil quinientos dólares pero realmente quiero
+
+585
+00:53:18,139 --> 00:53:23,059
+que este programa sea el más completo y exitoso del mercado y quiero
+
+586
+00:53:23,059 --> 00:53:26,940
+asegurarme de que te estoy dando lo mejor de mí y para asegurarnos de que
+
+587
+00:53:26,940 --> 00:53:31,139
+esto suceda he decidido incluir estas sesiones de seguimiento en vivo
+
+588
+00:53:31,139 --> 00:53:37,019
+absolutamente gratis en estas sesiones voy a responder tus preguntas y voy a estar
+
+589
+00:53:37,019 --> 00:53:42,260
+entrando en profundidad en ejercicios y en trades de una manera paso a paso para
+
+590
+00:53:42,260 --> 00:53:46,460
+que recibas una guía personalizada esto lo haré con algunos de los
+
+591
+00:53:46,460 --> 00:53:51,500
+participantes en cada clase donde revisaré sus trades, sus estadísticas y
+
+592
+00:53:51,500 --> 00:53:56,300
+demás y también en estas sesiones vamos a fortalecer tu mentalidad del
+
+593
+00:53:56,300 --> 00:54:02,659
+éxito para mantenernos alineados y con muy buena energía así que realmente aquí
+
+594
+00:54:02,659 --> 00:54:07,380
+vas a obtener todo lo que necesitas para que puedas convertirte en un trader
+
+595
+00:54:07,380 --> 00:54:12,380
+rentable para que puedas gestionar capital de empresas y para que puedas
+
+596
+00:54:12,380 --> 00:54:18,860
+generar ingresos de forma consistente a través de esta profesión y esto no
+
+597
+00:54:18,860 --> 00:54:24,260
+lo digo sólo yo lo dicen mis estudiantes te voy a compartir algunos
+
+598
+00:54:24,260 --> 00:54:29,460
+de los resultados y testimonios más recientes de mis estudiantes él es
+
+599
+00:54:29,460 --> 00:54:36,340
+Manuel Conde y es un trader fundeado este es su testimonio en menos de un año desde
+
+600
+00:54:36,340 --> 00:54:42,420
+que inicí el curso con adri logré convertirme en un trader rentable una
+
+601
+00:54:42,420 --> 00:54:46,820
+vez que me enfoqué en tomar tres de alta probabilidad que seguían la estrategia
+
+602
+00:54:46,820 --> 00:54:52,019
+mis números mejoraron por completo he logrado tener mis primeras dos cuentas
+
+603
+00:54:52,019 --> 00:54:57,619
+fundeadas gestiono capital para una profa y también he realizado múltiples
+
+604
+00:54:57,619 --> 00:55:03,420
+retiros con mi cuenta personal o por ejemplo olman otro de nuestros estudiantes
+
+605
+00:55:03,420 --> 00:55:08,380
+que también se convirtió en un trader fundado y también comenzó a gestionar
+
+606
+00:55:08,380 --> 00:55:13,780
+capital de empresas como ftmo gracias a lo que aprendió en nuestro programa
+
+607
+00:55:13,780 --> 00:55:19,260
+olman dice le agradezco a adria mario porque gracias a ellos el sueño de mi
+
+608
+00:55:19,260 --> 00:55:24,940
+vida se está cumpliendo ser un trader profesional y vivir del trading aquí
+
+609
+00:55:24,940 --> 00:55:30,420
+aprendí una estrategia real rentable y consistente además de todos los
+
+610
+00:55:30,420 --> 00:55:35,659
+documentos y journals necesarios para obtener resultados este programa está
+
+611
+00:55:35,659 --> 00:55:41,739
+completísimo y mientras más rápido sigas el proceso completo más rápido
+
+612
+00:55:41,739 --> 00:55:46,820
+podrás ver resultados te lo digo es de mi experiencia personal porque desde que
+
+613
+00:55:46,820 --> 00:55:52,500
+pongo la estrategia en práctica todos los días utilizo todas las herramientas y
+
+614
+00:55:52,500 --> 00:55:58,019
+hago todos los ejercicios de mentalidad que nos dan mis resultados se mantienen y
+
+615
+00:55:58,019 --> 00:56:04,179
+los beneficios que esto ha traído a mi vida son evidentes y en caso de que te
+
+616
+00:56:04,179 --> 00:56:08,460
+estés preguntando bueno y cuánto vale todo esto te explicaré los detalles
+
+617
+00:56:08,460 --> 00:56:13,219
+número 1 vas a recibir acceso al programa completo de trading profesional
+
+618
+00:56:13,219 --> 00:56:18,780
+también tendrás acceso al entrenamiento mental diseñado para desarrollar tu
+
+619
+00:56:18,780 --> 00:56:24,139
+mentalidad a una manera subconsciente junto a los documentos herramientas y
+
+620
+00:56:24,139 --> 00:56:28,699
+folletos complementarios del programa que vas a recibir en cada módulo para que
+
+621
+00:56:28,699 --> 00:56:33,500
+te ahorres tiempo y para que haga su proceso mucho más fácil además de
+
+622
+00:56:33,500 --> 00:56:37,980
+eso tendrás acceso de por vida al programa de trading profesional para
+
+623
+00:56:37,980 --> 00:56:43,940
+que puedas estudiar y repasar cada paso a tu tiempo también tendrás acceso a
+
+624
+00:56:43,940 --> 00:56:48,619
+nuestra herramienta de estudio de trading profesional un programa diseñado
+
+625
+00:56:48,619 --> 00:56:54,579
+específicamente para acelerar tu proceso de aprendizaje y para que aprendas el
+
+626
+00:56:54,579 --> 00:56:59,780
+método comprobado en tiempo record desde tu celular esta herramienta por si sola
+
+627
+00:56:59,780 --> 00:57:05,219
+vale 250 dólares pero hemos decidido incluirla en el programa totalmente
+
+628
+00:57:05,219 --> 00:57:10,099
+gratis también junto a las sesiones grupales conmigo aquí también recibirás
+
+629
+00:57:10,099 --> 00:57:15,059
+ayuda constante en la lectura de tus gráficos y vamos a corregir ratiamente
+
+630
+00:57:15,059 --> 00:57:19,340
+todos los errores que vayas teniendo a lo largo del proceso vamos a estar ahí
+
+631
+00:57:19,340 --> 00:57:24,699
+cuando lo necesites y también vas a tener tu dosis de inspiración constante
+
+632
+00:57:24,699 --> 00:57:29,059
+porque tendrás acceso a nuestra comunidad privada donde recibirás
+
+633
+00:57:29,059 --> 00:57:34,059
+soporte personalizado a lo largo del tiempo esta es una comunidad de trades
+
+634
+00:57:34,059 --> 00:57:39,860
+profesionales para futuros trades profesionales aquí no hay nada de fondo
+
+635
+00:57:39,860 --> 00:57:45,539
+nada de drama esto es una comunidad de alta calidad con buena energía donde
+
+636
+00:57:45,539 --> 00:57:50,139
+conectamos con otras personas de nuestra industria y nos ayudamos aplicando el
+
+637
+00:57:50,139 --> 00:57:54,500
+mismo método así que no tienes que pasar por este proceso sólo es más
+
+638
+00:57:54,500 --> 00:57:58,860
+personalmente creo que una de las razones a las cuales atribuyó mi
+
+639
+00:57:58,860 --> 00:58:03,619
+éxito es que yo siempre estuve conectada a personas en industria a
+
+640
+00:58:03,659 --> 00:58:08,619
+trades profesionales y a trades que llevan a mi mismo paso incluso a personas que
+
+641
+00:58:08,619 --> 00:58:12,460
+tenían menos experiencia que yo pero que estaban alineadas con esta misma
+
+642
+00:58:12,460 --> 00:58:16,699
+mentalidad de hacer trading profesionalmente y realmente esto me ayudó
+
+643
+00:58:16,699 --> 00:58:22,940
+tremendamente a abrir mi mente y a hacer el proceso más exponencial y más
+
+644
+00:58:22,940 --> 00:58:28,329
+divertido que si lo hubiese tratado de hacer sola así que para recapitular
+
+645
+00:58:28,329 --> 00:58:32,250
+esto es todo lo que recibirás al entrenar el programa de trading
+
+646
+00:58:32,289 --> 00:58:37,530
+profesional el currículo completo de ocho módulos diseñado para que aprendas a
+
+647
+00:58:37,530 --> 00:58:43,090
+operar pensar y gestionar capital como un trader profesional el acceso de por vida al
+
+648
+00:58:43,090 --> 00:58:47,929
+programa para que avances a tu propio ritmo y estudies siempre que lo
+
+649
+00:58:47,929 --> 00:58:52,690
+necesites tercero sesiones en vivo conmigo donde recibirás una guía
+
+650
+00:58:52,690 --> 00:58:58,650
+personalizada donde podré resolver tus dudas directamente más un año de
+
+651
+00:58:58,650 --> 00:59:03,369
+acompañamiento en nuestra comunidad privada de trading profesional aparte de
+
+652
+00:59:03,369 --> 00:59:08,809
+esos recibirás documentos folletos y herramientas exclusivas que van a
+
+653
+00:59:08,809 --> 00:59:13,449
+acelerar y a complementar tu aprendizaje cada módulo incluye una sesión de
+
+654
+00:59:13,449 --> 00:59:17,849
+entrenamiento mental enfocada en corregir errores emocionales en
+
+655
+00:59:17,849 --> 00:59:23,489
+reforzar tu disciplina y en ayudarte a construir de forma subconsciente la
+
+656
+00:59:23,489 --> 00:59:28,489
+mentalidad necesaria para operar como un trader profesional el objetivo de
+
+657
+00:59:28,489 --> 00:59:34,969
+este programa es uno solo que tú también puedas ver resultados positivos y
+
+658
+00:59:34,969 --> 00:59:40,010
+consistentes con trading esta es la razón por la que te estoy dando todo esto
+
+659
+00:59:40,010 --> 00:59:45,289
+estás recibiendo un proceso estructurado un método comprobado entrenamiento
+
+660
+00:59:45,289 --> 00:59:49,210
+mental herramientas exclusivas utilizadas en el trading floor
+
+661
+00:59:49,210 --> 00:59:55,170
+acompañamiento y una comunidad alineada al trader profesional y eso que
+
+662
+00:59:55,170 --> 00:59:59,570
+aún no te ha hablado de los bonos exclusivos que vas a recibir totalmente
+
+663
+00:59:59,570 --> 01:00:05,090
+gratis si decides ingresar al programa durante el transcurso de esta clase te
+
+664
+01:00:05,090 --> 01:00:09,849
+explicaré los bonuses y también nuestra política de evolución de dinero y
+
+665
+01:00:09,849 --> 01:00:14,969
+satisfacción total en un momento pero por ahora tal vez te estés preguntando
+
+666
+01:00:14,969 --> 01:00:20,130
+por qué estoy haciendo todo esto la razón es simple quiero que esta
+
+667
+01:00:20,130 --> 01:00:24,570
+decisión sea fácil para ti no quiero que te compliques esta no tiene que
+
+668
+01:00:24,570 --> 01:00:29,530
+ser una decisión difícil porque este programa realmente puede cambiar un
+
+669
+01:00:29,530 --> 01:00:34,050
+antes y un después en tu vida además para las personas que adquieran el
+
+670
+01:00:34,050 --> 01:00:39,369
+programa de trading profesional durante el transcurso de esta clase les estaré
+
+671
+01:00:39,369 --> 01:00:44,969
+obsequiendo dos bonos especiales el primer bonus es el sistema de hábitos
+
+672
+01:00:44,969 --> 01:00:49,650
+del trader profesional organiza tu día y tus rutinas como un trader
+
+673
+01:00:49,650 --> 01:00:55,289
+profesional desde el primer día en esta guía vas a descubrir los hábitos más
+
+674
+01:00:55,289 --> 01:01:01,449
+poderosos para acelerar tus resultados y además también incluye una plantilla
+
+675
+01:01:01,449 --> 01:01:06,849
+editable para que adaptes cada hábito a tu horario y estilo de vida y así puedas
+
+676
+01:01:06,849 --> 01:01:12,090
+construir desde hoy una rutina ideal para ti para que sea mucho más fácil
+
+677
+01:01:12,090 --> 01:01:17,329
+el proceso en convertirte en un trader profesional y el segundo bonus será
+
+678
+01:01:17,329 --> 01:01:23,769
+la plantilla del dinero esta es una de mis plantillas favoritas y es una tabla que
+
+679
+01:01:23,769 --> 01:01:28,929
+te ayudará a organizar tus finanzas desde el principio del programa hasta el
+
+680
+01:01:28,929 --> 01:01:33,170
+final ya cuando estés comenzando a crecer tus cuentas de trading porque
+
+681
+01:01:33,170 --> 01:01:38,449
+debes saber cómo gestionar tu capital como manejar tu dinero para tomar
+
+682
+01:01:38,449 --> 01:01:43,730
+decisiones inteligentes con él y multiplicarlo de manera segura es más la
+
+683
+01:01:43,769 --> 01:01:49,050
+razón por la que llevo más de cinco años viviendo el trading y manejar mi
+
+684
+01:01:49,050 --> 01:01:54,050
+tiempo 100 por ciento gestionar capital para firmas de trading pro firms trabajar
+
+685
+01:01:54,050 --> 01:02:00,250
+en un trading floor es porque aprendí a manejar mis finanzas desde el principio y
+
+686
+01:02:00,250 --> 01:02:04,610
+las personas que se inscriban al programa durante esta clase van a tener
+
+687
+01:02:04,610 --> 01:02:10,289
+acceso exclusivo a estos dos bonos así que para recapitular todo lo que
+
+688
+01:02:10,329 --> 01:02:14,650
+recibidas al ingresar al programa de trading profesional será nuestro programa
+
+689
+01:02:14,650 --> 01:02:20,329
+completo de 8 módulos con el método comprobado paso a paso para operar con
+
+690
+01:02:20,329 --> 01:02:26,690
+rentabilidad consistencia y de manera segura con un acceso de por vida también
+
+691
+01:02:26,690 --> 01:02:31,530
+vas a tener acceso a las sesiones en vivo conmigo a lo largo del programa y un
+
+692
+01:02:31,530 --> 01:02:35,929
+año de guía y soporte constante dentro de nuestra comunidad de trading
+
+693
+01:02:35,929 --> 01:02:39,690
+profesional esto es soporte personalizado directamente con lo que tú
+
+694
+01:02:39,809 --> 01:02:44,610
+estás necesitando también tendrás acceso a los módulos de reprogramación
+
+695
+01:02:44,610 --> 01:02:50,170
+mental para que el éxito en trading deje de ser un problema y que dejes de ser
+
+696
+01:02:50,170 --> 01:02:55,170
+tú el obstáculo que no te permite lograr dos objetivos en trading también
+
+697
+01:02:55,170 --> 01:03:00,250
+recibirás documentos herramientas y folletos que complementan tu proceso
+
+698
+01:03:00,250 --> 01:03:04,769
+de aprendizaje además de todas las herramientas exclusivas como el
+
+699
+01:03:04,769 --> 01:03:09,409
+coach personalizado con inteligencia artificial o el programa de
+
+700
+01:03:09,409 --> 01:03:14,610
+aprendizaje acelerado y también el bonus de el sistema de hábitos del trader
+
+701
+01:03:14,610 --> 01:03:19,969
+profesional y el bonus dos que es la plantilla del dinero el valor total de
+
+702
+01:03:19,969 --> 01:03:27,050
+todo este programa es de 3.960 dólares pero escucha bien nosotros no te
+
+703
+01:03:27,050 --> 01:03:32,889
+vamos a cobrar 3.960 dólares sino sólo una fracción de ese valor y siendo
+
+704
+01:03:32,969 --> 01:03:37,449
+totalmente transparente contigo lo que estás recibiendo en este programa vale
+
+705
+01:03:37,449 --> 01:03:41,969
+mucho más que el precio que estás viendo aquí personalmente yo he invertido más
+
+706
+01:03:41,969 --> 01:03:46,889
+de 25 mil dólares para tener acceso a la información que vas a obtener en este
+
+707
+01:03:46,889 --> 01:03:50,889
+programa y eso sólo fue educación a lo largo de los años y a eso le
+
+708
+01:03:50,889 --> 01:03:55,809
+agregamos el refinamiento la recopilación de data la aplicación
+
+709
+01:03:55,809 --> 01:04:00,170
+real de estos métodos mi experiencia trabajando en firmas de trading
+
+710
+01:04:00,170 --> 01:04:04,969
+corporaciones trabajando con un equipo de trades profesionales y todo el tiempo
+
+711
+01:04:04,969 --> 01:04:09,809
+que he dedicado en organizar este conocimiento de una manera simple de una
+
+712
+01:04:09,809 --> 01:04:15,449
+manera práctica y directo al punto esta debería ser una inversión obvia para
+
+713
+01:04:15,449 --> 01:04:20,530
+tu futuro es más siendo totalmente honesta contigo cuando yo empecé a hacer
+
+714
+01:04:20,530 --> 01:04:25,010
+trading yo no tenía ese dinero que te dije que invertí en educación yo no
+
+715
+01:04:25,010 --> 01:04:29,650
+podía simplemente sacar de mi bolsillo 20 mil dólares para invertir en
+
+716
+01:04:29,690 --> 01:04:35,170
+educación aunque eso hubiese deseado sinceramente la razón por la que pude
+
+717
+01:04:35,170 --> 01:04:41,170
+hacerlo fue porque mi esposo creyó en mí y decidió apoyarme sin él yo no hubiese
+
+718
+01:04:41,170 --> 01:04:46,010
+podido acceder a los círculos de personas que guiaron mi camino y porque
+
+719
+01:04:46,010 --> 01:04:51,849
+entiendo que a veces es el tamaño de la inversión el obstáculo por esa
+
+720
+01:04:51,849 --> 01:04:55,929
+razón porque yo también tengo el mismo problema es que decidí darte
+
+721
+01:04:55,929 --> 01:05:02,449
+acceso a este programa no por 25 mil dólares ni siquiera por 3.960 dólares
+
+722
+01:05:02,449 --> 01:05:09,530
+sino por solamente 1397 dólares y te lo digo con total honestidad lo que
+
+723
+01:05:09,530 --> 01:05:14,489
+aprenderás aquí vale miles y miles de dólares esto es literalmente una
+
+724
+01:05:14,489 --> 01:05:20,610
+oportunidad que va a cambiar tu vida pero como quiero mantener el precio lo
+
+725
+01:05:20,610 --> 01:05:24,530
+más accesible posible por un valor que yo hubiese podido pagar cuando
+
+726
+01:05:24,530 --> 01:05:30,250
+comencé el valor final del programa simplemente será de 1397 dólares y
+
+727
+01:05:30,250 --> 01:05:35,409
+aparte de eso como el último módulo el módulo 8 aún no se ha publicado
+
+728
+01:05:35,409 --> 01:05:40,489
+oficialmente en la plataforma sólo por tiempo limitado mientras terminamos de
+
+729
+01:05:40,489 --> 01:05:44,449
+publicar este último modo de escalamiento el valor del programa va a
+
+730
+01:05:44,449 --> 01:05:50,210
+ser únicamente de 909 dólares y este descuento está disponible solo hasta
+
+731
+01:05:50,210 --> 01:05:53,849
+que el módulo 8 el módulo de escalamiento se publica así que es
+
+732
+01:05:53,849 --> 01:05:59,010
+un descuento exclusivo del 35 por ciento del valor regular de nuestro programa y
+
+733
+01:05:59,010 --> 01:06:03,289
+también tenemos dos modalidades de pago tienes la oportunidad de entrar el
+
+734
+01:06:03,289 --> 01:06:11,289
+programa con dos pagos de 594 dólares o cuatro pagos de 324 dólares o puedes
+
+735
+01:06:11,289 --> 01:06:16,170
+tomar el programa por un solo pago de 909 dólares que es la mejor opción
+
+736
+01:06:16,170 --> 01:06:23,530
+porque 388 dólares en comparación del plan de cuatro pagos y realmente no hay
+
+737
+01:06:23,570 --> 01:06:28,530
+nada similar en el mercado con un precio con este este es el precio más bajo por
+
+738
+01:06:28,530 --> 01:06:33,289
+el que podrás tener acceso a este programa y de nuevo la única razón por la que el
+
+739
+01:06:33,289 --> 01:06:38,650
+precio de este programa es de 909 dólares es porque en este momento el último
+
+740
+01:06:38,650 --> 01:06:43,769
+módulo el módulo de escalamiento está en el proceso de publicación pero una
+
+741
+01:06:43,769 --> 01:06:50,090
+vez publicamos este módulo 8 el valor oficial del programa será de 1397 y
+
+742
+01:06:50,130 --> 01:06:53,969
+los planes de pago se ajustarán respectivamente a este precio así que
+
+743
+01:06:53,969 --> 01:06:59,530
+si eres una persona que realmente quieres el trading a un nivel profesional
+
+744
+01:06:59,530 --> 01:07:05,570
+esta es realmente una decisión obvia para cualquier persona que quiera aprender
+
+745
+01:07:05,570 --> 01:07:09,170
+el trading de la manera correcta y quiera convertirse en un trailer
+
+746
+01:07:09,170 --> 01:07:14,690
+rentable y consistente este programa es una oportunidad que simplemente no se
+
+747
+01:07:14,690 --> 01:07:20,550
+puede dejar pasar está no tiene que ser una decisión difícil o estresante si
+
+748
+01:07:20,550 --> 01:07:25,590
+eres un trader serio que realmente quiera ser trading a un alto nivel en el
+
+749
+01:07:25,590 --> 01:07:30,630
+menor tiempo posible con métodos comprobados paso a paso utilizados por
+
+750
+01:07:30,630 --> 01:07:35,909
+firmas de trading trades profesionales y gestores de capital de una forma
+
+751
+01:07:35,909 --> 01:07:41,349
+organizada comprensiva y directo al punto adquiere el programa ahora mismo
+
+752
+01:07:41,429 --> 01:07:47,710
+porque si tomas acción si te inscribes durante esta clase tendrás acceso a todo el
+
+753
+01:07:47,710 --> 01:07:53,510
+programa de trading profesional con acceso de por vida con un 35 por ciento de
+
+754
+01:07:53,510 --> 01:07:59,469
+descuento y solamente está disponible por medio de esta clase y antes de que se
+
+755
+01:07:59,469 --> 01:08:05,030
+publique el último módulo que es el módulo 8 de escalamiento así que si
+
+756
+01:08:05,030 --> 01:08:09,230
+haces clic en el botón que está aquí a la derecha de tu pantalla este
+
+757
+01:08:09,230 --> 01:08:13,429
+botón verde te llevará directamente a la página de inscripción de trading
+
+758
+01:08:13,429 --> 01:08:18,109
+profesional donde podrás inscribirte y comenzar con el programa de trading
+
+759
+01:08:18,109 --> 01:08:22,789
+profesional ahora mismo por ahora quiero mostrarte uno de los casos más
+
+760
+01:08:22,789 --> 01:08:27,229
+recientes de mis estudiantes y después te explicaré cómo funciona nuestra
+
+761
+01:08:27,229 --> 01:08:32,829
+garantía de evolución de dinero para que veas cómo esta decisión es 100%
+
+762
+01:08:32,829 --> 01:08:37,149
+libre de riesgo este es uno de nuestros estudiantes su nombre es salvador
+
+763
+01:08:37,189 --> 01:08:41,710
+salvador se sentía atrapado en un ciclo de estancamiento del que no podía salir
+
+764
+01:08:41,710 --> 01:08:46,789
+veía vídeos consumía mucha información intentó prender de muchas formas pero
+
+765
+01:08:46,789 --> 01:08:52,149
+seguía exactamente en el mismo lugar 100 resultados y sin claridad de qué hacer
+
+766
+01:08:52,149 --> 01:08:57,310
+ni de cómo hacerlo aparte de eso salvador tenía otros obstáculos adicionales
+
+767
+01:08:57,310 --> 01:09:02,270
+tenía una difícil relación con el dinero tenía poco control emocional con
+
+768
+01:09:02,270 --> 01:09:06,590
+el dinero también tenía esa sensación constante de que no estaba avanzando
+
+769
+01:09:06,789 --> 01:09:11,470
+y aparte de eso tenía un trabajo bastante demandante salvador estaba
+
+770
+01:09:11,470 --> 01:09:15,630
+trabajando entre ocho y diez horas al día seis días a la semana en un trabajo
+
+771
+01:09:15,630 --> 01:09:20,710
+físico demandante a pesar de todos estos obstáculos él entendió algo muy
+
+772
+01:09:20,710 --> 01:09:24,789
+importante entendió que si él no cambiaba lo que estaba haciendo su
+
+773
+01:09:24,789 --> 01:09:29,670
+futuro iba a seguir siendo exactamente igual porque nada iba a cambiar si
+
+774
+01:09:29,670 --> 01:09:35,189
+él no cambiaba primero así que él comenzó a hacer cambios invirtió en su
+
+775
+01:09:35,590 --> 01:09:39,510
+educación comenzó el programa de trading profesional se comprometió a seguir el
+
+776
+01:09:39,510 --> 01:09:44,829
+proceso paso a paso y a no buscar por atajos ni a modificar reglas simplemente
+
+777
+01:09:44,829 --> 01:09:50,390
+a seguir el método también sacrificó tiempo social sacrificó entretenimiento e
+
+778
+01:09:50,390 --> 01:09:55,109
+incluso pausó su gimnasio un poco para tener más tiempo de energía para
+
+779
+01:09:55,109 --> 01:10:00,630
+dedicarle a este proceso también salvador adaptó su trading a su estilo de vida
+
+780
+01:10:00,630 --> 01:10:04,750
+actual en vez de forzar trading mientras estaba en el trabajo o cuando
+
+781
+01:10:04,750 --> 01:10:09,750
+estaba totalmente cansado supo que tenía poco tiempo y poca energía y tenía
+
+782
+01:10:09,750 --> 01:10:14,470
+que asegurarse de que le daba una ventana de tiempo a trading que se adaptara a su
+
+783
+01:10:14,470 --> 01:10:19,750
+estilo de vida actual y también priorizó su descanso dejó de trasnochar y se
+
+784
+01:10:19,750 --> 01:10:26,029
+enfocó en descansar bien y esta es su situación actual y su testimonio no fue
+
+785
+01:10:26,029 --> 01:10:30,470
+fácil al principio pero seguir el proceso paso a paso me ayudó a ordenar
+
+786
+01:10:30,789 --> 01:10:35,390
+todo mi forma de operar mi relación con el riesgo y sobre todo mi mentalidad
+
+787
+01:10:35,390 --> 01:10:39,550
+ya yo aplicando lo que aprendí en el programa desde el año pasado y hoy
+
+788
+01:10:39,550 --> 01:10:45,470
+puedo decir que soy un trader rentable y consistente este mes está por terminar y
+
+789
+01:10:45,470 --> 01:10:51,430
+llevo más de 19 mil dólares operando de una a tres veces por semana sin necesidad
+
+790
+01:10:51,430 --> 01:10:56,750
+dejar mi trabajo y sin tomar riesgo sin necesarios y aparte del dinero lo que
+
+791
+01:10:56,750 --> 01:11:02,829
+más valoro es la tranquilidad de saber que lo que estoy haciendo realmente funciona
+
+792
+01:11:02,829 --> 01:11:07,310
+y aquí podemos ver las estadísticas de salvador de este último mes donde
+
+793
+01:11:07,310 --> 01:11:12,670
+solamente estaba operando de una a dos veces por semana sin dejar su trabajo y
+
+794
+01:11:12,670 --> 01:11:16,949
+manteniendo su estilo de vida o también tenemos el caso de Steve a quien nos
+
+795
+01:11:16,949 --> 01:11:20,949
+compartió un poco de su historia y en resumen Steve comenzó en trading
+
+796
+01:11:20,949 --> 01:11:25,430
+porque estaba cansado de vivir de mes a mes y comenzó a pensar en su futuro
+
+797
+01:11:25,590 --> 01:11:30,390
+y en la estabilidad financiera para su vejez después de ser estafado con cursos
+
+798
+01:11:30,390 --> 01:11:34,829
+señales y falsas promesas decidió darse una última oportunidad con nuestro
+
+799
+01:11:34,829 --> 01:11:39,350
+programa él dice que fue una bendición encontrarse con nosotros que
+
+800
+01:11:39,350 --> 01:11:44,869
+finalmente comenzó a entender lo que era trading en realidad y a pesar de
+
+801
+01:11:44,869 --> 01:11:49,430
+que sintió dudas al principio y algo de miedo durante el proceso se dio cuenta
+
+802
+01:11:49,430 --> 01:11:53,710
+que era normal que era cuestión de seguir todo al pie de la letra y ahora
+
+803
+01:11:53,710 --> 01:11:59,350
+está infinitamente agradecido Steve ahora es un trader consistente y rentable
+
+804
+01:11:59,350 --> 01:12:05,470
+mes tras mes tras mes en promedio Steve hace 40 r cada tres meses y tiene un
+
+805
+01:12:05,470 --> 01:12:10,670
+porcentaje de ganancia el 65 por ciento y un riesgo recompensa de dos r que es
+
+806
+01:12:10,670 --> 01:12:14,029
+algo promedio de la estrategia como te lo expliqué anteriormente
+
+807
+01:12:14,029 --> 01:12:19,189
+Steve en promedio aproxima 3300 dólares siguiendo el método aprendido en
+
+808
+01:12:19,189 --> 01:12:26,029
+el programa con una cuenta fundada de 50 k en ftmo haciendo scalping o también
+
+809
+01:12:26,029 --> 01:12:31,310
+podemos ver el caso de abiga il una trader con hijos trabajos y una vida bastante
+
+810
+01:12:31,310 --> 01:12:36,949
+ocupada y abiga il ahora tiene también estadística rentables aplicando nuestro
+
+811
+01:12:36,949 --> 01:12:41,670
+método comprobado con un 74 por ciento de efectividad y un riesgo
+
+812
+01:12:41,670 --> 01:12:47,109
+recompensa de 2.32 es decir que abiga el ganar 74 por ciento de las veces y
+
+813
+01:12:47,109 --> 01:12:52,550
+cuando gana en promedio gana más del doble y mes tras mes abiga il sigue
+
+814
+01:12:52,550 --> 01:12:56,949
+manteniendo estos resultados consistentes con trading siguiendo nuestro método
+
+815
+01:12:56,949 --> 01:13:01,949
+comprobado en modalidad de swing trade y te muestro estos testimonios para que veas
+
+816
+01:13:01,949 --> 01:13:07,829
+que es posible que cualquier persona que esté dispuesta a poner el trabajo y a
+
+817
+01:13:07,829 --> 01:13:12,630
+seguir el método completo paso a paso puede ver estadísticas positivas en
+
+818
+01:13:13,470 --> 01:13:19,109
+así que para recapitular esto es todo lo que recibirás al entrar al programa de
+
+819
+01:13:19,109 --> 01:13:24,029
+trading profesional el currículo completo de ocho módulos diseñado para que
+
+820
+01:13:24,029 --> 01:13:28,710
+aprendas a operar pensar y gestionar capital como un trader profesional el
+
+821
+01:13:28,710 --> 01:13:34,189
+acceso de por vida al programa para que avances a tu propio ritmo y estudies
+
+822
+01:13:34,189 --> 01:13:38,789
+siempre que lo necesites sesiones en vivo conmigo donde recibirás una
+
+823
+01:13:38,789 --> 01:13:44,989
+guía personalizada donde podré resolver tus dudas directamente más un año de
+
+824
+01:13:44,989 --> 01:13:49,710
+acompañamiento en nuestra comunidad privada de trading profesional aparte de
+
+825
+01:13:49,710 --> 01:13:55,149
+eso recibirás documentos folletos y herramientas exclusivas que van a
+
+826
+01:13:55,149 --> 01:13:59,590
+acelerar y a complementar tu aprendizaje y también compartiré contigo el
+
+827
+01:13:59,590 --> 01:14:03,710
+bonus de el sistema de hábitos del trader profesional un proceso para
+
+828
+01:14:03,710 --> 01:14:08,750
+acelerar tu camino a la rentabilidad y el bonus 2 que es la plantilla del
+
+829
+01:14:08,750 --> 01:14:14,989
+dinero y todo esto con un 35 por ciento descuento disponible solo mientras el
+
+830
+01:14:14,989 --> 01:14:19,149
+módulo 8 el módulo de escalamiento termina de publicarse en el programa porque
+
+831
+01:14:19,149 --> 01:14:23,670
+para el momento en el que este último módulo esté listo y pues suba la
+
+832
+01:14:23,670 --> 01:14:30,029
+plataforma el valor del programa será de su precio original de 1397 dólares pero
+
+833
+01:14:30,029 --> 01:14:34,909
+por ahora porque estamos en este periodo de registro anticipado recibirás
+
+834
+01:14:34,909 --> 01:14:40,069
+acceso a todo el programa de trading profesional de por vida con sesiones en
+
+835
+01:14:40,069 --> 01:14:44,989
+vivo con un año de guía y soporte personalizado acceso a los módulos de
+
+836
+01:14:44,989 --> 01:14:49,550
+reprogramación mental para traders aparte de eso recibirás documentos
+
+837
+01:14:49,550 --> 01:14:55,069
+folletos y herramientas exclusivas que van a acelerar y a complementar tu
+
+838
+01:14:55,069 --> 01:14:59,350
+aprendizaje el bono del sistema de hábitos del trader profesional y la
+
+839
+01:14:59,350 --> 01:15:04,069
+plantilla para que aprendas a manejar tu dinero como un gestor de capital y
+
+840
+01:15:04,069 --> 01:15:08,470
+aparte de eso tendrás nuestra garantía de devolución de dinero si este
+
+841
+01:15:08,470 --> 01:15:14,630
+programa no es para ti de volveremos el valor de tu inversión para que tomes una
+
+842
+01:15:14,630 --> 01:15:19,989
+decisión informada y puedas ver desde adentro todo lo que incluye el programa
+
+843
+01:15:19,989 --> 01:15:24,189
+de trading profesional solo tienes que hacer clic en el botón verde que está
+
+844
+01:15:24,189 --> 01:15:29,109
+aquí a la derecha de tu pantalla y ese botón te llevará directamente a la
+
+845
+01:15:29,109 --> 01:15:33,630
+página de registro de trading profesional que se verá algo así aquí
+
+846
+01:15:33,630 --> 01:15:38,229
+vas a poder elegir la opción de pago que mejor se apta a ti puedes comenzar pagando
+
+847
+01:15:38,229 --> 01:15:44,590
+324 dólares hoy y unirte con un plan de pagos ya sea de cuatro pagos o de dos
+
+848
+01:15:44,590 --> 01:15:52,229
+pagos de 594 o también puedes elegir un pago único de 909 dólares que es la
+
+849
+01:15:52,229 --> 01:15:57,390
+mejor opción porque te ahorras casi 400 dólares en comparación al plan de
+
+850
+01:15:57,390 --> 01:16:02,590
+pagos y una vez que elijas la mejor opción para ti se abrirá la página de
+
+851
+01:16:02,630 --> 01:16:07,949
+pagó donde en solo un par de minutos vas a completar toda tu información tu nombre
+
+852
+01:16:07,949 --> 01:16:13,670
+tu correo la información de tu método de pago y después de completar tu pago se
+
+853
+01:16:13,670 --> 01:16:17,949
+abrirá esa página de bienvenida en la parte inferior encontrarás un botón
+
+854
+01:16:17,949 --> 01:16:23,149
+para crear tu cuenta al hacer clic en crear mi cuenta se va a abrir una página
+
+855
+01:16:23,149 --> 01:16:26,949
+donde verás colocar tu nombre tu correo electrónico y tu país de
+
+856
+01:16:26,949 --> 01:16:31,989
+residencia para crear tu usuario y una vez creado tu usuario en unos
+
+857
+01:16:31,989 --> 01:16:36,390
+minutos recibirás un correo electrónico para crear tu contraseña y para
+
+858
+01:16:36,390 --> 01:16:41,390
+acceder al programa a la comunidad privada de internet profesional y también a los
+
+859
+01:16:41,390 --> 01:16:47,430
+bonos exclusivos por haber tomado acción durante esta clase y ya eso es todo una
+
+860
+01:16:47,430 --> 01:16:51,949
+vez que crees tu usuario así es como se verá el programa por dentro primero
+
+861
+01:16:51,949 --> 01:16:56,069
+te daré la bienvenida en nuestro módulo introductorio donde te
+
+862
+01:16:56,069 --> 01:17:00,189
+explicaré el panorama general del programa y te compartiré algunas
+
+863
+01:17:00,229 --> 01:17:06,310
+recomendaciones clave para que pueda sacarle el mayor provecho al contenido a
+
+864
+01:17:06,310 --> 01:17:11,630
+la comunidad y a las clases en vivo y ya estás listo para comenzar con el módulo
+
+865
+01:17:11,630 --> 01:17:17,590
+1 así que recuerda que ahora estamos en una ventana especial donde tendrás
+
+866
+01:17:17,590 --> 01:17:21,949
+acceso a un precio preferencial para entrar el programa solo mientras el
+
+867
+01:17:21,949 --> 01:17:26,750
+módulo 8 termina de publicarse en la plataforma porque el precio regular de
+
+868
+01:17:26,750 --> 01:17:32,510
+este programa es de 1397 dólares y hoy puedes entrar con un ahorro de casi
+
+869
+01:17:32,510 --> 01:17:38,630
+400 dólares simplemente por haber tomado acción antes y si decides comenzar
+
+870
+01:17:38,630 --> 01:17:44,470
+durante esta clase además del descuento recibirás dos bonos exclusivos estos
+
+871
+01:17:44,470 --> 01:17:48,710
+dos bonos no están disponibles en ninguna otra parte solamente a través
+
+872
+01:17:48,710 --> 01:17:53,470
+de esta clase el primer bono es el sistema de hábitos del trader
+
+873
+01:17:54,270 --> 01:18:00,630
+organiza tu día y tus rutinas como un trader profesional desde el primer día en
+
+874
+01:18:00,630 --> 01:18:05,789
+esta guía vas a descubrir los hábitos más poderosos para acelerar tus
+
+875
+01:18:05,789 --> 01:18:11,109
+resultados y además también incluye una plantilla editable para que adaptes
+
+876
+01:18:11,109 --> 01:18:16,069
+cada hábito a tu horario y estilo de vida y así puedas construir desde
+
+877
+01:18:16,069 --> 01:18:20,949
+hoy una rutina ideal para ti para que sea mucho más fácil el proceso en
+
+878
+01:18:20,949 --> 01:18:26,189
+convertirte en un trader profesional y el segundo bonus será la plantilla del
+
+879
+01:18:26,189 --> 01:18:32,189
+dinero esa es una de mis plantillas favoritas y es una tabla que te ayudará a
+
+880
+01:18:32,189 --> 01:18:37,270
+organizar tus finanzas desde el principio del programa hasta el final ya
+
+881
+01:18:37,270 --> 01:18:42,149
+cuando estés comenzando a crecer tus cuentas de trading porque debes saber
+
+882
+01:18:42,149 --> 01:18:47,310
+cómo gestionar tu capital como manejar tu dinero para que puedas aumentar tu
+
+883
+01:18:47,470 --> 01:18:52,630
+potencial financiero no sólo como trader sino también como un futuro gestor de
+
+884
+01:18:52,630 --> 01:18:57,829
+capital y bueno ahora tal vez algunos de ustedes pueden estar pensando no me
+
+885
+01:18:57,829 --> 01:19:03,109
+siento cómo invirtiendo esa cantidad en un programa y quiero que aclaremos algo
+
+886
+01:19:03,109 --> 01:19:09,350
+importante desde ahora hay una gran diferencia entre gastar dinero e
+
+887
+01:19:09,350 --> 01:19:14,949
+invertir dinero un gasto es dinero que sale y no vuelve una inversión es
+
+888
+01:19:14,949 --> 01:19:21,430
+dinero que sale con el objetivo de regresar multiplicado este programa no es
+
+889
+01:19:21,430 --> 01:19:27,229
+una cartera lujosa ni un reloj de miles de dólares ni unas vacaciones de cuatro
+
+890
+01:19:27,229 --> 01:19:33,310
+días que disfruta su momento y después desaparecen esto es una inversión en ti
+
+891
+01:19:33,310 --> 01:19:39,109
+en tu mente y en tu estabilidad y libertad financiera y aparte de eso
+
+892
+01:19:39,109 --> 01:19:43,750
+esta decisión recuerda que es 100% libre de riesgo porque tienes una
+
+893
+01:19:43,750 --> 01:19:48,789
+garantía de devolución de dinero así que puedes entrar explorar el programa desde
+
+894
+01:19:48,789 --> 01:19:53,630
+adentro y ya desde tu propia experiencia decidir si esta inversión es la
+
+895
+01:19:53,630 --> 01:19:58,869
+correcta para ti sin presión porque quiero que esta decisión sea fácil para
+
+896
+01:19:58,869 --> 01:20:04,310
+ti y qué pasaría si realmente esta fuera la decisión que cambió tu futuro
+
+897
+01:20:04,310 --> 01:20:10,029
+financiero para siempre realmente tiene sentido quedarte donde estás y seguir
+
+898
+01:20:10,029 --> 01:20:15,350
+haciendo lo que no están los resultados o lo más inteligente para ti en este
+
+899
+01:20:15,350 --> 01:20:20,350
+momento es aprovechar una oportunidad como ésta con un método comprobado con
+
+900
+01:20:20,350 --> 01:20:25,829
+bonos exclusivos con acompañamiento personalizado con herramientas de alto
+
+901
+01:20:25,829 --> 01:20:31,029
+nivel con un precio preferencial y sin riesgo porque tiene garantía de
+
+902
+01:20:31,029 --> 01:20:36,909
+evolución así que si estás listo o lista para invertir en ti dale click al
+
+903
+01:20:36,909 --> 01:20:41,869
+botoncito verde que está apareciendo en tu pantalla en este momento y bueno antes
+
+904
+01:20:41,869 --> 01:20:47,430
+de comenzar con la sesión de preguntas y respuestas quiero honrar mi palabra y
+
+905
+01:20:47,430 --> 01:20:51,949
+darte en los dos obsequios que te prometí al principio de esta sesión por haber
+
+906
+01:20:51,949 --> 01:20:56,590
+llegado hasta aquí la calculadora de trading profesional y la guía de
+
+907
+01:20:56,590 --> 01:21:01,310
+evolución del trader profesional los cuales podrás descargar aquí a la
+
+908
+01:21:01,310 --> 01:21:06,159
+derecha de tu pantalla ok ahora comencemos con las preguntas y
+
+909
+01:21:06,159 --> 01:21:10,600
+respuestas más comunes que tienen las personas y que tú también puedes estar
+
+910
+01:21:10,600 --> 01:21:16,800
+teniendo en este momento ok primero cuánto tiempo me tomará a hacer dinero con
+
+911
+01:21:16,800 --> 01:21:21,359
+trading esta es una excelente pregunta y quiero responderte con total honestidad
+
+912
+01:21:21,359 --> 01:21:26,399
+yo no puedo garantizarte que vas a hacer dinero porque eso depende de ti
+
+913
+01:21:26,399 --> 01:21:31,119
+de si sigues el proceso pero lo que yo sí puedo garantizarte lo que sí
+
+914
+01:21:31,119 --> 01:21:36,039
+está bajo mi control es lo que recibirás en el programa te garantizo
+
+915
+01:21:36,039 --> 01:21:40,279
+que el método que recibirás y aprenderás en este programa este método
+
+916
+01:21:40,279 --> 01:21:46,119
+paso a paso y todas las herramientas que recibirás han sido comprobadas por años y
+
+917
+01:21:46,119 --> 01:21:52,479
+por miles de trades y por decenas de traders y funcionan están comprobadas por
+
+918
+01:21:52,479 --> 01:21:57,720
+data real lo que recibirás en trading profesional es un proceso paso a paso
+
+919
+01:21:57,720 --> 01:22:02,880
+comprobado y organizado para que en menos de seis meses puedas ver
+
+920
+01:22:02,880 --> 01:22:08,279
+estadísticas rentables y consistentes con trading así que si haces tu parte se
+
+921
+01:22:08,279 --> 01:22:13,920
+aplicas el paso a paso si usas el software de aprendizaje acelerado y todas las
+
+922
+01:22:13,920 --> 01:22:18,600
+herramientas que recibirás en el programa lo que yo sí te garantizo es que te vas a
+
+923
+01:22:18,600 --> 01:22:24,960
+ahorrar años de prueba y error años de estancamiento y mucho dinero cuando
+
+924
+01:22:24,960 --> 01:22:28,880
+empiezas a hacer las cosas de manera correcta que eso es lo que te va a
+
+925
+01:22:28,880 --> 01:22:33,640
+enseñar en este programa siguiente pregunta cuánto tiempo necesito dedicarle
+
+926
+01:22:33,640 --> 01:22:39,119
+a esto bueno es muy importante que entiendas que este no es un programa de
+
+927
+01:22:39,119 --> 01:22:43,479
+acente rico de un día para otro sin aprender y sin hacer nada aquí os
+
+928
+01:22:43,479 --> 01:22:48,319
+aprender una profesión real paso a paso con resultados medibles y procesos
+
+929
+01:22:48,319 --> 01:22:52,960
+comprobados que funcionan ahora el tiempo que podrás dedicarle a este
+
+930
+01:22:52,960 --> 01:22:58,039
+proceso dependerá de tu estilo de vida tenemos estudiantes rentables que
+
+931
+01:22:58,079 --> 01:23:03,520
+operan solo los domingos en la noche y si quieres dedicarle múltiples bloques a la
+
+932
+01:23:03,520 --> 01:23:09,800
+semana también funciona lo importante no es cuántas horas haces sino que tengas un
+
+933
+01:23:09,800 --> 01:23:16,439
+horario realista y que lo repitas semana tras semana ahora si lo que quieres es
+
+934
+01:23:16,439 --> 01:23:21,239
+tener resultados consistentes en trading lo más rápido posible te voy a dar un
+
+935
+01:23:21,239 --> 01:23:26,279
+hack que hará que esto sea posible primero tienes que comprometerte a un
+
+936
+01:23:26,279 --> 01:23:32,079
+horario semanal que sea fácil para ti tiene que ser fácil para que puedas
+
+937
+01:23:32,079 --> 01:23:37,560
+mantenerte constante a lo largo del tiempo si son sólo dos días a la semana está
+
+938
+01:23:37,560 --> 01:23:42,359
+bien siempre que lo puedas hacer semana tras semana número 2 en tu ventana de
+
+939
+01:23:42,359 --> 01:23:46,399
+estudio o en tu ventana de trading tienes que eliminar todas las
+
+940
+01:23:46,399 --> 01:23:51,319
+distracciones porque si tienes poco tiempo no hay ningún problema siempre y
+
+941
+01:23:51,319 --> 01:23:55,199
+cuando ese tiempo sea tiempo de concentración en lo que tienes que
+
+942
+01:23:55,600 --> 01:24:00,079
+hacer y número 3 sigue el método comprobado paso a paso que te enseñaré en
+
+943
+01:24:00,079 --> 01:24:04,920
+este programa así que enfócate en esos 3 hacks si quieres hacer tu proceso lo más
+
+944
+01:24:04,920 --> 01:24:09,760
+optimizado y lo más eficiente posible así que recuerda que el tiempo no va a
+
+945
+01:24:09,760 --> 01:24:14,199
+ser un problema si tu prioridad es convertirte en un trader exitoso y
+
+946
+01:24:14,199 --> 01:24:19,880
+mejorar tu calidad de vida el tiempo no va a ser un problema por ejemplo te voy
+
+947
+01:24:19,880 --> 01:24:25,239
+a contar el caso de una de mis estudiantes jennifer tenía dos trabajos y
+
+948
+01:24:25,239 --> 01:24:30,079
+también tenía que cuidar de su hija así que ella solamente podía operar
+
+949
+01:24:30,079 --> 01:24:36,119
+tal vez dos horas dos noches a la semana y de vez en cuando cuando tenía una
+
+950
+01:24:36,119 --> 01:24:41,720
+mañana libre y a pesar de tener dos trabajos con dos horarios distintos y
+
+951
+01:24:41,720 --> 01:24:46,760
+tener pues responsabilidades familiares jennifer logró que trading se
+
+952
+01:24:46,760 --> 01:24:51,920
+adaptara a su estilo de vida y comenzó a ver resultados positivos y
+
+953
+01:24:51,920 --> 01:24:56,760
+consistentes en su trading estas estadísticas que ves aquí le tomaron a
+
+954
+01:24:56,760 --> 01:25:01,680
+jennifer aproximadamente dos meses en aprender el programa y en repasar el
+
+955
+01:25:01,680 --> 01:25:07,680
+paso a paso y de ahí aproximadamente dos o tres meses tener estas estadísticas
+
+956
+01:25:07,680 --> 01:25:13,079
+con tiempo limitado y con una vida bastante ocupada y al igual que ella
+
+957
+01:25:13,079 --> 01:25:17,520
+tengo alumnos de la comunidad que cuando comenzaron no tenían mucho tiempo
+
+958
+01:25:17,520 --> 01:25:23,239
+disponible y aún así pudieron ver resultados positivos y consistentes con
+
+959
+01:25:23,239 --> 01:25:29,159
+su trading porque el método se adapta a tu estilo y a tu ritmo de vida así que no
+
+960
+01:25:29,159 --> 01:25:33,840
+te preocupes que el tiempo no va a ser un rolé siguiente pregunta necesito
+
+961
+01:25:33,840 --> 01:25:39,960
+tener experiencia previa para comenzar con el programa la respuesta es no no
+
+962
+01:25:39,960 --> 01:25:45,039
+necesitas tener experiencia previa en trading para comenzar ahora bien la
+
+963
+01:25:45,039 --> 01:25:50,279
+razón por la que este programa también es perfecto para traders con experiencia es
+
+964
+01:25:50,279 --> 01:25:55,239
+porque la mayoría de los traders que yo educó son traders que llegaron a mí
+
+965
+01:25:55,239 --> 01:26:00,600
+después de tratar por años de intentar muchas cosas muchos cursos muchas
+
+966
+01:26:00,600 --> 01:26:06,079
+estrategias por su cuenta y aún a pesar de ese esfuerzo año tras año no
+
+967
+01:26:06,079 --> 01:26:10,159
+tenían resultados consistentes por ejemplo Sergio un trader que es pues de
+
+968
+01:26:10,159 --> 01:26:15,600
+más de cuatro años aprendiendo conceptos información y estrategias por muchas
+
+969
+01:26:15,600 --> 01:26:20,199
+partes no tenía resultados en trading hasta que comenzó con nuestro programa
+
+970
+01:26:20,199 --> 01:26:24,640
+Sergio empezó practicando nuestro método luego lo trabajo en back testing y
+
+971
+01:26:24,640 --> 01:26:29,079
+demo y cuando comenzó a ver resultados consistentes en sus estadísticas tomó
+
+972
+01:26:29,079 --> 01:26:34,279
+una prueba gratuita de fondeo y después de eso accedió a su cuenta
+
+973
+01:26:35,119 --> 01:26:41,119
+todo esto sin perder dinero y sin perder tiempo extra que mandó cuentas como lo
+
+974
+01:26:41,119 --> 01:26:45,920
+hacen las personas que no pasan por el proceso correcto ahora Sergio es un
+
+975
+01:26:45,920 --> 01:26:51,600
+trader fundado como dice Sergio retirar dinero como trader fundado ha sido muy
+
+976
+01:26:51,600 --> 01:26:56,479
+significativo para mí porque me di cuenta de que el proceso si da frutos
+
+977
+01:26:56,479 --> 01:27:02,000
+cuando se aplica de manera correcta la diferencia o el punto catalítico para
+
+978
+01:27:02,119 --> 01:27:07,520
+estudiantes que ya tenían experiencia es que en trading profesional finalmente
+
+979
+01:27:07,520 --> 01:27:14,119
+encontrar un sistema estructurado paso a paso objetivo y comprobado que les
+
+980
+01:27:14,119 --> 01:27:18,439
+muestra exactamente lo que tienen que hacer y cómo hacerlo pero este programa
+
+981
+01:27:18,439 --> 01:27:22,479
+también está hecho para personas que hasta ahora están empezando con trading
+
+982
+01:27:22,479 --> 01:27:26,840
+nos vamos a asegurar de que las bases también están cubiertas porque todos
+
+983
+01:27:26,840 --> 01:27:31,560
+empezamos en niveles diferentes por ejemplo Jenny Fermejia ella comenzó
+
+984
+01:27:31,600 --> 01:27:35,840
+prácticamente desde cero y aunque al principio le costó un poco organizar
+
+985
+01:27:35,840 --> 01:27:41,000
+su rutina que eso es algo usual que pasa con traders nuevos después de unos meses
+
+986
+01:27:41,000 --> 01:27:45,199
+de organizar su tiempo y de mantenerse constante con su horario y con el
+
+987
+01:27:45,199 --> 01:27:50,880
+programa comenzó a comprender todo y hoy también tiene resultados positivos y
+
+988
+01:27:50,880 --> 01:27:55,720
+consistentes siguiendo nuestro método así que no importa si ya tienes
+
+989
+01:27:55,720 --> 01:28:00,039
+experiencia en trading o si hasta ahora estás comenzando de cero porque
+
+990
+01:28:00,039 --> 01:28:04,319
+en el programa vamos a comenzar con las bases de trading para asegurarnos de que
+
+991
+01:28:04,319 --> 01:28:09,640
+todos sin importar el nivel en el que empecemos estemos en el nivel óptimo para
+
+992
+01:28:09,640 --> 01:28:13,600
+comenzar con la estrategia maestra y con los siguientes pasos del método
+
+993
+01:28:13,600 --> 01:28:18,960
+siguiente pregunta quién soy yo para convertirme en un trade de rentar si
+
+994
+01:28:18,960 --> 01:28:22,680
+alguna vez te has hecho una pregunta como estas como quién soy yo para
+
+995
+01:28:22,680 --> 01:28:29,159
+lograr eso déjame decirte realmente con el corazón en la mano que no está
+
+996
+01:28:29,159 --> 01:28:36,720
+solo no está sola muchas personas creen que el trading es algo como que está en
+
+997
+01:28:36,720 --> 01:28:42,359
+un pedestal como que es sólo para genios o para quienes tienen títulos
+
+998
+01:28:42,359 --> 01:28:46,560
+universitarios en economía y en matemáticas como que es algo súper
+
+999
+01:28:46,560 --> 01:28:51,949
+complicado que probablemente no van a poder hacer pero créeme que eso no es
+
+1000
+01:28:51,949 --> 01:28:56,229
+verdad yo conozco traders profesionales que nunca fueron a la
+
+1001
+01:28:56,229 --> 01:29:00,310
+universidad que trabajan en firmas de trading en trading floors en
+
+1002
+01:29:00,310 --> 01:29:04,750
+corporaciones y nunca fueron a la universidad y hoy viven de trading
+
+1003
+01:29:04,750 --> 01:29:10,229
+también he trabajado junto a ingenieros que ahora se dedican al trading
+
+1004
+01:29:10,229 --> 01:29:16,510
+profesionalmente a diseñadores gráficos profesores militares enfermeras
+
+1005
+01:29:16,510 --> 01:29:23,109
+padres y madres de familia y todos ellos han visto estadísticas positivas en
+
+1006
+01:29:23,949 --> 01:29:28,510
+porque este programa está diseñado específicamente para eso para que
+
+1007
+01:29:28,510 --> 01:29:34,550
+cualquier persona sin importar tu historia o tu nivel de conocimiento en áreas de
+
+1008
+01:29:34,550 --> 01:29:39,989
+economía y matemáticas pueda aprender a operar de una forma segura rentable
+
+1009
+01:29:39,989 --> 01:29:44,909
+y consistente así que realmente no importa tu pasado ni qué hacias hace
+
+1010
+01:29:44,909 --> 01:29:50,550
+tres años ni tampoco importa cuántos años llevas intentándolo lo importante
+
+1011
+01:29:50,550 --> 01:29:56,550
+es que realmente estás dispuesto y que estás dispuesta a seguir un proceso paso a
+
+1012
+01:29:56,550 --> 01:30:02,350
+paso porque esto es importante para ti y es importante para tu futuro como sé si este
+
+1013
+01:30:02,350 --> 01:30:08,489
+es un programa legítimo y no es sólo uno esta es una pregunta totalmente
+
+1014
+01:30:08,489 --> 01:30:12,689
+válida y te entiendo porque yo también pasé por lo mismo como te comenté al
+
+1015
+01:30:12,689 --> 01:30:18,770
+principio cuando empecé invertir dinero en cursos y supuestas oportunidades que
+
+1016
+01:30:18,810 --> 01:30:23,850
+no tenían ni estructura ni resultados comprobados y perdí mi dinero y sé
+
+1017
+01:30:23,850 --> 01:30:30,010
+exactamente el nivel de desconfianza que uno tiene cuando se acerca de nuevo al
+
+1018
+01:30:30,010 --> 01:30:33,689
+trading o quiere invertir en la educación de alta calidad porque lo mismo me
+
+1019
+01:30:33,689 --> 01:30:38,170
+pasó a mí yo duré meses investigando con qué mentores iba a aprender ok
+
+1020
+01:30:38,170 --> 01:30:43,449
+sé exactamente lo que se siente además que hoy en día hay muchísimas
+
+1021
+01:30:43,449 --> 01:30:47,970
+personas hablando de trading en internet sin credenciales y sin prueba de que
+
+1022
+01:30:48,010 --> 01:30:53,010
+han tenido éxito en esa profesión por eso mi recomendación es súper simple
+
+1023
+01:30:53,010 --> 01:30:58,989
+investiga bien antes de quién vas a aprender si la persona tiene testimonios
+
+1024
+01:30:58,989 --> 01:31:03,390
+reales de personas que están satisfechas con el programa si la
+
+1025
+01:31:03,390 --> 01:31:08,390
+persona tiene la facilidad de explicar conceptos de manera clara si hay
+
+1026
+01:31:08,390 --> 01:31:13,470
+estadísticas positivas que comprueben la veracidad de su método si han estado
+
+1027
+01:31:13,470 --> 01:31:17,590
+haciendo trading de manera consistente por varios años consecutivos para
+
+1028
+01:31:17,590 --> 01:31:22,670
+considerarse personas capacitadas para enseñar el tema también si su estilo de
+
+1029
+01:31:22,670 --> 01:31:27,550
+trading y sus horarios realmente se alinean con el estilo de trading que se
+
+1030
+01:31:27,550 --> 01:31:33,189
+adapta mejor a tu estilo de vida y para responderte esas preguntas por mí misma
+
+1031
+01:31:33,189 --> 01:31:40,029
+yo en esta industria desde finales del 2017 y desde entonces me he mantenido
+
+1032
+01:31:40,029 --> 01:31:44,029
+rodeada aprendiendo directamente de traders profesionales aquí en
+
+1033
+01:31:44,029 --> 01:31:49,229
+estados unidos he ayudado personas en esta industria por más de cinco años de
+
+1034
+01:31:49,229 --> 01:31:54,310
+refinado y mejorado constantemente este método para que mis estudiantes
+
+1035
+01:31:54,310 --> 01:32:00,350
+realmente se ahorren años de prueba y error es más solamente este último año
+
+1036
+01:32:00,350 --> 01:32:04,989
+que salió la actualización el 84 por ciento de los estudiantes que
+
+1037
+01:32:04,989 --> 01:32:08,510
+comprobaron nuestro método que aprenderás en el programa el método
+
+1038
+01:32:08,510 --> 01:32:13,310
+paso a paso tuvieron estadísticas positivas consistentes con trading
+
+1039
+01:32:13,310 --> 01:32:19,029
+realmente me hace feliz me hace feliz ver el impacto positivo que estamos creando
+
+1040
+01:32:19,029 --> 01:32:25,029
+en esta industria con este programa aparte de eso no conozco otros traders
+
+1041
+01:32:25,029 --> 01:32:30,310
+profesionales de habla hispana que hayan trabajado en un trading flor aquí en
+
+1042
+01:32:30,310 --> 01:32:34,590
+estados unidos ni que lleven años trabajando para una corporación
+
+1043
+01:32:34,590 --> 01:32:39,069
+haciendo trading ni que hayan desarrollado investigaciones en
+
+1044
+01:32:39,069 --> 01:32:44,109
+dinámicas de mercado o psicología de alto rendimiento para este tipo de empresas
+
+1045
+01:32:44,109 --> 01:32:48,829
+lo cual yo yo haciendo hace dos años también he operado exitosamente en las
+
+1046
+01:32:48,829 --> 01:32:53,989
+tres sesiones principales londres nueva york y tokyu tanto de forex como en
+
+1047
+01:32:53,989 --> 01:32:58,829
+futuros y nuestro método está diseñado para adaptarse a cualquier
+
+1048
+01:32:58,829 --> 01:33:03,829
+horario ya sea que opere en la madrugada durante el día o en la noche o si
+
+1049
+01:33:03,829 --> 01:33:07,350
+prefieres dejar operaciones abiertas mientras duermes porque tienes una
+
+1050
+01:33:07,470 --> 01:33:13,550
+vida muy ocupada el método está comprobado y se adapta a diferentes estilos y
+
+1051
+01:33:13,550 --> 01:33:18,710
+ritmos de trading tengo estudiantes en varios países tengo estudiantes en
+
+1052
+01:33:18,710 --> 01:33:24,149
+australia en españa en peru en chile aquí en estados unidos en méxico en
+
+1053
+01:33:24,149 --> 01:33:29,390
+colombia argentina y canada y sin importar el país en el que vivas la
+
+1054
+01:33:29,390 --> 01:33:34,069
+realidad es que todos tenemos rutinas diferentes tenemos horarios
+
+1055
+01:33:34,069 --> 01:33:39,590
+distintos pero tenemos estadísticas positivas y consistentes con el mismo
+
+1056
+01:33:39,590 --> 01:33:44,989
+método paso a paso y tengo la prueba de mis estudiantes que en este período ya
+
+1057
+01:33:44,989 --> 01:33:49,989
+están teniendo estadísticas positivas mes tras mes de manera consecutiva y
+
+1058
+01:33:49,989 --> 01:33:54,630
+esto no se puede inventar mis estudiantes me mantienen responsable al
+
+1059
+01:33:54,630 --> 01:33:59,789
+saber que todos sus testimonios son verídicos y son compartidos realmente
+
+1060
+01:33:59,789 --> 01:34:05,630
+por cada uno de ellos siguiente pregunta que hace este programa diferente al
+
+1061
+01:34:05,630 --> 01:34:10,029
+resto mira esto no es un curso más de trading no es algo que vas a encontrar en
+
+1062
+01:34:10,029 --> 01:34:14,869
+youtube ni un método mágico que te promete resultados de un día para otro
+
+1063
+01:34:14,869 --> 01:34:18,989
+ok este es un programa profesional creado para enseñarte lo que realmente
+
+1064
+01:34:18,989 --> 01:34:23,909
+funciona paso a paso sin lecciones de relleno sin procesos confusos y sin
+
+1065
+01:34:23,909 --> 01:34:29,069
+teorías subjetivas que solo te hacen perder el tiempo porque yo también
+
+1066
+01:34:29,069 --> 01:34:35,550
+pase por eso ok cada modo ha sido optimizado y refinado por años no solo por
+
+1067
+01:34:35,550 --> 01:34:40,590
+mí sino también por mi equipo de traders por mis mentores por la firma en la que
+
+1068
+01:34:40,590 --> 01:34:45,069
+trabajé y por los cientos de estudiantes que con su retroalimentación en
+
+1069
+01:34:45,069 --> 01:34:49,949
+estos últimos cinco años me ayudaron a llevar este programa al nivel en el que
+
+1070
+01:34:49,949 --> 01:34:54,510
+está hoy en día así que aquí no vas a encontrar vacíos ni información
+
+1071
+01:34:54,510 --> 01:35:00,989
+confusa ni información contradictoria sino vas a avanzar paso a paso con un
+
+1072
+01:35:00,989 --> 01:35:07,109
+método comprobado y medible que produce estadísticas positivas consistentes
+
+1073
+01:35:07,109 --> 01:35:11,989
+porque esa es la única manera como vamos a ser consistente si tenemos un proceso
+
+1074
+01:35:11,989 --> 01:35:16,670
+que se puede repetir de la misma manera consistentemente porque realmente
+
+1075
+01:35:16,670 --> 01:35:22,470
+trading no se trata de ganar una semana sino se trata de ser rentable de
+
+1076
+01:35:22,470 --> 01:35:28,750
+manera consistente y segura ok hay muchos programas que se enfocan solamente en la
+
+1077
+01:35:28,750 --> 01:35:33,510
+parte técnica y necesitas tú también trabajar en tu mentalidad porque no
+
+1078
+01:35:33,510 --> 01:35:39,069
+basta con saber qué hacer tienes que también convertirte en la persona capaz
+
+1079
+01:35:39,069 --> 01:35:44,189
+de sostener ese éxito capaz de sostener esos resultados capaz de trabajar bajo
+
+1080
+01:35:44,189 --> 01:35:49,829
+presión para construir y seguir creciendo ok y porque la mente realmente
+
+1081
+01:35:49,829 --> 01:35:55,069
+es el motor de nuestros resultados es porque decidí trabajar y tuve el
+
+1082
+01:35:55,069 --> 01:36:00,510
+privilegio de aprender de Florencia Andrés ella es una de las coaches de
+
+1083
+01:36:00,510 --> 01:36:06,069
+mentalidad más reconocidas en el mundo han entrenado atletas para ganar copas
+
+1084
+01:36:06,069 --> 01:36:10,989
+mundiales y ha trabajado con empresas que gestionan cientos de millones de
+
+1085
+01:36:10,989 --> 01:36:15,750
+dólares y varios de los ejercicios de la programación mental que usaras en
+
+1086
+01:36:15,750 --> 01:36:19,670
+este programa de trading profesional me fueron enseñados personalmente por
+
+1087
+01:36:19,670 --> 01:36:24,510
+ella y han sido adaptados al trading además de eso también me formé
+
+1088
+01:36:24,510 --> 01:36:29,510
+presencialmente con gestores de capital y traders profesionales no aprendí a hacer
+
+1089
+01:36:29,510 --> 01:36:34,590
+trading sola viendo vídeos sino que trabajé en una firma de trading y
+
+1090
+01:36:34,590 --> 01:36:38,109
+trabajo en una corporación actualmente he tenido la oportunidad de
+
+1091
+01:36:38,109 --> 01:36:42,189
+observar en tiempo real lo que diferencia a los traders que ganan
+
+1092
+01:36:42,189 --> 01:36:48,670
+consistentemente a los que no logran sostener esos resultados y en los
+
+1093
+01:36:48,670 --> 01:36:52,029
+últimos dos años inició una investigación de trading de alto
+
+1094
+01:36:52,029 --> 01:36:57,229
+rendimiento y gestión de capital todo esto está dentro del programa los
+
+1095
+01:36:57,229 --> 01:37:03,909
+métodos más potentes para que tú también veas cambios reales en tu mente y en
+
+1096
+01:37:03,909 --> 01:37:07,630
+tu cuenta de trading en este programa vas a aprender un sistema
+
+1097
+01:37:07,630 --> 01:37:12,989
+comprobado que te permite dejar de adivinar vas a poder operar con
+
+1098
+01:37:12,989 --> 01:37:17,909
+claridad y realmente ver esta isica rentables y lo mejor de todo esto es
+
+1099
+01:37:17,909 --> 01:37:23,909
+que no estás comprando información estás comprando tiempo el objetivo y
+
+1100
+01:37:23,909 --> 01:37:29,109
+realmente lo que vas a hacer si sigues del paso a paso es ahorrarte años de vida
+
+1101
+01:37:29,109 --> 01:37:36,510
+años de prueba y error en un programa que tiene todo ya condensado en un
+
+1102
+01:37:36,510 --> 01:37:41,630
+proceso paso a paso siguiente pregunta en cuánto tiempo puedo empezar a ver
+
+1103
+01:37:41,630 --> 01:37:46,149
+resultados positivos si sigo el proceso correctamente antes de hablar del
+
+1104
+01:37:46,149 --> 01:37:51,109
+tiempo quiero que tengamos claridad de algo muy importante tú estás invirtiendo
+
+1105
+01:37:51,109 --> 01:37:56,029
+en tu educación porque estás comprometido a lograr resultados en trading
+
+1106
+01:37:56,029 --> 01:38:02,590
+tú no estás aquí para tratar o para ver si tal vez me va a funcionar estás aquí
+
+1107
+01:38:02,590 --> 01:38:07,029
+porque lo vas a hacer estás aquí porque vas a convertirte en un trader
+
+1108
+01:38:07,029 --> 01:38:13,390
+profesional y vas a ser un trader rentable ahora muchas personas prometen
+
+1109
+01:38:13,390 --> 01:38:18,270
+resultados rápidos en trading de trading en una semana de enero rápido no pierdes
+
+1110
+01:38:18,270 --> 01:38:24,189
+nunca de mil a un millón de dólares en un mes pero probablemente tú ya pasaste por
+
+1111
+01:38:24,189 --> 01:38:31,029
+eso y sabes que eso no funciona hacer trading como un profesional de forma
+
+1112
+01:38:31,029 --> 01:38:36,390
+consistente rentable y segura no se logra de un día para otro y esto ya
+
+1113
+01:38:36,390 --> 01:38:41,109
+lo sabes ahora lo que aprenderás en este programa te va a dar la claridad y
+
+1114
+01:38:41,149 --> 01:38:46,189
+la confianza porque vas a entender lo que realmente es hacer trading a un nivel
+
+1115
+01:38:46,189 --> 01:38:52,470
+profesional así que aprender esto va a ser rápido ahora si hablamos de resultados
+
+1116
+01:38:52,470 --> 01:38:59,630
+financieros en trading en promedio lleva entre seis a nueve meses y si puede que
+
+1117
+01:38:59,630 --> 01:39:04,710
+allá afuera hayan personas prometiéndote resultados extraordinarios
+
+1118
+01:39:04,710 --> 01:39:09,829
+diciéndote te vas a volver rico rápido con mi curso de una semana pero si de
+
+1119
+01:39:09,829 --> 01:39:15,869
+verdad quieres convertirte en un trader rentable tienes que hacer las cosas mejor
+
+1120
+01:39:15,869 --> 01:39:20,869
+que el resto y para hacerlo mejor que el resto tienes que hacerlo diferente la
+
+1121
+01:39:20,869 --> 01:39:25,430
+mayoría tienes que volverte en un buen trader que puede mantener esos resultados
+
+1122
+01:39:25,430 --> 01:39:29,710
+de manera consistente aquí entre el profesional no estamos en búsqueda de
+
+1123
+01:39:29,710 --> 01:39:34,270
+una ganancia rápida o un tiquete de lotería nuestro objetivo es construir
+
+1124
+01:39:34,270 --> 01:39:39,350
+un negocio sólido que genere ganancias constantes y sostenibles de
+
+1125
+01:39:39,350 --> 01:39:46,189
+manera segura porque la verdad es que solo los traders consistentes son los que
+
+1126
+01:39:46,189 --> 01:39:51,869
+van a poder crecer siguiente pregunta yo soy una persona muy emocional que pasa
+
+1127
+01:39:51,869 --> 01:39:58,310
+si no logro controlar mis impulsos o mis miedos mira yo también era así era muy
+
+1128
+01:39:58,310 --> 01:40:04,829
+muy emocional tenía expectativas falsas de lo que realmente era hacer trading y
+
+1129
+01:40:04,829 --> 01:40:12,270
+cuando tenía una racha de pérdidas me invadía la culpa la duda el miedo hasta
+
+1130
+01:40:12,270 --> 01:40:16,670
+yo creo que hasta la depresión y terminaba operando impulsivamente porque
+
+1131
+01:40:16,670 --> 01:40:21,909
+trataba de recuperar dinero o también cuando quería hacer dinero rápido
+
+1132
+01:40:21,909 --> 01:40:24,989
+cuando sentía que me estaba quedando atrás que todo el mundo estaba haciendo
+
+1133
+01:40:24,989 --> 01:40:29,789
+dinero menos yo me saltaba arreglas movía el stop cambiaba el target
+
+1134
+01:40:29,949 --> 01:40:36,270
+operaba con fomo mejor dicho no tenía control sobre mí misma por mucho tiempo
+
+1135
+01:40:36,270 --> 01:40:42,149
+y no era porque no quisiera tenerlo no era porque no quisiera esto realmente sino
+
+1136
+01:40:42,149 --> 01:40:46,829
+porque nadie me había enseñado cómo hacerlo yo no sabía cómo controlar mi
+
+1137
+01:40:46,829 --> 01:40:52,069
+riesgo no sabía cómo controlar mi sistema nervioso para operar con
+
+1138
+01:40:52,069 --> 01:40:57,869
+tranquilidad provee de todo créeme libros tengo una biblioteca llena de libros
+
+1139
+01:40:57,949 --> 01:41:03,510
+le pagué a psicólogos con precursos de mentalidad incluso trate la
+
+1140
+01:41:03,510 --> 01:41:10,470
+hipnosis o sea lo trate todo así era mi mi necesidad por empezar a ver resultados y
+
+1141
+01:41:10,470 --> 01:41:16,020
+controlar mi estado emocional pero no fue sino hasta hace algunos años que
+
+1142
+01:41:16,020 --> 01:41:20,300
+contraté a una de las mejores coches de mentalidad y de alto rendimiento en
+
+1143
+01:41:20,300 --> 01:41:25,180
+el mundo que aprendí ciertos ejercicios que cambiaron un antes y un
+
+1144
+01:41:25,260 --> 01:41:30,060
+después y logré llevar mi mente mi comportamiento y mis resultados a otro
+
+1145
+01:41:30,060 --> 01:41:36,060
+nivel sin esos pecos emocionales que antes me controlaban cuando tú aprendes
+
+1146
+01:41:36,060 --> 01:41:41,939
+a gestionar tus emociones en aprendes a manejarte a ti mismo el juego cambia
+
+1147
+01:41:41,939 --> 01:41:47,500
+por completo ahí es donde realmente subes de nivel por eso dentro de este
+
+1148
+01:41:47,500 --> 01:41:53,539
+programa también vamos a trabajar en soltar la culpa en soltar el miedo y
+
+1149
+01:41:53,539 --> 01:41:57,659
+la comparación con otras personas en crear una relación sana con tus
+
+1150
+01:41:57,659 --> 01:42:05,060
+resultados y contigo mismo contigo misma en convertirte en alguien estable en
+
+1151
+01:42:05,060 --> 01:42:10,060
+alguien estratégico en alguien en quien tú puedes confiar en momentos de
+
+1152
+01:42:10,060 --> 01:42:16,500
+presión vas a cambiar tu perspectiva frente al dinero frente a los errores y
+
+1153
+01:42:16,500 --> 01:42:20,220
+frente a ti como persona vas a elevar toda tu imagen que es un proceso por
+
+1154
+01:42:20,300 --> 01:42:25,979
+el que yo también tuve que pasar y no fue fácil pero gracias a esos ejercicios lo
+
+1155
+01:42:25,979 --> 01:42:31,180
+puede hacer y aparte de los ejercicios como vas a comprobar tus resultados antes
+
+1156
+01:42:31,180 --> 01:42:36,899
+de invertir bueno eso te va a ayudar un montón o sea tu chip cambia cuando
+
+1157
+01:42:36,899 --> 01:42:42,140
+tú tienes estadísticas positivas mes tras mes tu mentalidad cambia como que
+
+1158
+01:42:42,140 --> 01:42:46,739
+algo hace clic porque en este programa no solamente vas a aprender a hacer
+
+1159
+01:42:46,739 --> 01:42:51,779
+trading como un profesional sino también vas a aprender a comportarte y a sentirte
+
+1160
+01:42:51,779 --> 01:42:56,060
+como uno y todas estas herramientas los números de mentalidad al comprobar la
+
+1161
+01:42:56,060 --> 01:43:00,300
+estrategia el hacer los números correctos para asegurarte que estás haciendo
+
+1162
+01:43:00,300 --> 01:43:04,739
+trading de manera segura bueno todo eso te va a permitir autoregularte mucho
+
+1163
+01:43:04,739 --> 01:43:09,659
+mejor y confiar en ti confiar en tu proceso y confiar en la ericción en
+
+1164
+01:43:09,659 --> 01:43:15,300
+la que realmente vas a ir en tu vida así que recapitulemos una vez más lo
+
+1165
+01:43:15,300 --> 01:43:19,380
+que estarás recibiendo al acceder al programa de trading profesional va a
+
+1166
+01:43:19,380 --> 01:43:24,899
+ser acceso completo y de por vida a los módulos con un método comprobado paso a
+
+1167
+01:43:24,899 --> 01:43:30,100
+paso para que logres la consistencia en los resultados de manera segura en
+
+1168
+01:43:30,100 --> 01:43:34,420
+trading vas a tener acceso a las sesiones en vivo conmigo a lo largo del
+
+1169
+01:43:34,420 --> 01:43:38,899
+programa para que puedas aclarar tus dudas y pues que recibas mi guía
+
+1170
+01:43:38,899 --> 01:43:44,380
+personalmente vas a tener acceso a un año de guía y soporte dentro de nuestra
+
+1171
+01:43:44,380 --> 01:43:47,899
+comunidad privada de trading profesional vas a tener acceso a los
+
+1172
+01:43:47,899 --> 01:43:52,699
+submódulos de reprogramación mental para que fortalezcas tu mentalidad tu
+
+1173
+01:43:52,699 --> 01:43:57,619
+confianza y tu decisión emocional que es muy importante aparte de eso recibirás
+
+1174
+01:43:57,619 --> 01:44:03,220
+documentos folletos y herramientas exclusivas que van a acelerar y a
+
+1175
+01:44:03,220 --> 01:44:07,300
+complementar tu aprendizaje vas a tener acceso al bonus número uno del
+
+1176
+01:44:07,300 --> 01:44:11,020
+sistema de hábitos del trader profesional una guía práctica que
+
+1177
+01:44:11,020 --> 01:44:15,979
+va a acelerar tus resultados vas a tener acceso al bonus número dos que es la
+
+1178
+01:44:15,979 --> 01:44:20,460
+plantilla del dinero una de mis favoritas para que aprendas a manejar tus
+
+1179
+01:44:20,460 --> 01:44:26,500
+finanzas y tus cuentas como un trader profesional y como un gestor de capital y
+
+1180
+01:44:26,500 --> 01:44:32,060
+todo esto con un 35 por ciento de descuento mientras el módulo 8 el módulo
+
+1181
+01:44:32,060 --> 01:44:37,260
+de escalamiento se publica ok una vez el último módulo esté disponible y
+
+1182
+01:44:37,260 --> 01:44:42,300
+publicado en la plataforma el valor del programa será su precio original de
+
+1183
+01:44:42,300 --> 01:44:47,539
+mil 397 dólares y los planes de pago se ajustarán respectivamente a este valor
+
+1184
+01:44:47,539 --> 01:44:51,699
+pero por esta ventana de acceso anticipado vas a poder entrar al
+
+1185
+01:44:51,699 --> 01:44:55,979
+programa y tener todo lo que acaba de nombrarte anteriormente solamente por
+
+1186
+01:44:55,979 --> 01:45:02,100
+909 dólares con acceso de por vida también vas a tener una garantía de
+
+1187
+01:45:02,100 --> 01:45:06,939
+evolución de dinero del 100 por ciento si el programa no es para ti te
+
+1188
+01:45:06,939 --> 01:45:12,420
+volvemos tu dinero sin preguntas ok la mayoría de los programas con este
+
+1189
+01:45:12,420 --> 01:45:17,260
+nivel de contenido y soporte cuestan entre cinco mil seis mil dólares yo
+
+1190
+01:45:17,260 --> 01:45:22,060
+personalmente pagué casi 20 mil hace algunos años y no tenía todo este
+
+1191
+01:45:22,060 --> 01:45:28,220
+contenido pero tú puedes acceder hoy a este programa completo por sólo 909
+
+1192
+01:45:28,220 --> 01:45:34,699
+dólares así que si quieres asegurar tu acceso al menor precio posible este es el
+
+1193
+01:45:34,699 --> 01:45:39,220
+mejor momento para que comiences con tu proceso si opto por el plan de pagos
+
+1194
+01:45:39,220 --> 01:45:45,460
+igual tendré acceso a los bonos si tendrás acceso a todos los bonos sin
+
+1195
+01:45:45,460 --> 01:45:51,699
+importar si eliges el plan de pagos o el pago único ok apenas ingreses al
+
+1196
+01:45:51,699 --> 01:45:56,380
+programa todos estos bonos se vuelven tuyos tienes un tiempo límite para
+
+1197
+01:45:56,380 --> 01:46:02,260
+conocer material del programa no podrás avanzar a tu propio ritmo repasar las
+
+1198
+01:46:02,260 --> 01:46:07,619
+lecciones las veces que lo necesites y acceder a las futuras actualizaciones sin
+
+1199
+01:46:07,619 --> 01:46:13,420
+ningún costo adicional este programa es una inversión para toda tu vida no es una
+
+1200
+01:46:13,420 --> 01:46:17,380
+suscripción temporal si no puedo comenzar con el plan de pagos ahora
+
+1201
+01:46:17,380 --> 01:46:23,060
+puede ingresar después escúchame muy bien aquí uno de los peores errores
+
+1202
+01:46:23,060 --> 01:46:28,819
+que podemos cometer es creer en la ilusión que va a haber un momento perfecto en
+
+1203
+01:46:28,819 --> 01:46:33,939
+nuestras vidas para tomar acción o pensar es que no estoy listo a un es que
+
+1204
+01:46:33,939 --> 01:46:38,899
+necesito más tiempo es que necesito más dinero es que necesito más apoyo el
+
+1205
+01:46:38,899 --> 01:46:44,739
+mejor momento para comenzar es el ahora mira por ejemplo yo comencé a aprender
+
+1206
+01:46:44,739 --> 01:46:49,220
+trading como a los 10 meses de emigrar a los estados unidos tú crees que
+
+1207
+01:46:49,220 --> 01:46:54,600
+ese era el mejor momento para comenzar porque cuando llegué aquí yo estaba
+
+1208
+01:46:54,600 --> 01:46:59,000
+comenzando desde cero estaba en otro país lejos de casa mis títulos y mi
+
+1209
+01:46:59,000 --> 01:47:04,399
+experiencia laboral no valía nada estaba trabajando 10 horas al día seis días
+
+1210
+01:47:04,399 --> 01:47:11,039
+a la semana y comencé en ese momento y gracias a comenzar en ese momento fue
+
+1211
+01:47:11,039 --> 01:47:15,720
+que mi vida cambió de rumbo si me hubiese quedado esperando a tener el
+
+1212
+01:47:15,720 --> 01:47:22,159
+dinero el tiempo el apoyo a esperar por ese momento perfecto probablemente ahorita
+
+1213
+01:47:22,159 --> 01:47:27,520
+seguiría en la misma situación porque el momento perfecto no existe realmente lo que
+
+1214
+01:47:27,520 --> 01:47:33,000
+a mí me llevó a tomar acción no fue el momento perfecto yo tomé acción porque
+
+1215
+01:47:33,000 --> 01:47:38,800
+yo realmente necesitaba un cambio en mi vida o sea yo dije realmente necesito
+
+1216
+01:47:38,800 --> 01:47:43,760
+tiempo para mí necesito tener tiempo para compartir con mi familia estoy fuera
+
+1217
+01:47:43,760 --> 01:47:48,920
+de mi país estoy sola quiero viajar estar cerca de mis seres queridos cuando lo
+
+1218
+01:47:48,920 --> 01:47:54,439
+necesito o cuando quiero quiero también ganar en dólares viajar y tener
+
+1219
+01:47:54,439 --> 01:47:59,359
+experiencias enriquecedoras en otras partes del mundo y también quiero tener
+
+1220
+01:47:59,359 --> 01:48:04,159
+independencia financiera quiero tener algo mío donde yo no tenga que depender
+
+1221
+01:48:04,159 --> 01:48:08,680
+de un jefe ni de mi pareja ni siquiera de un país para poder vivir
+
+1222
+01:48:08,680 --> 01:48:13,239
+cómodamente y quería ser una trader profesional quería ser una
+
+1223
+01:48:13,239 --> 01:48:19,279
+profesional independiente eso era lo que yo más quería y ahora llevo más de seis
+
+1224
+01:48:19,279 --> 01:48:24,800
+años viviendo este estilo de vida y realmente agradezco agradezco agradezco
+
+1225
+01:48:24,800 --> 01:48:31,000
+realmente a esa adreana del pasado que tomó el paso para aprender que tuvo
+
+1226
+01:48:31,000 --> 01:48:36,279
+la valentía de tomar el paso a pesar de que no parecía que fuera el
+
+1227
+01:48:36,279 --> 01:48:41,479
+mejor momento a pesar de los obstáculos que estaba teniendo su vida esa adreana
+
+1228
+01:48:41,479 --> 01:48:46,880
+tomó el paso así que deja de esperar por el momento perfecto no hay un mejor
+
+1229
+01:48:46,880 --> 01:48:53,520
+momento que el ahora así que recapitulemos por última vez lo que
+
+1230
+01:48:53,520 --> 01:48:57,600
+recibirás al acceder al programa de trading profesional va a ser el
+
+1231
+01:48:57,600 --> 01:49:03,239
+programa completo de ocho módulos con un método comprobado paso a paso para
+
+1232
+01:49:03,239 --> 01:49:07,800
+que vea los resultados y tengas estadísticas consistentes en tu trading
+
+1233
+01:49:07,800 --> 01:49:14,239
+de forma segura acceso de por vida a todo el contenido sesiones en vivo conmigo para
+
+1234
+01:49:14,239 --> 01:49:19,760
+acompañarte a lo largo del proceso un año de guía y soporte constante y
+
+1235
+01:49:19,760 --> 01:49:25,199
+personalizado dentro de nuestra comunidad traders profesionales acceso a los
+
+1236
+01:49:25,199 --> 01:49:29,520
+submódulos de reprogramación mental para fortalecer tu mentalidad y tu
+
+1237
+01:49:29,520 --> 01:49:34,600
+confianza aparte de eso recibirás documentos folletos y herramientas
+
+1238
+01:49:34,600 --> 01:49:40,119
+exclusivas que van a acelerar y a complementar tu aprendizaje el bonus
+
+1239
+01:49:40,119 --> 01:49:45,159
+número uno el sistema de hábitos del trader profesional una guía paso a paso
+
+1240
+01:49:45,159 --> 01:49:49,960
+que va a acelerar tremendamente tus resultados en trading porque vas a
+
+1241
+01:49:49,960 --> 01:49:54,720
+utilizar las mejores prácticas en esta industria bonus número dos la plantilla
+
+1242
+01:49:54,720 --> 01:49:59,239
+del dinero una de mis favoritas una plantilla para manejar tus finanzas
+
+1243
+01:49:59,239 --> 01:50:05,600
+como un gestor de capital y todo esto con un 35 por ciento descuento solo durante
+
+1244
+01:50:05,600 --> 01:50:09,920
+esta ventana de acceso anticipado mientras el último módulo el módulo
+
+1245
+01:50:09,920 --> 01:50:15,079
+escalamento se publica oficialmente ya cuando el último módulo esté listo y
+
+1246
+01:50:15,079 --> 01:50:19,880
+esté subido en la plataforma el valor del programa volverá a ser o tendrá el
+
+1247
+01:50:19,880 --> 01:50:26,199
+valor real que es de 1397 dólares pero hoy puedes ingresar solo por 909
+
+1248
+01:50:26,199 --> 01:50:31,159
+dólares con acceso de por vida además que tendrás nuestra garantía de
+
+1249
+01:50:31,159 --> 01:50:36,880
+satisfacción donde si sientes que este programa no es para ti te volveremos
+
+1250
+01:50:36,880 --> 01:50:43,079
+100 por ciento tu dinero sin complicaciones y bueno por último cuál es el
+
+1251
+01:50:43,079 --> 01:50:48,439
+costo de no realizar el programa y aquí no estoy hablando solo de el dinero
+
+1252
+01:50:48,439 --> 01:50:53,920
+estoy hablando de el costo real en tu vida es tu libertad de tiempo tu
+
+1253
+01:50:53,960 --> 01:50:59,760
+libertad financiera y tu tranquilidad mental ese es el verdadero costo de no
+
+1254
+01:50:59,760 --> 01:51:05,000
+tomar este siguiente paso es seguir esperando seguir postergando seguir
+
+1255
+01:51:05,000 --> 01:51:11,439
+procrastinando seguir pensando en todo lo que pudiste haber hecho y no hiciste todas
+
+1256
+01:51:11,439 --> 01:51:16,520
+las oportunidades que dejaste pasar y cuál es la recompensa real en tu vida
+
+1257
+01:51:16,520 --> 01:51:20,640
+de prepararte para operar como un trader profesional y cuando abrió de la
+
+1258
+01:51:20,640 --> 01:51:28,199
+recompensa real en tu vida estoy hablando de la energía de cómo te vas a sentir al
+
+1259
+01:51:28,199 --> 01:51:34,319
+despertar cada mañana sabiendo que estás construyendo sobre bases sólidas saber
+
+1260
+01:51:34,319 --> 01:51:39,319
+que estás creciendo y que realmente estás teniendo consistencia con trading
+
+1261
+01:51:39,319 --> 01:51:43,560
+que estás mejorando la vida de tu familia y la de tus seres queridos que
+
+1262
+01:51:43,560 --> 01:51:48,800
+estás haciendo algo que en mi mente te gusta algo que disfrutas en tu día a día
+
+1263
+01:51:48,840 --> 01:51:55,760
+y algo que te permite crecer año tras año así que si estás listo para aprender a
+
+1264
+01:51:55,760 --> 01:52:00,720
+hacer trading como un profesional con un método paso a paso comprobado que incluye
+
+1265
+01:52:00,720 --> 01:52:06,640
+todo de manera integral un exitoso análisis de mercado un seguro manejo
+
+1266
+01:52:06,640 --> 01:52:11,760
+de tu dinero una fuerte mentalidad para crecer de manera consistente dale click
+
+1267
+01:52:11,760 --> 01:52:15,640
+al botón de inscripción y comienza con nuestro programa de trading
+
+1268
+01:52:15,640 --> 01:52:21,039
+profesional ahora mismo y recuerda que este es el mejor momento para comenzar
+
+1269
+01:52:21,039 --> 01:52:26,359
+este siguiente capítulo de tu vida espero que hayas disfrutado al igual que yo
+
+1270
+01:52:26,359 --> 01:52:30,720
+esta experiencia espero que hayas disfrutado toda la información que
+
+1271
+01:52:30,720 --> 01:52:35,079
+compartí contigo y que realmente hayas sacado cosas bastante importantes
+
+1272
+01:52:35,079 --> 01:52:39,720
+su adrena fue un seca gracias por llegar hasta aquí y espero verte
+
+1273
+01:52:39,720 --> 01:52:45,470
+pronto dentro de nuestra comunidad privada nos vemos pronto
+

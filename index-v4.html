@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="es" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Trading Profesional™ | Clase Confidencial con Adriana Fonseca</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #070A12;
+      color: #F8FAFC;
+      overflow-x: hidden;
+    }
+    .glow-emerald {
+      box-shadow: 0 0 35px -5px rgba(16, 185, 129, 0.45);
+    }
+    .glow-card {
+      background: linear-gradient(180deg, rgba(15, 23, 42, 0.88) 0%, rgba(7, 10, 18, 0.96) 100%);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .option-btn {
+      transition: all 0.18s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .option-btn:hover {
+      border-color: #10B981;
+      background-color: rgba(16, 185, 129, 0.12);
+      transform: translateY(-1px);
+    }
+    .option-btn:active {
+      transform: scale(0.99);
+    }
+    @keyframes pulse-border {
+      0%, 100% { border-color: rgba(16, 185, 129, 0.5); }
+      50% { border-color: rgba(16, 185, 129, 1); }
+    }
+    .pulse-cta {
+      animation: pulse-border 2s infinite;
+    }
+  </style>
+
+  <!-- META PIXEL BASE CODE (Reemplazar TU_PIXEL_ID) -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    // fbq('init', 'TU_PIXEL_ID');
+    // fbq('track', 'PageView');
+  </script>
+</head>
+<body class="min-h-screen flex flex-col justify-between selection:bg-emerald-500 selection:text-black">
+
+  <!-- TOP AUTHORITY BAR -->
+  <div class="w-full bg-slate-900/95 border-b border-slate-800 py-2 px-3 text-center">
+    <p class="text-xs sm:text-sm font-medium text-slate-300 tracking-wide flex items-center justify-center gap-2">
+      <span class="inline-block w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
+      <span>CLASE CONFIDENCIAL DE TRADING INSTITUCIONAL · <strong class="text-emerald-400">ADRIANA FONSECA</strong></span>
+    </p>
+  </div>
+
+  <!-- MAIN CONTAINER -->
+  <main class="flex-grow w-full max-w-4xl mx-auto px-4 pt-3 pb-10 sm:pt-6">
+
+    <!-- HEADLINE SECTION (OPTIMIZADO PARA VIEWPORT MÓVIL: REGLA DE 3 LÍNEAS ABOVE-THE-FOLD) -->
+    <div class="text-center max-w-3xl mx-auto mb-3.5 sm:mb-5">
+      <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-[11px] sm:text-xs font-semibold mb-2">
+        <span>🏛️ Trading Floor (EE. UU.) · Destacada en Bloomberg y Rankia</span>
+      </div>
+
+      <h1 class="text-xl sm:text-3xl md:text-4xl font-extrabold leading-[1.18] tracking-tight text-white">
+        Por qué el 90% quema sus Cuentas de Fondeo y el Sistema Institucional con el que <span class="bg-emerald-500/20 text-emerald-300 px-1.5 rounded">20 de 20 Traders</span> lograron <span class="text-emerald-400 underline decoration-emerald-500/40">+40R en 50 Trades</span>
+      </h1>
+    </div>
+
+    <!-- VIDEO PLAYER WRAPPER (SMART VSL PLAYER) -->
+    <div class="relative w-full max-w-3xl mx-auto rounded-2xl overflow-hidden glow-card shadow-2xl border border-slate-800 mb-4 bg-black aspect-video group">
+      
+      <video 
+        id="vslVideo" 
+        class="w-full h-full object-cover cursor-pointer"
+        playsinline
+        autoplay
+        muted
+        preload="auto"
+        poster="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80"
+      >
+        <source src="vsl_optimizado.mp4" type="video/mp4" />
+        Tu navegador no soporta video HTML5.
+      </video>
+
+      <!-- UNMUTE OVERLAY -->
+      <div 
+        id="unmuteOverlay" 
+        onclick="activateSound()"
+        class="absolute inset-0 bg-black/60 backdrop-blur-[2px] flex flex-col items-center justify-center cursor-pointer z-20 transition-opacity duration-300"
+      >
+        <div class="bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-extrabold px-6 py-4 rounded-xl shadow-2xl flex items-center gap-3 transform transition hover:scale-105 glow-emerald">
+          <svg class="w-7 h-7 animate-bounce" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/>
+          </svg>
+          <div class="text-left">
+            <div class="text-base sm:text-lg leading-tight">EL VIDEO YA COMENZÓ</div>
+            <div class="text-xs font-semibold opacity-90">Haz clic aquí para escuchar con sonido</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- PAUSE OVERLAY -->
+      <div 
+        id="pauseOverlay" 
+        onclick="resumeVideo()"
+        class="hidden absolute inset-0 bg-black/70 flex flex-col items-center justify-center cursor-pointer z-10"
+      >
+        <div class="bg-white/10 border border-white/20 backdrop-blur-md px-6 py-4 rounded-xl text-center">
+          <p class="text-white font-bold text-lg mb-1">⏸️ No pierdas el hilo matemático</p>
+          <p class="text-emerald-400 text-xs font-medium">Haz clic para continuar viendo la clase</p>
+        </div>
+      </div>
+
+      <!-- SMART PROGRESS BAR (Dopamine Fast-Start Curve) -->
+      <div class="absolute bottom-0 left-0 right-0 h-2.5 bg-slate-900/90 z-30">
+        <div 
+          id="smartProgressBar" 
+          class="h-full bg-gradient-to-r from-emerald-500 to-teal-300 transition-all duration-200"
+          style="width: 0%;"
+        ></div>
+      </div>
+    </div>
+
+    <!-- PRIMARY CTA SECTION -->
+    <div class="max-w-xl mx-auto text-center">
+      <button 
+        onclick="openQuizModal()"
+        class="w-full py-4 sm:py-5 px-6 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black text-base sm:text-xl tracking-tight glow-emerald transition transform hover:-translate-y-0.5 active:translate-y-0 flex items-center justify-center gap-2 border-2 border-emerald-300 pulse-cta"
+      >
+        <span>EVALUAR SI CALIFICO Y VER DISPONIBILIDAD</span>
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+        </svg>
+      </button>
+
+      <p class="mt-3 text-xs sm:text-sm text-slate-400 flex items-center justify-center gap-1.5">
+        <span>🎁 <strong class="text-slate-200">Regalo al completar tu evaluación (45 seg):</strong> Desbloquea gratis la Calculadora Monte Carlo de Consistencia Profesional.</span>
+      </p>
+
+      <!-- CREDIBILITY STRIP (TODA LA ARTILLERÍA COMPLETA SIN RECORTES) -->
+      <div class="mt-7 pt-6 border-t border-slate-800/80 grid grid-cols-2 sm:grid-cols-4 gap-2 text-center">
+        <div class="p-2.5 rounded-lg bg-slate-900/40 border border-slate-800/60">
+          <div class="text-emerald-400 font-extrabold text-sm sm:text-base">Bloomberg & Rankia</div>
+          <div class="text-[11px] text-slate-400">Entrevistada en EE. UU. y México</div>
+        </div>
+        <div class="p-2.5 rounded-lg bg-slate-900/40 border border-slate-800/60">
+          <div class="text-emerald-400 font-extrabold text-sm sm:text-base">+40R / 50 Trades</div>
+          <div class="text-[11px] text-slate-400">20 de 20 en positivo (Hasta 110R)</div>
+        </div>
+        <div class="p-2.5 rounded-lg bg-slate-900/40 border border-slate-800/60">
+          <div class="text-emerald-400 font-extrabold text-sm sm:text-base">Trading Floor EE.UU.</div>
+          <div class="text-[11px] text-slate-400">Capital Corporativo y FTMO</div>
+        </div>
+        <div class="p-2.5 rounded-lg bg-slate-900/40 border border-slate-800/60">
+          <div class="text-emerald-400 font-extrabold text-sm sm:text-base">+1,600 Trades</div>
+          <div class="text-[11px] text-slate-400">Comprobados · +250 Alumnos</div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="w-full border-t border-slate-900 py-6 text-center text-xs text-slate-600 px-4">
+    <p>© 2026 Adriana Fonseca · Trading Profesional™. Todos los derechos reservados.</p>
+    <p class="mt-1 max-w-xl mx-auto">Operar en los mercados financieros conlleva riesgo. Los resultados de nuestro estudio (+40R promedio, 20 de 20 en positivo entre 16R y 110R) están respaldados por estadísticas reales documentadas.</p>
+  </footer>
+
+  <!-- =================================================================== -->
+  <!-- MODAL INTERACTIVO: ENCUESTA NEUROLÓGICA YES-LADDER (ZERO-SCROLL)     -->
+  <!-- =================================================================== -->
+  <div 
+    id="quizModal" 
+    class="fixed inset-0 z-50 hidden bg-black/80 backdrop-blur-md flex items-center justify-center p-3 sm:p-4"
+  >
+    <div class="w-full max-w-lg rounded-2xl glow-card border border-slate-700/80 p-5 sm:p-7 relative shadow-2xl">
+      
+      <button onclick="closeQuizModal()" class="absolute top-4 right-4 text-slate-400 hover:text-white text-sm px-2 py-1">
+        ✕
+      </button>
+
+      <!-- Progress Header -->
+      <div class="mb-5">
+        <div class="flex justify-between items-center text-xs font-semibold text-emerald-400 mb-1.5">
+          <span id="stepLabel">PASO 1 DE 6 · DIAGNÓSTICO DE PERFIL</span>
+          <span id="stepPercent">20%</span>
+        </div>
+        <div class="w-full h-2 bg-slate-800 rounded-full overflow-hidden">
+          <div id="quizProgressBar" class="h-full bg-emerald-500 transition-all duration-300" style="width: 20%;"></div>
+        </div>
+      </div>
+
+      <!-- DYNAMIC STEP CONTAINER -->
+      <div id="quizStepContainer"></div>
+
+    </div>
+  </div>
+
+  <!-- =================================================================== -->
+  <!-- SCRIPTS: SMART PLAYER + YES-LADDER QUIZ + META PIXEL FILTERING       -->
+  <!-- =================================================================== -->
+  <script>
+    const video = document.getElementById('vslVideo');
+    const unmuteOverlay = document.getElementById('unmuteOverlay');
+    const pauseOverlay = document.getElementById('pauseOverlay');
+    const smartProgressBar = document.getElementById('smartProgressBar');
+
+    function activateSound() {
+      video.muted = false;
+      video.currentTime = 0;
+      video.play();
+      unmuteOverlay.classList.add('hidden');
+    }
+
+    video.addEventListener('click', () => {
+      if (video.muted) { activateSound(); return; }
+      if (video.paused) { video.play(); pauseOverlay.classList.add('hidden'); }
+      else { video.pause(); pauseOverlay.classList.remove('hidden'); }
+    });
+
+    function resumeVideo() {
+      video.play();
+      pauseOverlay.classList.add('hidden');
+    }
+
+    video.addEventListener('timeupdate', () => {
+      if (!video.duration) return;
+      const realRatio = video.currentTime / video.duration;
+      const perceivedPercent = Math.min(100, Math.pow(realRatio, 0.45) * 100);
+      smartProgressBar.style.width = perceivedPercent.toFixed(1) + '%';
+    });
+
+    // QUIZ NEUROLÓGICO DEFINITIVO:
+    // Acepta tanto a traders con experiencia como a personas que inician desde cero y quieren hacer las cosas bien.
+    // Solo descalifica a quien NO tiene el capital (<$300 USD) o no quiere seguir un método estadístico.
+    const quizSteps = [
+      {
+        id: 'situacion',
+        label: 'PASO 1 DE 6 · TU MOMENTO ACTUAL',
+        percent: 25,
+        question: '¿Cuál es tu situación actual en el trading?',
+        sub: 'El método se adapta tanto si llevas años intentando como si empiezas desde cero:',
+        options: [
+          { text: '📈 Ya opero, pero me falta consistencia o he quemado cuentas', value: 'operando_inconsistente' },
+          { text: '🧩 Tengo mucha información suelta, pero me falta un sistema claro', value: 'frankenstein_estrategia' },
+          { text: '🚀 Estoy empezando desde cero y quiero ahorrarme años de errores', value: 'iniciando_cero' }
+        ]
+      },
+      {
+        id: 'yes_1_mecanismo',
+        label: 'PASO 2 DE 6 · VALIDACIÓN MATEMÁTICA',
+        percent: 45,
+        question: '¿Estás de acuerdo en que el problema no eres tú, sino operar sin comprobar tu estrategia en al menos 50 trades y con las matemáticas en contra?',
+        sub: 'Operar con esperanza es apostar; operar con estadísticas es Trading Profesional.',
+        options: [
+          { text: '✅ Sí, quiero un sistema comprobado por números reales (+40R)', value: 'si_estadisticas' },
+          { text: '❌ No, prefiero seguir adivinando o buscando dinero mágico', value: 'no_suerte' }
+        ]
+      },
+      {
+        id: 'yes_2_tiempo',
+        label: 'PASO 3 DE 6 · ESTILO DE VIDA Y HORARIO',
+        percent: 65,
+        question: 'Si adaptamos el trading a tu rutina actual (Forex, Índices, Futuros u Oro), ¿cuánto tiempo puedes dedicarle a la semana?',
+        sub: 'Tenemos alumnos rentables operando de 2 a 3 noches o mañanas por semana.',
+        options: [
+          { text: '⚡ Entre 4 y 6 horas por semana (2-3 sesiones enfocadas)', value: '4_a_6_horas' },
+          { text: '🔥 Más de 8 horas por semana (Enfoque acelerado)', value: 'mas_8_horas' },
+          { text: '⏳ Al menos 2 a 3 horas los fines de semana o noches', value: '2_a_3_horas' }
+        ]
+      },
+      {
+        id: 'yes_3_compromiso',
+        label: 'PASO 4 DE 6 · COMPROMISO DE ÉXITO',
+        percent: 80,
+        question: 'Si Adriana te entrega su Estrategia Maestra, su Software de Estudio Acelerado y Reprogramación Mental, ¿te comprometes a seguir el paso a paso?',
+        sub: 'En nuestro último estudio, 20 de los 20 traders que siguieron el proceso terminaron en positivo.',
+        options: [
+          { text: '🤝 Sí, 100%. Estoy listo/a para dejarme guiar paso a paso', value: 'comprometido_100' },
+          { text: '🤔 Todavía tengo dudas, pero quiero conocer el proceso', value: 'con_dudas' }
+        ]
+      },
+      {
+        id: 'filtro_capital',
+        label: 'PASO 5 DE 6 · CAPACIDAD DE INVERSIÓN',
+        percent: 92,
+        question: '¿Con qué capital dispones hoy para invertir en tu formación profesional de por vida, software exclusivo y 1 año de mentoría con Adriana?',
+        sub: 'Importante: Selecciona con sinceridad para asignarte el plan correcto en la llamada.',
+        options: [
+          { text: '🟢 Cuento con $900 a $1,400 USD listos si el programa es lo que busco', value: 'tier_1_full', qualified: true },
+          { text: '🟡 Cuento con $320 a $600 USD hoy y puedo cubrir cuotas mensuales', value: 'tier_2_split', qualified: true },
+          { text: '🔴 Cuento con menos de $300 USD y no tengo forma de invertir ahora', value: 'tier_3_broke', qualified: false }
+        ]
+      }
+    ];
+
+    let currentStepIndex = 0;
+    let userAnswers = {};
+
+    function openQuizModal() {
+      currentStepIndex = 0;
+      userAnswers = {};
+      document.getElementById('quizModal').classList.remove('hidden');
+      renderCurrentStep();
+      if (typeof fbq === 'function') fbq('trackCustom', 'QuizStarted');
+    }
+
+    function closeQuizModal() {
+      document.getElementById('quizModal').classList.add('hidden');
+    }
+
+    function renderCurrentStep() {
+      const container = document.getElementById('quizStepContainer');
+      const stepLabel = document.getElementById('stepLabel');
+      const stepPercent = document.getElementById('stepPercent');
+      const progressBar = document.getElementById('quizProgressBar');
+
+      if (currentStepIndex < quizSteps.length) {
+        const step = quizSteps[currentStepIndex];
+        stepLabel.textContent = step.label;
+        stepPercent.textContent = step.percent + '%';
+        progressBar.style.width = step.percent + '%';
+
+        let optionsHtml = step.options.map((opt) => `
+          <button 
+            onclick="selectOption('${step.id}', '${opt.value}', ${opt.qualified})"
+            class="option-btn w-full text-left p-3.5 sm:p-4 rounded-xl bg-slate-900/90 border border-slate-700/80 text-white font-semibold text-sm sm:text-base flex items-center justify-between gap-3"
+          >
+            <span>${opt.text}</span>
+            <span class="text-emerald-400 text-lg">→</span>
+          </button>
+        `).join('');
+
+        container.innerHTML = `
+          <div>
+            <h3 class="text-lg sm:text-xl font-extrabold text-white leading-snug mb-1.5">${step.question}</h3>
+            <p class="text-xs sm:text-sm text-slate-400 mb-4">${step.sub}</p>
+            <div class="space-y-2.5">${optionsHtml}</div>
+          </div>
+        `;
+      } else {
+        stepLabel.textContent = 'PASO 6 DE 6 · DESBLOQUEO DE AGENDA Y CALCULADORA';
+        stepPercent.textContent = '98%';
+        progressBar.style.width = '98%';
+
+        container.innerHTML = `
+          <form onsubmit="submitApplication(event)" class="space-y-3.5">
+            <h3 class="text-lg sm:text-xl font-extrabold text-white leading-snug">
+              ¡Último paso! ¿A dónde te enviamos la Calculadora Monte Carlo y tu acceso a la sesión con Adriana?
+            </h3>
+            <p class="text-xs text-slate-400">
+              Ingresa tu WhatsApp real para recibir tus herramientas gratuitas y confirmar tu diagnóstico.
+            </p>
+            <input type="text" id="leadName" required placeholder="Tu Nombre y Apellido" class="w-full p-3.5 rounded-xl bg-slate-900 border border-slate-700 text-white text-sm focus:border-emerald-400 focus:outline-none" />
+            <input type="email" id="leadEmail" required placeholder="Tu Mejor Correo Electrónico" class="w-full p-3.5 rounded-xl bg-slate-900 border border-slate-700 text-white text-sm focus:border-emerald-400 focus:outline-none" />
+            <input type="tel" id="leadPhone" required placeholder="WhatsApp con código de país (Ej: +57 300...)" class="w-full p-3.5 rounded-xl bg-slate-900 border border-slate-700 text-white text-sm focus:border-emerald-400 focus:outline-none" />
+            <button type="submit" class="w-full py-4 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black text-base glow-emerald transition">
+              VER DISPONIBILIDAD Y DESBLOQUEAR CALCULADORA »
+            </button>
+          </form>
+        `;
+      }
+    }
+
+    function selectOption(stepId, value, qualifiedFlag) {
+      userAnswers[stepId] = value;
+      if (typeof qualifiedFlag !== 'undefined') userAnswers.isQualified = qualifiedFlag;
+      if (stepId === 'yes_1_mecanismo' && value === 'no_suerte') userAnswers.isQualified = false;
+      currentStepIndex++;
+      renderCurrentStep();
+    }
+
+    function submitApplication(e) {
+      e.preventDefault();
+      userAnswers.name = document.getElementById('leadName').value;
+      userAnswers.email = document.getElementById('leadEmail').value;
+      userAnswers.phone = document.getElementById('leadPhone').value;
+
+      const container = document.getElementById('quizStepContainer');
+
+      if (userAnswers.isQualified) {
+        if (typeof fbq === 'function') {
+          fbq('track', 'Lead', { content_name: 'Qualified_Trader_Application', currency: 'USD', value: 909.00 });
+          fbq('track', 'SubmitApplication');
+        }
+        container.innerHTML = `
+          <div class="text-center space-y-3 py-2">
+            <div class="inline-flex items-center px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-300 text-xs font-bold">
+              ✅ PERFIL APROBADO PARA SESIÓN 1 A 1 CON ADRIANA
+            </div>
+            <h3 class="text-xl font-extrabold text-white">¡Felicidades, ${userAnswers.name.split(' ')[0]}! Calificas para tu Diagnóstico</h3>
+            <p class="text-xs sm:text-sm text-slate-300">
+              Paso 1: Selecciona abajo tu día y hora con <strong class="text-emerald-400">Adriana Fonseca</strong>.<br/>
+              Paso 2: Abre tu Calculadora Monte Carlo para simular tus ganancias antes de la llamada.
+            </p>
+            <div class="w-full bg-slate-900 rounded-xl border border-slate-700 p-4 space-y-3">
+              <a href="https://calendly.com/" target="_blank" class="block w-full py-3.5 rounded-xl bg-emerald-500 text-slate-950 font-black text-sm hover:bg-emerald-400 transition glow-emerald">
+                1. SELECCIONAR MI HORA CON ADRIANA »
+              </a>
+              <a href="calculadora-v3.html?qualified=true" class="block w-full py-3 rounded-xl bg-slate-800 text-emerald-300 font-bold text-xs hover:bg-slate-700 transition border border-emerald-500/30">
+                2. ABRIR MI CALCULADORA MONTE CARLO (+40R) »
+              </a>
+            </div>
+          </div>
+        `;
+      } else {
+        container.innerHTML = `
+          <div class="text-center space-y-3 py-3">
+            <div class="inline-flex items-center px-3 py-1 rounded-full bg-amber-500/20 text-amber-300 text-xs font-bold">
+              🎁 ACCESO A TUS HERRAMIENTAS GRATUITAS
+            </div>
+            <h3 class="text-lg sm:text-xl font-extrabold text-white">Gracias por tu sinceridad, ${userAnswers.name.split(' ')[0]}</h3>
+            <p class="text-xs sm:text-sm text-slate-300 leading-relaxed">
+              En este momento nuestras sesiones privadas 1 a 1 con Adriana están reservadas para quienes ya cuentan con la base de inversión para ingresar al programa.
+            </p>
+            <p class="text-xs sm:text-sm text-slate-300 leading-relaxed">
+              Sin embargo, para ayudarte a avanzar desde hoy, aquí tienes desbloqueada gratis la <strong>Calculadora de Consistencia y Simulación Monte Carlo</strong>:
+            </p>
+            <a href="calculadora-v3.html?qualified=false" class="block w-full py-3.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black text-sm transition">
+              ABRIR CALCULADORA DE CONSISTENCIA GRATIS »
+            </a>
+          </div>
+        `;
+      }
+    }
+  </script>
+</body>
+</html>
